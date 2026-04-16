@@ -1,0 +1,86 @@
+{
+  "temporal_audit_anchor_only": {
+    "overall": {
+      "n": 1000,
+      "recall_at_k": 0.7073333333333334,
+      "tca": 0.911,
+      "answer_accuracy": 0.911,
+      "supersession_compliance": 0.998,
+      "provenance_recall": 0.7073333333333334
+    },
+    "type0_no_supersession": {
+      "n": 250,
+      "recall_at_k": 1.0,
+      "tca": 1.0,
+      "answer_accuracy": 1.0,
+      "supersession_compliance": 1.0,
+      "provenance_recall": 1.0
+    },
+    "type1_simple_supersession": {
+      "n": 250,
+      "recall_at_k": 0.5,
+      "tca": 1.0,
+      "answer_accuracy": 1.0,
+      "supersession_compliance": 1.0,
+      "provenance_recall": 0.5
+    },
+    "type2_chain_supersession": {
+      "n": 250,
+      "recall_at_k": 0.664,
+      "tca": 0.992,
+      "answer_accuracy": 0.992,
+      "supersession_compliance": 0.992,
+      "provenance_recall": 0.664
+    },
+    "type3_cross_session": {
+      "n": 250,
+      "recall_at_k": 0.6653333333333332,
+      "tca": 0.652,
+      "answer_accuracy": 0.652,
+      "supersession_compliance": 1.0,
+      "provenance_recall": 0.6653333333333332
+    }
+  },
+  "temporal_audit_plus": {
+    "overall": {
+      "n": 1000,
+      "recall_at_k": 0.7073333333333334,
+      "tca": 0.942,
+      "answer_accuracy": 0.942,
+      "supersession_compliance": 0.998,
+      "provenance_recall": 0.7073333333333334
+    },
+    "type0_no_supersession": {
+      "n": 250,
+      "recall_at_k": 1.0,
+      "tca": 1.0,
+      "answer_accuracy": 1.0,
+      "supersession_compliance": 1.0,
+      "provenance_recall": 1.0
+    },
+    "type1_simple_supersession": {
+      "n": 250,
+      "recall_at_k": 0.5,
+      "tca": 1.0,
+      "answer_accuracy": 1.0,
+      "supersession_compliance": 1.0,
+      "provenance_recall": 0.5
+    },
+    "type2_chain_supersession": {
+      "n": 250,
+      "recall_at_k": 0.664,
+      "tca": 0.992,
+      "answer_accuracy": 0.992,
+      "supersession_compliance": 0.992,
+      "provenance_recall": 0.664
+    },
+    "type3_cross_session": {
+      "n": 250,
+      "recall_at_k": 0.6653333333333332,
+      "tca": 0.776,
+      "answer_accuracy": 0.776,
+      "supersession_compliance": 1.0,
+      "provenance_recall": 0.6653333333333332
+    }
+  }
+}

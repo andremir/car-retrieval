@@ -1,0 +1,24 @@
+{
+  "train_n": 127,
+  "test_n": 32,
+  "fda_n": 500,
+  "epochs": 3,
+  "zero_shot": {
+    "ghsa_train_tca5": 0.252,
+    "ghsa_test_tca5": 0.5,
+    "fda_ood_tca5": 0.068
+  },
+  "fine_tuned": {
+    "ghsa_train_tca5": 0.3307,
+    "ghsa_test_tca5": 0.4375,
+    "fda_ood_tca5": 0.058
+  },
+  "two_stage_ceiling": {
+    "ghsa_test_tca5": 0.9688
+  },
+  "delta": {
+    "in_domain_pp": -6.2,
+    "ood_pp": -1.0,
+    "gap_to_twostage_pp": 53.1
+  }
+}

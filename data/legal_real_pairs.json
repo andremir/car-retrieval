@@ -1,0 +1,398 @@
+[
+  {
+    "id": "scotus_000",
+    "original_case": "Plessy v. Ferguson",
+    "original_citation": "163 U.S. 537 (1896)",
+    "overruling_case": "Brown v. Board of Education",
+    "overruling_citation": "347 U.S. 483 (1954)",
+    "original_text": "Citation: Plessy v. Ferguson\ncaseName: Plessy v. Ferguson\ncourt_id: scotus\ndateFiled: 1896-05-18\ndocketNumber: 210\nlexisCite: 1896 U.S. LEXIS 3390\nattorney: Mr. A. W. Tourgee and Mr. J3. F. Phillips for plaintiff in error. Mr. F. D. MeKenney was on Mr. Phillips\u2019s brief., Mr. James C. Walker filed a brief for plaintiff in error., Mr. Alexander Porter Morse for defendant in error. Mr. M. J. Cunningham, Attorney General of the State of Louisiana, and Mr. Lionel Adams were on his brief.\njudge: Brewer, Brown, Harlan",
+    "overruling_text": "Citation: Brown v. Board of Education\ncaseName: Brown v. Board of Education\ncourt_id: scotus\ndateFiled: 1955-05-31\ndocketNumber: NO 1\nlexisCite: 1955 U.S. LEXIS 734\nattorney: Robert L. Carter argued the cause for appellants in No. 1. Spottswood W. Robinson, III, argued the causes for appellants in Nos. 2 and 3. George E. C. Hayes and James M. Nabrit, Jr. argued the cause for petitioners in No. 4. Louis L. Redding argued the cause for respondents in No. 5. Thurgood Marshall argued the causes for appellants in Nos. 1, 2 and 3, petitioners in No. 4 and respondents in No. 5., On the briefs were Harold Boulware, Robert L. Carter, Jack Greenberg, Oliver W. Hill, Thurgood Marshall, Louis L. Redding, Spottswood W. Robinson, III, Charles S. Scott, William T. Coleman, Jr., Charles T. Duncan, George E. C. Hayes, Loren Miller, William R. Ming, Jr., Constance Baker Motley, James M. Nabrit, Jr., Louis H. Poliak and Frank D. Reeves for appellants in Nos. 1, 2 and 3, and respondents in No: 5; and George E. C. Hayes, James M. Nabrit, Jr., George M. Johnson, Charles W. Quick, Herbert 0. Reid, Thurgood Marshall and Robert L. Carter for petitioners in No. 4., Harold R. Fatzer, Attorney General of Kansas, argued the cause for appellees in No. 1. With him on the brief was Paul E. Wilson, Assistant Attorney General. Peter F. Caldwell filed a brief for the Board of Education of Topeka, Kansas, appellee., S. E. Rogers and Robert McC. Figg, Jr. argued the cause and filed a brief for appellees in No. 2., J. Lindsay Almond, Jr., Attorney General of Virginia, and Archibald G. Robertson argued the cause for appellees in No. 3. With them on the brief were Henry T. Wick-ham, Special Assistant to the Attorney General, T. Justin Moore, John W. Riely and T. Justin Moore, Jr., Milton D. Korman argued the cause for respondents in No. 4. With him on the brief were Vernon E. West, Chester H. Gray and Lyman J. Umstead., Joseph Donald Craven, Attorney General of Delaware, argued the cause for petitioners in No. 5. On the brief were H. Albert Young, then Attorney General, Clarence W. Taylor, Deputy Attorney General, and Andrew D. Christie, Special Deputy to the Attorney General., In response to the Court\u2019s invitation, 347 U. S. 483,495-496, Solicitor General Sobeloff participated in the oral argument for the United States. With him on the brief were Attorney General Brownell, Assistant Attorney General Rankin, Philip Elman, Ralph S. Spritzer and Alan S. Rosenthal., By invitation of the Court, 347 U. S. 483, 496, the following State officials presented their views orally as amici curiae: Thomas J. Gentry, Attorney General of Arkansas, with whom on the brief were James L. Sloan, Assistant Attorney General, and Richard B. McCulloch, Special Assistant Attorney General. Richard W. Ervin, Attorney General of Florida, and Ralph E. Odum, Assistant Attorney General, both of whom were also on a brief. C. Ferdinand Sybert, Attorney General of Maryland, with whom on the brief were Edward D. E. Rollins, then Attorney General, W. Giles Parker, Assistant Attorney General, and James H. Norris, Jr., Special-Assistant Attorney General. I. Beverly Lake, Assistant Attorney General of North Carolina, with whom on the brief were Harry McMullan, Attorney General, and T. Wade Bruton, Ralph Moody and Claude L. Love, Assistant Attorneys General. Mac Q. Williamson, Attorney General of Oklahoma, who also filed a brief. John Ben Shepperd, Attorney General of Texas, and Burnell Waldrep, Assistant Attorney General, with whom on the brief were Billy E. Lee, J. A. Amis, Jr., L. P. Lollar, J. Fred Jones, John Davenport, John Reeves and Will Davis., Phineas Indritz filed a brief for the American Veterans Committee, Inc., as amicus curiae.\njudge: Warren"
+  },
+  {
+    "id": "scotus_001",
+    "original_case": "Bowers v. Hardwick",
+    "original_citation": "478 U.S. 186 (1986)",
+    "overruling_case": "Lawrence v. Texas",
+    "overruling_citation": "539 U.S. 558 (2003)",
+    "original_text": "Citation: Bowers v. Hardwick\ncaseName: Bowers v. Hardwick\ncourt_id: scotus\ndateFiled: 1986-09-11\ndocketNumber: No. 85-140",
+    "overruling_text": "Citation: Lawrence v. Texas\ncaseName: Lawrence v. Texas\ncourt_id: scotus\ndateFiled: 2003-06-26\ndocketNumber: 02-102\nlexisCite: 2003 U.S. LEXIS 5013\nattorney: Paul M. Smith argued the cause for petitioners. With him on the briefs were William M. Hohengarten, Daniel Mach, Mitchell Ratine, Ruth E. Harlow, Patricia M. Logue, and Susan L. Sommer., Charles A. Rosenthal, Jr., argued the cause for respondent. With him on the brief were William J. Delmore III and Scott A. Durfee.*\njudge: Scalia, Kennedy, Stevens, Souter, Ginsburg, Breyer, O'Connor, Scalja, Rehnquist, Thomas"
+  },
+  {
+    "id": "scotus_002",
+    "original_case": "Adkins v. Children's Hospital",
+    "original_citation": "261 U.S. 525 (1923)",
+    "overruling_case": "West Coast Hotel Co. v. Parrish",
+    "overruling_citation": "300 U.S. 379 (1937)",
+    "original_text": "Citation: Adkins v. Children's Hospital\ncaseName: Adkins v. Children's Hospital of Columbia\ncourt_id: scotus\ndateFiled: 1923-04-09\ndocketNumber: Nos. 795 and 796\nlexisCite: 1923 U.S. LEXIS 2588\nattorney: \u25a0 Mr. Felix Frankfurter, with whom Mr. Francis H* Stephens was on the brief, for appellants., Mr. Wade H. Ellis and Mr. Challen B. Ellis, with whom Mr, Joseph W. Folk was on the brief, for appellees., Mr. William L. Brewster, by leave of court, on behalf of the States of Oregon, New York, California, Kansas, Wisconsin and Washington, as amicus curiae.\njudge: Sutherland, Taft, Holmes, Brand\u00e9is, Sanford",
+    "overruling_text": "Citation: West Coast Hotel Co. v. Parrish\ncaseName: West Coast Hotel Co. v. Parrish\ncourt_id: scotus\ndateFiled: 1937-03-29\ndocketNumber: 293\nlexisCite: 1937 U.S. LEXIS 1119\nattorney: Mr. E. L. Skeel, with whom Mr. John W. Roberts was on the brief, for appellant., Messrs. C. B. Conner and Sam M. Driver filed a brief on behalf of appellees., Mr. W. A. Toner, Assistant Attorney General of Washington, Avith whom Mr. G. W. Hamilton, Attorney General, and Mr. George G. Hannan, Assistant Attorney General, were on the brief, by special leave of Court, on behalf of the State of Washington, as amicus curiae.\njudge: Butler, Hughes, McReynolds, Sutherland, Van Devanter"
+  },
+  {
+    "id": "scotus_003",
+    "original_case": "Hammer v. Dagenhart",
+    "original_citation": "247 U.S. 251 (1918)",
+    "overruling_case": "United States v. Darby",
+    "overruling_citation": "312 U.S. 100 (1941)",
+    "original_text": "Citation: Hammer v. Dagenhart\ncaseName: Hammer v. Dagenhart\ncourt_id: scotus\ndateFiled: 1918-06-03\ndocketNumber: 704\nlexisCite: 1918 U.S. LEXIS 1907\nattorney: The Solicitor General, with whom Mr. Assistant Attorney General Frierson and Mr. Robert Szold were oh the brief, for appellant., Mr. Morgan J. O\u2019Brien and Mr. W. M. Hendren, with whom Mr. Clement Manly, Mr. W. P. Bynum and Mr. Junius Parker were on the brief, for appellees:\njudge: Day, Holmes, McKenna, Brand\u00e9is, Clarke",
+    "overruling_text": "Citation: United States v. Darby\ncaseName: United States v. Darby\ncourt_id: scotus\ndateFiled: 1941-02-17\ndocketNumber: No. 82"
+  },
+  {
+    "id": "scotus_004",
+    "original_case": "Minersville School District v. Gobitis",
+    "original_citation": "310 U.S. 586 (1940)",
+    "overruling_case": "West Virginia State Bd. of Ed. v. Barnette",
+    "overruling_citation": "319 U.S. 624 (1943)",
+    "original_text": "Citation: Minersville School District v. Gobitis\ncaseName: Minersville School District v. Gobitis\ncourt_id: scotus\ndateFiled: 1940-03-04\ndocketNumber: No. 690\nattorney: Messrs. Joseph W. Henderson, Thomas F. Mount, and George M. Brodhead, Jr. for petitioners., Messrs. Hayden C. Covington and Joseph F. Rutherford for respondent.",
+    "overruling_text": "Citation: West Virginia State Bd. of Ed. v. Barnette\ncaseName: Agency for Int'l Development v. Alliance for Open Society Int'l, Inc.\ncourt_id: scotus\ndateFiled: 2013-06-20\ndocketNumber: 12-10\nlexisCite: 2013 U.S. LEXIS 4699\nattorney: Sri Srinivasan, Washington, DC, for Petitioners., David W. Bowker, Washington, DC, for Respondents., Donald B. Verrilli, Jr., Solicitor General, Stuart F. Delery, Principal Deputy Assistant Attorney General, Sri Srinivasan, Counsel of Record, Edwin S. Kneedler, Deputy Solicitors General, Jeffrey B. Wall, Assistant to the Solicitor General, Michael S. Raab, Sharon Swingle, Attorneys, Department of Justice, Washington, DC, for Petitioners., Mark C. Fleming, Wilmer Cutler Pickering Hale and Dorr LLP, Boston, MA, Jason D. Hirsch, Michael D. Gottesman, Shalev Roisman, Wilmer Cutler Pickering Hale and Dorr LLP, New York, NY, David W. Bowker, Counsel of Record, Catherine M.A. Carroll, Weili J. Shaw, Wilmer Cutler Pickering Hale and Dorr LLP, Washington, DC, Rebekah Diller, Laura Abel, New York, NY, for Respondents.\njudge: Roberts"
+  },
+  {
+    "id": "scotus_005",
+    "original_case": "Breedlove v. Suttles",
+    "original_citation": "302 U.S. 277 (1937)",
+    "overruling_case": "Harper v. Virginia Bd. of Elections",
+    "overruling_citation": "383 U.S. 663 (1966)",
+    "original_text": "Citation: Breedlove v. Suttles\ncaseName: Breedlove v. Suttles\ncourt_id: scotus\ndateFiled: 1937-12-06\ndocketNumber: 9\nlexisCite: 1937 U.S. LEXIS 546\nattorney: Messrs. J. Ira Harrelson and Henry G. Van Veen, with whom Mr. Arthur Garfield Hays was on the brief, for appellant., Messrs. W. 8. Northcutt and E. Harold Sheats, with whom Mr. Chas. B. Shelton was on the brief, for appellee.\njudge: Butler",
+    "overruling_text": "Citation: Harper v. Virginia Bd. of Elections\ncaseName: Crawford v. Marion County Election Board\ncourt_id: scotus\ndateFiled: 2008-04-28\ndocketNumber: 07-21\nlexisCite: 2008 U.S. LEXIS 3846\nattorney: Paul M. Smith argued the cause for petitioners in both cases. With him on the briefs for petitioners in No. 07-25 were Sam Hirsch, William R. Groth, and Joseph E. Sandler. Kenneth J. Falk, Jacquelyn Bowie Suess, Laughlin McDonald, Neil T. Bradley, Steven R. Shapiro, Pamela S. Karlan, Jeffrey L. Fisher, Angela Ciccolo, and Victor L. Goode filed briefs for petitioners in No. 07-21., Thomas M. Fisher, Solicitor General of Indiana, argued the cause for respondents in both eases. With him on the brief for the state respondents were Steve Carter, Attorney General, and Julie A. Brubaker and Heather L. Hagan, Deputy Attorneys General. Jon Laramore and James B. Osborn filed a brief for respondent Marion County Election Board., Solicitor General Clement argued the cause for the United States as amicus curiae urging affirmance. With him on the brief were Acting Assistant Attorney General Becker, Deputy Solicitor General Garre, Douglas Hallward-Driemeier, Diana K. Flynn, and Christy A. McCormick\u2020\njudge: Stevens, Scalia, Thomas, Alito, Souter, Ginsburg, Breyer"
+  },
+  {
+    "id": "scotus_006",
+    "original_case": "Colegrove v. Green",
+    "original_citation": "328 U.S. 549 (1946)",
+    "overruling_case": "Baker v. Carr",
+    "overruling_citation": "369 U.S. 186 (1962)",
+    "original_text": "Citation: Colegrove v. Green\ncaseName: Colegrove v. Green\ncourt_id: scotus\ndateFiled: 1946-11-18\ndocketNumber: No. 804\njudge: Application, Consideration, Took",
+    "overruling_text": "Citation: Baker v. Carr\ncaseName: Baker v. Carr\ncourt_id: scotus\ndateFiled: 1961-04-17\ndocketNumber: No. 103"
+  },
+  {
+    "id": "scotus_007",
+    "original_case": "Graves v. New York ex rel. O'Keefe",
+    "original_citation": "306 U.S. 466 (1939)",
+    "overruling_case": "Graves v. New York",
+    "overruling_citation": "306 U.S. 466 (1939)",
+    "original_text": "Citation: Graves v. New York ex rel. O'Keefe\ncaseName: Graves v. New York Ex Rel. O'Keefe\ncourt_id: scotus\ndateFiled: 1939-03-27\ndocketNumber: 478\nlexisCite: 1939 U.S. LEXIS 980\nattorney: Mr. Henry E.pstein, Solicitor General of New York, with whom Messrs. John' J. Bennett, Jr., Attorney General, Joseph M. Mesnig, and Austin. J. Tobin were on the brief, for petitioners., Mr. Daniel McNamara, Jr. for respondent., Solicitor General Jackson, with whom Assistant Attorney General Morris, and Messrs. Sewall Key and Warner W. Gardner were on the brief, for the United States, as amicus curiae, by leave of Court., By leave of Court, Messrs. Roy McKittrick, Attorney General of Missouri, and Edward H. Miller, Assistant Attorney General, filed a brief on behalf of that State, as amicus curiae, in support of petitioners.\njudge: Stone', Frankfurter, Butler, Hughes",
+    "overruling_text": "Citation: Graves v. New York\ncaseName: Graves v. New York ex rel. O'Keefe\ncourt_id: scotus\ndateFiled: 1938-12-19\ndocketNumber: No. 478\nattorney: Messrs. John J. Bennett, Attorney General of New York, Henry Epstein, Solicitor General, Joseph M. Mesnig, and Austin Tobin for petitioners., Messrs. Daniel McNamara, Jr. and Ernest K. Neumann for respondent."
+  },
+  {
+    "id": "scotus_008",
+    "original_case": "Wolf v. Colorado",
+    "original_citation": "338 U.S. 25 (1949)",
+    "overruling_case": "Mapp v. Ohio",
+    "overruling_citation": "367 U.S. 643 (1961)",
+    "original_text": "Citation: Wolf v. Colorado\ncaseName: Wolf v. Colorado\ncourt_id: scotus\ndateFiled: 1948-04-26\ndocketNumber: Nos. 593 and 594\nattorney: Philip Hornbein, Jr. for petitioner., H. Lawrence Hinkley, Attorney General of Colorado, for respondent.",
+    "overruling_text": "Citation: Mapp v. Ohio\ncaseName: Mapp v. Ohio\ncourt_id: scotus\ndateFiled: 1961-10-09\ndocketNumber: No. 236"
+  },
+  {
+    "id": "scotus_009",
+    "original_case": "Gideon v. Wainwright",
+    "original_citation": "372 U.S. 335 (1963)",
+    "overruling_case": "Argersinger v. Hamlin",
+    "overruling_citation": "407 U.S. 25 (1972)",
+    "original_text": "Citation: Gideon v. Wainwright\ncaseName: Gideon v. Wainwright\ncourt_id: scotus\ndateFiled: 1963-03-18\ndocketNumber: No. 155\nattorney: Abe Fortas, by appointment of the Court, 370 U. S. 932, argued the cause for petitioner. With him on the brief were Abe Krash and Ralph Temple., Bruce R. Jacob, Assistant Attorney General of Florida, argued the cause for respondent. With him on the brief were Richard W. Ervin, Attorney General, and A. G. Spicola, Jr., Assistant Attorney General., J. Lee Rankin, by special leave of Court, argued the cause for the American Civil Liberties Union et al., as amici curiae, urging reversal. With him on the brief were Norman Dorsen, John Dwight Evans, Jr., Melvin L. Wulf, Richard J. Medalie, Howard W. Dixon and Richard Yale Feder., George D. Mentz, Assistant Attorney General of Alabama, argued the cause for the State of Alabama, as amicus curiae, urging affirmance. With him on the brief were MacDonald Gallion, Attorney General of Alabama, T. W. Bruton, Attorney General of North Carolina, and Ralph Moody, Assistant Attorney General of North Carolina., A brief for the state governments of twenty-two States and Commonwealths, as amici curiae, urging reversal, was filed by Edward J. McCormack, Jr., Attorney General of Massachusetts, Walter F. Mondale, Attorney General of Minnesota, Duke W. Dunbar, Attorney General of Colorado, Albert L. Coles, Attorney General of Connecticut, Eugene Cook, Attorney General of Georgia, Shiro Ka-shiwa, Attorney General of Hawaii, Frank Benson, Attorney General of Idaho, William G. Clark, Attorney General of Illinois, Evan L. Hultman, Attorney General of Iowa, John B. Breckinridge, Attorney General of Kentucky, Frank E. Hancock, Attorney General of Maine, Frank J. Kelley, Attorney General of Michigan, Thomas F. Eagle-ton, Attorney General of Missouri, Charles E. Springer, Attorney General of Nevada, Mark McElroy, Attorney General of Ohio, Leslie R. Bur gum, Attorney General of North Dakota, Robert Y. Thornton, Attorney General of Oregon, J. Joseph Nugent, Attorney General of Rhode Island, A. C. Miller, Attorney General of South Dakota, John J. O\u2019Connell, Attorney General of Washington, C. Donald Robertson, Attorney General of West Virginia, and George N. Hayes, Attorney General of Alaska., Robert Y. Thornton, Attorney General of- Oregon, and Harold W. Adams, Assistant Attorney General, filed a separate brief for the State of Oregon, as amicus curiae.\njudge: Black, Clark, Douglas, Harlan",
+    "overruling_text": "Citation: Argersinger v. Hamlin\ncaseName: Argersinger v. Hamlin\ncourt_id: scotus\ndateFiled: 1972-02-22\ndocketNumber: No. 70-5015"
+  },
+  {
+    "id": "scotus_010",
+    "original_case": "Swift v. Tyson",
+    "original_citation": "41 U.S. 1 (1842)",
+    "overruling_case": "Erie Railroad Co. v. Tompkins",
+    "overruling_citation": "304 U.S. 64 (1938)",
+    "original_text": "Citation: Swift v. Tyson\ncaseName: Swift v. Tyson\ncourt_id: scotus\ndateFiled: 1842-01-25\nlexisCite: 1842 U.S. LEXIS 345\nattorney: The case'was submitted to the Court on printed arguments by Mr. Fessenden, for the plaintiff;' and by Mr. Dana, for the defendant., Mr. Dana, for- the defendant.\njudge: Story, Catron",
+    "overruling_text": "Citation: Erie Railroad Co. v. Tompkins\ncaseName: Erie Railroad v. Tompkins\ncourt_id: scotus\ndateFiled: 1938-04-25\ndocketNumber: 367\nlexisCite: 1938 U.S. LEXIS 984\nattorney: Mr. Theodore Kiendl, with whom Messrs. William C. Cannon and Harold W. Bissell were on the brief, for petitioner., Mr. Fred H. Rees, with whom Messrs. Alexander L. Strouse and William Walsh were on the brief, for respondent.\njudge: Brand\u00e9is, Butler, Reed, Cardozo, McReynolds"
+  },
+  {
+    "id": "scotus_011",
+    "original_case": "National League of Cities v. Usery",
+    "original_citation": "426 U.S. 833 (1976)",
+    "overruling_case": "Garcia v. San Antonio Metropolitan Transit Authority",
+    "overruling_citation": "469 U.S. 528 (1985)",
+    "original_text": "Citation: National League of Cities v. Usery\ncaseName: National League of Cities v. Usery\ncourt_id: scotus\ndateFiled: 1976-06-24\ndocketNumber: 74-878\nlexisCite: 1976 U.S. LEXIS 158\nattorney: Charles S. Rhyne and Calvin L. Rampton argued the cause for appellants in both cases on reargument. Mr. Rhyne argued the cause for appellants in No. 74 \u2014 878, and Talmadge R. Jones, Deputy Attorney General of California, argued the cause for appellant in No. 74^879 on the original argument. With Mr. Rhyne on the briefs in the original argument were Milton H. Sitton, Alan Davidson, Richard Oebelein, State Solicitor of Delaware, and the Attorneys General for their respective States as follows: Bruce E. Babbitt of Arizona, Theodore L. Sendak of Indiana, Richard C. Turner of Iowa, Francis B. Burch of Maryland, Francis X. Bellotti of Massachusetts, A. F. Summer of Mississippi, John C. Danforth of Missouri, Robert L. Woodahl of Montana, Paul L. Douglas of Nebraska, Robert List of Nevada, Warren B. Rudman of New Hampshire, Larry D. Derryberry of Oklahoma, R. Lee Johnson of Oregon, Daniel R. McLeod of South Carolina, William Janklow\u25a0 of South Dakota, John L. Hill of Texas, Vernon B. Romney of Utah, and David B. Kennedy of Wyoming. With Mr. Jones on the brief in the original argument were Evelle J. Younger, Attorney General of California, and Willard A. Shank, Assistant Attorney General. With Mr. Rhyne on the brief on reargument in both cases were all of the above-named counsel. Francis B. Burch, Attorney General of Maryland, Henry R. Lord, Deputy Attorney General, and Glenn E. Bushel, Assistant Attorney General, filed a brief for appellant in No. 74A878., Solicitor General Bork reargued the cause for appel-lee in both cases. With him on the briefs on reargument was Jacob I. Karro. With him on the brief on the original argument were Allan Abbot Tuttle and Mr. Karro.\u2020\njudge: Rebcnquist, Rehnquist, Burger, Stewart, Blackmun, Powell, Brennan, White, Marshall, Stevens",
+    "overruling_text": "Citation: Garcia v. San Antonio Metropolitan Transit Authority\ncaseName: Garcia v. San Antonio Metropolitan Transit Authority\ncourt_id: scotus\ndateFiled: 1988-10-11\ndocketNumber: No. 88-39"
+  },
+  {
+    "id": "scotus_012",
+    "original_case": "United States v. Scott",
+    "original_citation": "437 U.S. 82 (1978)",
+    "overruling_case": "Smalis v. Pennsylvania",
+    "overruling_citation": "476 U.S. 140 (1986)",
+    "original_text": "Citation: United States v. Scott\ncaseName: United States v. Scott\ncourt_id: scotus\ndateFiled: 1979-02-21\ndocketNumber: No. 78-881",
+    "overruling_text": "Citation: Smalis v. Pennsylvania\ncaseName: Smalis v. Pennsylvania\ncourt_id: scotus\ndateFiled: 1991-10-07\ndocketNumber: No. 91-60"
+  },
+  {
+    "id": "scotus_013",
+    "original_case": "Illinois v. Gates",
+    "original_citation": "462 U.S. 213 (1983)",
+    "overruling_case": "Aguilar v. Texas",
+    "overruling_citation": "378 U.S. 108 (1964)",
+    "original_text": "Citation: Illinois v. Gates\ncaseName: Illinois v. Gates\ncourt_id: scotus\ndateFiled: 1983-02-22\ndocketNumber: No. 81-430\njudge: Brennan, Grant, Motion",
+    "overruling_text": "Citation: Aguilar v. Texas\ncaseName: Aguilar v. Texas\ncourt_id: scotus\ndateFiled: 2016-01-11\ndocketNumber: 15-6846"
+  },
+  {
+    "id": "scotus_014",
+    "original_case": "Payne v. Tennessee",
+    "original_citation": "501 U.S. 808 (1991)",
+    "overruling_case": "Booth v. Maryland",
+    "overruling_citation": "482 U.S. 496 (1987)",
+    "original_text": "Citation: Payne v. Tennessee\ncaseName: Payne v. Tennessee\ncourt_id: scotus\ndateFiled: 2018-10-01\ndocketNumber: 17-8543",
+    "overruling_text": "Citation: Booth v. Maryland\ncaseName: Booth v. Maryland\ncourt_id: scotus\ndateFiled: 1998-10-05\ndocketNumber: No. 98-5141"
+  },
+  {
+    "id": "scotus_015",
+    "original_case": "Planned Parenthood v. Casey",
+    "original_citation": "505 U.S. 833 (1992)",
+    "overruling_case": "Roe v. Wade",
+    "overruling_citation": "410 U.S. 113 (1973)",
+    "original_text": "Citation: Planned Parenthood v. Casey\ncaseName: Lawrence v. Texas\ncourt_id: scotus\ndateFiled: 2003-06-26\ndocketNumber: 02-102\nlexisCite: 2003 U.S. LEXIS 5013\nattorney: Paul M. Smith argued the cause for petitioners. With him on the briefs were William M. Hohengarten, Daniel Mach, Mitchell Ratine, Ruth E. Harlow, Patricia M. Logue, and Susan L. Sommer., Charles A. Rosenthal, Jr., argued the cause for respondent. With him on the brief were William J. Delmore III and Scott A. Durfee.*\njudge: Scalia, Kennedy, Stevens, Souter, Ginsburg, Breyer, O'Connor, Scalja, Rehnquist, Thomas",
+    "overruling_text": "Citation: Roe v. Wade\ncaseName: McTaggart v. Roe v. Wade\ncourt_id: scotus\ndateFiled: 2004-04-26\ndocketNumber: 03-9124"
+  },
+  {
+    "id": "scotus_016",
+    "original_case": "Citizens United v. FEC",
+    "original_citation": "558 U.S. 310 (2010)",
+    "overruling_case": "Austin v. Michigan Chamber of Commerce",
+    "overruling_citation": "494 U.S. 652 (1990)",
+    "original_text": "Citation: Citizens United v. FEC\ncaseName: Salazar v. Buono\ncourt_id: scotus\ndateFiled: 2010-04-28\ndocketNumber: 08-472\nlexisCite: 2010 U.S. LEXIS 3674\nattorney: Solicitor General Kagan argued the cause for petitioners. With her on the briefs were Acting Assistant Attorney General Cruden, Deputy Solicitor General Katyal, Jeffrey B. Wall, Andrew C. Mergen, Charles R. Shockey, and Kathryn E. Kovacs., Peter J. Eliasberg argued the cause for respondent. With him on the brief were Steven R. Shapiro, Michael C. Small, Daniel Mach, and William B. Rubenstein.*\njudge: Alito, Kennedy, Roberts, Auto, Scalia, Thomas, Stevens, Ginsburg, Sotomayor, Breyer",
+    "overruling_text": "Citation: Austin v. Michigan Chamber of Commerce\ncaseName: Federal Election Commission v. Beaumont\ncourt_id: scotus\ndateFiled: 2003-06-16\ndocketNumber: 02-403\nlexisCite: 2003 U.S. LEXIS 4595\nattorney: Deputy Solicitor General Clement argued the cause for petitioner. With him on the briefs were Solicitor General Olson, Assistant Attorney General McCollum, Gregory G. Garre, Douglas N. Letter, Edward Himmelfarb, and Jonathan H. Levy., James Bopp, Jr., argued the cause for respondents. With him on the brief were Richard E. Coleson and Thomas J. Marzen.*\njudge: Souter, Rehnquist, Stevens, O'Connor, Ginsburg, Breyer, Kennedy, Thomas, Scalia"
+  },
+  {
+    "id": "scotus_017",
+    "original_case": "Dobbs v. Jackson Women's Health Organization",
+    "original_citation": "597 U.S. 215 (2022)",
+    "overruling_case": "Roe v. Wade",
+    "overruling_citation": "410 U.S. 113 (1973)",
+    "original_text": "Citation: Dobbs v. Jackson Women's Health Organization\ncaseName: Dobbs v. Jackson Women's Health Organization\ncourt_id: scotus\ndateFiled: 2022-06-24\ndocketNumber: 19-1392\njudge: Samuel Alito",
+    "overruling_text": "Citation: Roe v. Wade\ncaseName: McTaggart v. Roe v. Wade\ncourt_id: scotus\ndateFiled: 2004-04-26\ndocketNumber: 03-9124"
+  },
+  {
+    "id": "scotus_019",
+    "original_case": "Knick v. Township of Scott",
+    "original_citation": "588 U.S. 180 (2019)",
+    "overruling_case": "Williamson County Regional Planning Commission v. Hamilton Bank",
+    "overruling_citation": "473 U.S. 172 (1985)",
+    "original_text": "Citation: Knick v. Township of Scott\ncaseName: Knick v. Township of Scott\ncourt_id: scotus\ndateFiled: 2019-06-21\ndocketNumber: 17-647\nlexisCite: 2019 U.S. LEXIS 4197\nattorney: J. David Breemer, Sacramento, CA, for Petitioner., Teresa Ficken Sachs, Philadelphia, PA, for Respondents., Solicitor General Francisco for the United States as amicus curiae, by special leave of the Court, supporting the Petitioner., J. David Breemer, Meriem L. Hubbard, Brian T. Hodges, Christina M. Martin, Pacific Legal Foundation, Sacramento, CA, for Petitioner., Matthew Littleton, David T. Goldberg, Donahue, Goldberg & Weaver, LLP, Washington, DC, Teresa Ficken Sachs, Mark J. Kozlowski, Marshall Dennehey Warner Coleman & Goggin, Philadelphia, PA, for Respondents.\njudge: John G. Roberts",
+    "overruling_text": "Citation: Williamson County Regional Planning Commission v. Hamilton Bank\ncaseName: Williamson County Regional Planning Commission v. Hamilton Bank\ncourt_id: scotus\ndateFiled: 1985-02-25\ndocketNumber: No. 84-4\nlexisCite: 1985 U.S. LEXIS 1139"
+  },
+  {
+    "id": "scotus_020",
+    "original_case": "South Dakota v. Wayfair",
+    "original_citation": "585 U.S. 162 (2018)",
+    "overruling_case": "Quill Corp. v. North Dakota",
+    "overruling_citation": "504 U.S. 298 (1992)",
+    "original_text": "Citation: South Dakota v. Wayfair\ncaseName: South Dakota v. Wayfair, Inc.\ncourt_id: scotus\ndateFiled: 2018-06-21\ndocketNumber: 17-494\nlexisCite: 2018 U.S. LEXIS 3835\njudge: Anthony Kennedy",
+    "overruling_text": "Citation: Quill Corp. v. North Dakota\ncaseName: Quill Corp. v. North Dakota ex rel. Hanson\ncourt_id: scotus\ndateFiled: 1993-10-04\ndocketNumber: No. 93-11"
+  },
+  {
+    "id": "scotus_021",
+    "original_case": "McGirt v. Oklahoma",
+    "original_citation": "591 U.S. 894 (2020)",
+    "overruling_case": "Solem v. Bartlett",
+    "overruling_citation": "465 U.S. 463 (1984)",
+    "original_text": "Citation: McGirt v. Oklahoma\ncaseName: McGirt v. Oklahoma\ncourt_id: scotus\ndateFiled: 2020-01-27\ndocketNumber: No. 18-9526",
+    "overruling_text": "Citation: Solem v. Bartlett\ncaseName: Solem v. Bartlett\ncourt_id: scotus\ndateFiled: 1983-05-31\ndocketNumber: No. 82-1253\nlexisCite: 1983 U.S. LEXIS 310"
+  },
+  {
+    "id": "scotus_022",
+    "original_case": "Obergefell v. Hodges",
+    "original_citation": "576 U.S. 644 (2015)",
+    "overruling_case": "Baker v. Nelson",
+    "overruling_citation": "409 U.S. 810 (1972)",
+    "original_text": "Citation: Obergefell v. Hodges\ncaseName: Obergefell v. Hodges\ncourt_id: scotus\ndateFiled: 2015-05-04\ndocketNumber: No. 14\u2013556.\nlexisCite: 2015 U.S. LEXIS 2992",
+    "overruling_text": "Citation: Baker v. Nelson\ncaseName: Baker v. Nelson\ncourt_id: scotus\ndateFiled: 1972-10-10\ndocketNumber: No. 71-1027"
+  },
+  {
+    "id": "scotus_023",
+    "original_case": "Kimble v. Marvel Entertainment",
+    "original_citation": "576 U.S. 446 (2015)",
+    "overruling_case": "Brulotte v. Thys Co.",
+    "overruling_citation": "379 U.S. 29 (1964)",
+    "original_text": "Citation: Kimble v. Marvel Entertainment\ncaseName: Kimble v. Marvel Entertainment, LLC\ncourt_id: scotus\ndateFiled: 2015-06-22\ndocketNumber: 13-720\nlexisCite: 2015 U.S. LEXIS 4067\nattorney: Roman Melnik, Los Angeles, CA, for Petitioners., Thomas G. Saunders, Washington, DC, for Respondent., Malcolm L. Stewart for the United States as amicus curiae, by special leave of the Court, supporting the respondent., Antonio R. Durando, Tucson, AZ, Roman Melnik, Counsel of Record, Kenneth Weatherwax, Nathan N. Lowenstein, Flavio M. Rose, Goldberg, Lowenstein & Weatherwax LLP, Los Angeles, CA, for Petitioners., Seth P. Waxman, Counsel of Record, Paul R.Q. Wolfson, Thomas G. Saunders, Matthew Guarnieri, Daniel Aguilar, Wilmer Cutler Pickering Hale and Dorr LLP, Washington, DC, for Respondents.\njudge: Kagan",
+    "overruling_text": "Citation: Brulotte v. Thys Co.\ncaseName: Brulotte v. Thys Co.\ncourt_id: scotus\ndateFiled: 1965-01-18\ndocketNumber: No. 20"
+  },
+  {
+    "id": "scotus_024",
+    "original_case": "Franchise Tax Board of California v. Hyatt",
+    "original_citation": "587 U.S. 230 (2019)",
+    "overruling_case": "Nevada v. Hall",
+    "overruling_citation": "440 U.S. 410 (1979)",
+    "original_text": "Citation: Franchise Tax Board of California v. Hyatt\ncaseName: Franchise Tax Board of California v. Hyatt\ncourt_id: scotus\ndateFiled: 2003-01-27\ndocketNumber: 02-42",
+    "overruling_text": "Citation: Nevada v. Hall\ncaseName: Nevada v. Hall\ncourt_id: scotus\ndateFiled: 1979-03-05\ndocketNumber: 77-1337\nlexisCite: 1979 U.S. LEXIS 69\nattorney: Michael W. Dyer, Deputy Attorney General of Nevada, argued the cause for petitioners. With him on the briefs were Robert Frank List, Attorney General, and James H. Thompson, Chief Deputy Attorney General., Everett P. Rowe argued the cause and filed a brief for respondents.\njudge: Blackmun, Stevens, Bkennan, Stewart, White, Marshall, Powell, Blackmtjn, Burger, Rehnquist"
+  },
+  {
+    "id": "scotus_026",
+    "original_case": "Gamble v. United States",
+    "original_citation": "587 U.S. 678 (2019)",
+    "overruling_case": "Bartkus v. Illinois",
+    "overruling_citation": "359 U.S. 121 (1959)",
+    "original_text": "Citation: Gamble v. United States\ncaseName: Gamble v. United States\ncourt_id: scotus\ndateFiled: 2019-06-17\ndocketNumber: 17-646\njudge: Samuel Alito",
+    "overruling_text": "Citation: Bartkus v. Illinois\ncaseName: Bartkus v. Illinois\ncourt_id: scotus\ndateFiled: 1959-06-08\ndocketNumber: No. 1\nlexisCite: 1959 U.S. LEXIS 895"
+  },
+  {
+    "id": "scotus_027",
+    "original_case": "Timbs v. Indiana",
+    "original_citation": "586 U.S. 146 (2019)",
+    "overruling_case": "Browning-Ferris Industries v. Kelco Disposal",
+    "overruling_citation": "492 U.S. 257 (1989)",
+    "original_text": "Citation: Timbs v. Indiana\ncaseName: Timbs v. Indiana\ncourt_id: scotus\ndateFiled: 2018-08-24\ndocketNumber: No. 17\u20131091.",
+    "overruling_text": "Citation: Browning-Ferris Industries v. Kelco Disposal\ncaseName: Chauffeurs, Teamsters & Helpers Local No. 391 v. Terry\ncourt_id: scotus\ndateFiled: 1990-05-14\ndocketNumber: 88-1719\nlexisCite: 1990 U.S. LEXIS 1530\nattorney: J. David, James argued the cause for petitioner. With him on the briefs were Walter Kamiat and Laurence Gold., Robert M. Elliot argued the cause for respondents. With him on the brief was David C. Pishko.*\njudge: Marshall, Rehnquist, Brennan, White, Blackmun, Stevens, Kennedy, O'Connor, Scalia"
+  },
+  {
+    "id": "scotus_028",
+    "original_case": "Olmstead v. United States",
+    "original_citation": "277 U.S. 438 (1928)",
+    "overruling_case": "Katz v. United States",
+    "overruling_citation": "389 U.S. 347 (1967)",
+    "original_text": "Citation: Olmstead v. United States\ncaseName: Olmstead v. United States\ncourt_id: scotus\ndateFiled: 1988-05-16\ndocketNumber: No. 87-6289",
+    "overruling_text": "Citation: Katz v. United States\ncaseName: Katz v. United States\ncourt_id: scotus\ndateFiled: 2013-06-10\ndocketNumber: 12-1326\nlexisCite: 2013 U.S. LEXIS 4507"
+  },
+  {
+    "id": "scotus_029",
+    "original_case": "United States v. Ross",
+    "original_citation": "456 U.S. 798 (1982)",
+    "overruling_case": "Chimel v. California",
+    "overruling_citation": "395 U.S. 752 (1969)",
+    "original_text": "Citation: United States v. Ross\ncaseName: United States v. Ross\ncourt_id: scotus\ndateFiled: 1981-11-16\ndocketNumber: No. 80-2209",
+    "overruling_text": "Citation: Chimel v. California\ncaseName: Chimel v. California\ncourt_id: scotus\ndateFiled: 1969-03-26\ndocketNumber: No. 770"
+  },
+  {
+    "id": "scotus_030",
+    "original_case": "Illinois v. Wardlow",
+    "original_citation": "528 U.S. 119 (2000)",
+    "overruling_case": "Terry v. Ohio",
+    "overruling_citation": "392 U.S. 1 (1968)",
+    "original_text": "Citation: Illinois v. Wardlow\ncaseName: Illinois v. Wardlow\ncourt_id: scotus\ndateFiled: 1999-05-03\ndocketNumber: No. 98-1036",
+    "overruling_text": "Citation: Terry v. Ohio\ncaseName: Terry v. Ohio\ncourt_id: scotus\ndateFiled: 1967-10-09\ndocketNumber: No. 67\nattorney: Jack G. Day on the motions.\njudge: Consideration, Motions, Took"
+  },
+  {
+    "id": "scotus_031",
+    "original_case": "Dennis v. United States",
+    "original_citation": "341 U.S. 494 (1951)",
+    "overruling_case": "Brandenburg v. Ohio",
+    "overruling_citation": "395 U.S. 444 (1969)",
+    "original_text": "Citation: Dennis v. United States\ncaseName: Dennis v. United States\ncourt_id: scotus\ndateFiled: 2014-05-05\ndocketNumber: 13-9541\nlexisCite: 2014 U.S. LEXIS 3176",
+    "overruling_text": "Citation: Brandenburg v. Ohio\ncaseName: Brandenburg v. Ohio\ncourt_id: scotus\ndateFiled: 1969-06-09\ndocketNumber: 492\nlexisCite: 1969 U.S. LEXIS 1367\nattorney: Allen Brown argued the cause for appellant. With him on the briefs were Norman Dorsen, Melvin L. Wulf, Eleanor Holmes Norton, and Bernard A. Berkman., Leonard Kirschner argued the cause for appellee. With him on the brief was Melvin G. Bueger., Paul W. Brown, Attorney General of Ohio, pro se, and Leo J. Conway, Assistant Attorney General, filed a brief for the Attorney General as amicus curiae.\njudge: Douglas, Black"
+  },
+  {
+    "id": "scotus_032",
+    "original_case": "Chaplinsky v. New Hampshire",
+    "original_citation": "315 U.S. 568 (1942)",
+    "overruling_case": "Cohen v. California",
+    "overruling_citation": "403 U.S. 15 (1971)",
+    "original_text": "Citation: Chaplinsky v. New Hampshire\ncaseName: Chaplinsky v. New Hampshire\ncourt_id: scotus\ndateFiled: 1942-03-09\ndocketNumber: 255\nlexisCite: 1942 U.S. LEXIS 851\nattorney: Mr. Hayden C. Covington, with whom Mr. Joseph F. Rutherford was on the brief, for appellant. Mr. Alfred A. Albert entered an appearance., \u25a0 Mr. Frank R. Kenison, Attorney General of New Hampshire, with whom Mr. John F. Beamis, Jr. was on the brief, for appellee.\njudge: Murphy",
+    "overruling_text": "Citation: Cohen v. California\ncaseName: Cohen v. California\ncourt_id: scotus\ndateFiled: 1977-01-10\ndocketNumber: No. 76-5387"
+  },
+  {
+    "id": "scotus_033",
+    "original_case": "Beauharnais v. Illinois",
+    "original_citation": "343 U.S. 250 (1952)",
+    "overruling_case": "New York Times Co. v. Sullivan",
+    "overruling_citation": "376 U.S. 254 (1964)",
+    "original_text": "Citation: Beauharnais v. Illinois\ncaseName: Beauharnais v. Illinois\ncourt_id: scotus\ndateFiled: 1952-06-09\ndocketNumber: No. 118; No. 717; No. 722; No. 232; No. 472; No. 289; No. 326; No. 427; No. 447",
+    "overruling_text": "Citation: New York Times Co. v. Sullivan\ncaseName: New York Times Co. v. Sullivan\ncourt_id: scotus\ndateFiled: 1964-04-06\ndocketNumber: No. 39; No. 40\nattorney: Sam Rice Baker, M. Roland Nachman, Jr. and Calvin Whitesell on the motion. Herbert Wechsler for New York Times Co., in opposition."
+  },
+  {
+    "id": "scotus_035",
+    "original_case": "Johnson v. Zerbst",
+    "original_citation": "304 U.S. 458 (1938)",
+    "overruling_case": "Betts v. Brady",
+    "overruling_citation": "316 U.S. 455 (1942)",
+    "original_text": "Citation: Johnson v. Zerbst\ncaseName: Johnson v. Zerbst\ncourt_id: scotus\ndateFiled: 1938-02-14\ndocketNumber: No. 699\nattorney: Mr. Elbert P. Tuttle for petitioner. Acting Solicitor General Bell, Assistant Attorney General McMahon, and Messrs. William W. Barron, Bates Booth, and W. Marvin Smith for respondent.",
+    "overruling_text": "Citation: Betts v. Brady\ncaseName: Betts v. Brady\ncourt_id: scotus\ndateFiled: 1942-02-16\ndocketNumber: No. 837\nattorney: Messrs. William L. Marbury, Jr. and Jesse Slingluff, Jr. for petitioner. Mr. William C. Walsh, Attorney General of Maryland, for respondent."
+  },
+  {
+    "id": "scotus_036",
+    "original_case": "Betts v. Brady",
+    "original_citation": "316 U.S. 455 (1942)",
+    "overruling_case": "Gideon v. Wainwright",
+    "overruling_citation": "372 U.S. 335 (1963)",
+    "original_text": "Citation: Betts v. Brady\ncaseName: Betts v. Brady\ncourt_id: scotus\ndateFiled: 1942-02-16\ndocketNumber: No. 837\nattorney: Messrs. William L. Marbury, Jr. and Jesse Slingluff, Jr. for petitioner. Mr. William C. Walsh, Attorney General of Maryland, for respondent.",
+    "overruling_text": "Citation: Gideon v. Wainwright\ncaseName: Gideon v. Wainwright\ncourt_id: scotus\ndateFiled: 1963-03-18\ndocketNumber: No. 155\nattorney: Abe Fortas, by appointment of the Court, 370 U. S. 932, argued the cause for petitioner. With him on the brief were Abe Krash and Ralph Temple., Bruce R. Jacob, Assistant Attorney General of Florida, argued the cause for respondent. With him on the brief were Richard W. Ervin, Attorney General, and A. G. Spicola, Jr., Assistant Attorney General., J. Lee Rankin, by special leave of Court, argued the cause for the American Civil Liberties Union et al., as amici curiae, urging reversal. With him on the brief were Norman Dorsen, John Dwight Evans, Jr., Melvin L. Wulf, Richard J. Medalie, Howard W. Dixon and Richard Yale Feder., George D. Mentz, Assistant Attorney General of Alabama, argued the cause for the State of Alabama, as amicus curiae, urging affirmance. With him on the brief were MacDonald Gallion, Attorney General of Alabama, T. W. Bruton, Attorney General of North Carolina, and Ralph Moody, Assistant Attorney General of North Carolina., A brief for the state governments of twenty-two States and Commonwealths, as amici curiae, urging reversal, was filed by Edward J. McCormack, Jr., Attorney General of Massachusetts, Walter F. Mondale, Attorney General of Minnesota, Duke W. Dunbar, Attorney General of Colorado, Albert L. Coles, Attorney General of Connecticut, Eugene Cook, Attorney General of Georgia, Shiro Ka-shiwa, Attorney General of Hawaii, Frank Benson, Attorney General of Idaho, William G. Clark, Attorney General of Illinois, Evan L. Hultman, Attorney General of Iowa, John B. Breckinridge, Attorney General of Kentucky, Frank E. Hancock, Attorney General of Maine, Frank J. Kelley, Attorney General of Michigan, Thomas F. Eagle-ton, Attorney General of Missouri, Charles E. Springer, Attorney General of Nevada, Mark McElroy, Attorney General of Ohio, Leslie R. Bur gum, Attorney General of North Dakota, Robert Y. Thornton, Attorney General of Oregon, J. Joseph Nugent, Attorney General of Rhode Island, A. C. Miller, Attorney General of South Dakota, John J. O\u2019Connell, Attorney General of Washington, C. Donald Robertson, Attorney General of West Virginia, and George N. Hayes, Attorney General of Alaska., Robert Y. Thornton, Attorney General of- Oregon, and Harold W. Adams, Assistant Attorney General, filed a separate brief for the State of Oregon, as amicus curiae.\njudge: Black, Clark, Douglas, Harlan"
+  },
+  {
+    "id": "scotus_037",
+    "original_case": "Escobedo v. Illinois",
+    "original_citation": "378 U.S. 478 (1964)",
+    "overruling_case": "Miranda v. Arizona",
+    "overruling_citation": "384 U.S. 436 (1966)",
+    "original_text": "Citation: Escobedo v. Illinois\ncaseName: Escobedo v. Illinois\ncourt_id: scotus\ndateFiled: 1964-06-22\ndocketNumber: 615\nlexisCite: 1964 U.S. LEXIS 827\nattorney: Barry L. Kroll argued the cause for petitioner. With him on the brief was Donald M. Haskell., James R. Thompson argued the cause for respondent. With him on the brief were Daniel P. Ward and Elmer C. Kissane., Bernard Weisberg argued the cause for the American Civil Liberties Union, as amicus curiae, urging reversal. With him on the brief was Walter T. Fisher.\njudge: Goldberg, Harlan, White, Clark, Stewart",
+    "overruling_text": "Citation: Miranda v. Arizona\ncaseName: Miranda v. Arizona\ncourt_id: scotus\ndateFiled: 1969-10-13\ndocketNumber: No. 314\nattorney: John P. Frank and John J. Flynn for petitioner. Gary K. Nelson, Attorney General of Arizona, and Carl Waag, Assistant Attorney General, for respondent.\njudge: Consideration, Took"
+  },
+  {
+    "id": "scotus_038",
+    "original_case": "Lochner v. New York",
+    "original_citation": "198 U.S. 45 (1905)",
+    "overruling_case": "West Coast Hotel Co. v. Parrish",
+    "overruling_citation": "300 U.S. 379 (1937)",
+    "original_text": "Citation: Lochner v. New York\ncaseName: Lochner v. New York\ncourt_id: scotus\ndateFiled: 1905-04-17\ndocketNumber: 292\nlexisCite: 1905 U.S. LEXIS 1153\nattorney: Mr. Frank Harvey Field and Mr. Henry Weissmann for plaintiff in error:, Mr. Julius M, Mayer, Attorney General of . the State of New; .York, for defendant in error:\njudge: Peckham, Harlan, White, Day, Holmes",
+    "overruling_text": "Citation: West Coast Hotel Co. v. Parrish\ncaseName: West Coast Hotel Co. v. Parrish\ncourt_id: scotus\ndateFiled: 1937-03-29\ndocketNumber: 293\nlexisCite: 1937 U.S. LEXIS 1119\nattorney: Mr. E. L. Skeel, with whom Mr. John W. Roberts was on the brief, for appellant., Messrs. C. B. Conner and Sam M. Driver filed a brief on behalf of appellees., Mr. W. A. Toner, Assistant Attorney General of Washington, Avith whom Mr. G. W. Hamilton, Attorney General, and Mr. George G. Hannan, Assistant Attorney General, were on the brief, by special leave of Court, on behalf of the State of Washington, as amicus curiae.\njudge: Butler, Hughes, McReynolds, Sutherland, Van Devanter"
+  },
+  {
+    "id": "scotus_039",
+    "original_case": "Dred Scott v. Sandford",
+    "original_citation": "60 U.S. 393 (1857)",
+    "overruling_case": "Civil Rights Cases",
+    "overruling_citation": "109 U.S. 3 (1883)",
+    "original_text": "Citation: Dred Scott v. Sandford\ncaseName: Dred Scott v. Sandford\ncourt_id: scotus\ndateFiled: 1857-03-18\nlexisCite: 1856 U.S. LEXIS 472\nattorney: It was now argued by Mr. Blair and Mr: G. F. Ckrtis for the plaintiff in error, and by Mr. Geyer and Mr. Johnson for the defendant in error.\njudge: Taney, Nelson, Grier, Daniel, Campbell, Atroht, McLeau, McLeah, Mr', Curtis",
+    "overruling_text": "Citation: Civil Rights Cases\ncaseName: Civil Rights Cases\ncourt_id: scotus\ndateFiled: 1883-10-15\ndocketNumber: 1\nlexisCite: 1883 U.S. LEXIS 928\njudge: Bradley"
+  },
+  {
+    "id": "scotus_040",
+    "original_case": "United States v. South-Eastern Underwriters Assn.",
+    "original_citation": "322 U.S. 533 (1944)",
+    "overruling_case": "Paul v. Virginia",
+    "overruling_citation": "75 U.S. 168 (1869)",
+    "original_text": "Citation: United States v. South-Eastern Underwriters Assn.\ncaseName: United States v. South-Eastern Underwriters Assn.\ncourt_id: scotus\ndateFiled: 1944-06-05\ndocketNumber: 354\nlexisCite: 1944 U.S. LEXIS 1199\nattorney: Attorney General Biddle, with whom Solicitor General Fahy, Assistant Attorney General Berge, and Messrs. Robert L. Stern, Frank H. Elmore, Jr., and Manuel M. Gorman were on the brief, for the United States., Messrs. John T. Cahill and Dan MacDougald, with whom Messrs. Thurlow M. Gordon, Neil C. Head, Jerrold G. Van Cise, and Howard C. Wood were on the brief) for appellees., Briefs were filed (1) on behalf of the States of Alabama, Arizona, Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Minnesota, Mississippi, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Dakota, Ohio, Oregon, Pennsylvania, South D\u00e1kota, Tennessee, Utah, Vermont, Washington, Wisconsin and West Virginia, and (2) on behalf of the State of Virginia, as amici curiae, urging affirmance.\njudge: Black, Stone, Frankfurter, Jackson, Roberts, Reed",
+    "overruling_text": "Citation: Paul v. Virginia\ncaseName: Paul v. Virginia\ncourt_id: scotus\ndateFiled: 1869-11-18\nlexisCite: 1868 U.S. LEXIS 1092\nattorney: Messrs. B. R. Curtis and J. M. Carlisle, for the plaintiff in error:, Messrs. Conway Robinson and R. Bowden, for the State of Virginia, contra:\njudge: Field"
+  },
+  {
+    "id": "scotus_044",
+    "original_case": "Aguilar v. Texas",
+    "original_citation": "378 U.S. 108 (1964)",
+    "overruling_case": "Illinois v. Gates",
+    "overruling_citation": "462 U.S. 213 (1983)",
+    "original_text": "Citation: Aguilar v. Texas\ncaseName: Aguilar v. Texas\ncourt_id: scotus\ndateFiled: 2016-01-11\ndocketNumber: 15-6846",
+    "overruling_text": "Citation: Illinois v. Gates\ncaseName: Illinois v. Gates\ncourt_id: scotus\ndateFiled: 1983-02-22\ndocketNumber: No. 81-430\njudge: Brennan, Grant, Motion"
+  },
+  {
+    "id": "scotus_045",
+    "original_case": "Spinelli v. United States",
+    "original_citation": "393 U.S. 410 (1969)",
+    "overruling_case": "Illinois v. Gates",
+    "overruling_citation": "462 U.S. 213 (1983)",
+    "original_text": "Citation: Spinelli v. United States\ncaseName: Spinelli v. United States\ncourt_id: scotus\ndateFiled: 1972-06-19\ndocketNumber: No. 71-6548",
+    "overruling_text": "Citation: Illinois v. Gates\ncaseName: Illinois v. Gates\ncourt_id: scotus\ndateFiled: 1983-02-22\ndocketNumber: No. 81-430\njudge: Brennan, Grant, Motion"
+  },
+  {
+    "id": "scotus_046",
+    "original_case": "Penry v. Lynaugh",
+    "original_citation": "492 U.S. 302 (1989)",
+    "overruling_case": "Atkins v. Virginia",
+    "overruling_citation": "536 U.S. 304 (2002)",
+    "original_text": "Citation: Penry v. Lynaugh\ncaseName: Penry v. Lynaugh\ncourt_id: scotus\ndateFiled: 1988-06-30\ndocketNumber: No. 87-6177",
+    "overruling_text": "Citation: Atkins v. Virginia\ncaseName: Atkins v. Virginia\ncourt_id: scotus\ndateFiled: 2002-02-15\ndocketNumber: No. 00-8452"
+  },
+  {
+    "id": "scotus_047",
+    "original_case": "Stanford v. Kentucky",
+    "original_citation": "492 U.S. 361 (1989)",
+    "overruling_case": "Roper v. Simmons",
+    "overruling_citation": "543 U.S. 551 (2005)",
+    "original_text": "Citation: Stanford v. Kentucky\ncaseName: Stanford v. Kentucky\ncourt_id: scotus\ndateFiled: 1994-01-10\ndocketNumber: No. 93-6213",
+    "overruling_text": "Citation: Roper v. Simmons\ncaseName: Roper v. Simmons\ncourt_id: scotus\ndateFiled: 2005-03-01\ndocketNumber: 03-633\nlexisCite: 2005 U.S. LEXIS 2200\nattorney: James R. Layton, State Solicitor of Missouri, argued the cause for petitioner. With him on the briefs were Jeremiah W. (Jay) Nixon, Attorney General, and Stephen D. Hawke and Evan J Buchheim, Assistant Attorneys General., Seth P. Waxman argued the cause for respondent. With him on the brief were David W. Ogden and Jennifer Hern-don, by appointment of the Court, 541 U. S. 1040.*\njudge: Kennedy, Stevens, Souter, Ginsburg, Breyer, O'Connor, Scalia, Rehnquist, Thomas"
+  },
+  {
+    "id": "scotus_049",
+    "original_case": "Teague v. Lane",
+    "original_citation": "489 U.S. 288 (1989)",
+    "overruling_case": "Boumediene v. Bush",
+    "overruling_citation": "553 U.S. 723 (2008)",
+    "original_text": "Citation: Teague v. Lane\ncaseName: Teague v. Lane\ncourt_id: scotus\ndateFiled: 1988-03-07\ndocketNumber: No. 87-5259",
+    "overruling_text": "Citation: Boumediene v. Bush\ncaseName: Boumediene v. Bush\ncourt_id: scotus\ndateFiled: 2008-06-12\ndocketNumber: 06-1195\nlexisCite: 2008 U.S. LEXIS 4887\nattorney: Seth P. Waxman argued the cause for petitioners in both cases. With him on the briefs for petitioner Lakhdar Boumediene et al. in No. 06-1195 were Paul R. Q. Wolfson, Jonathan G. Cedarbaum, Douglas F. Curtis, Paul M. Winke, Stephen H. Oleskey, Robert C. Kirsch, Mark C. Fleming, and Pratik A. Shah. David J. Cynamon, Matthew J. MacLean, David H. Remes, and Marc D. Falkoff filed briefs for petitioner Khaled A. F. Al Odah et al. in No. 06-1196. Thomas B. Wilner, Neil H. Koslowe, George Brent Mickum IV, John J. Gibbons, Lawrence S. Lustberg, Michael Ratner, J. Wells Dixon, Shayana Kadidal, Mark S. Sullivan, Pamela Rogers Chepiga, Joseph Margulies, Erwin Chemerinsky, Baher Azmy, Kristine Huskey, Douglas J. Behr, and Clive Stafford Smith filed briefs for petitioner Jamil El-Banna et al. in No. 06-1196. William C. Kuebler, Rebecca Snyder, and Walter Dellinger filed a brief for Omar Khadr as respondent in No. 06-1196 under this Court\u2019s Rule 12.6 in support of petitioners., Former Solicitor General Clement argued the cause for respondents in both cases. With him on the brief were Acting Solicitor General Garre, Assistant Attorney General Keisler, Principal Deputy Associate Attorney General Katsas, Eric D. Miller, Douglas N. Letter, Robert M. Loeb, August E. Flentje, Pamela M. Stahl, and Jennifer Paisner.\u2020\njudge: Kennedy"
+  },
+  {
+    "id": "scotus_050",
+    "original_case": "Fay v. Noia",
+    "original_citation": "372 U.S. 391 (1963)",
+    "overruling_case": "Wainwright v. Sykes",
+    "overruling_citation": "433 U.S. 72 (1977)",
+    "original_text": "Citation: Fay v. Noia\ncaseName: Fay v. Noia\ncourt_id: scotus\ndateFiled: 1962-05-14\ndocketNumber: No. 809\nattorney: Edward S. Silver and William I. Siegel for petitioners., Leon B. Polsky for respondent., Louis J. Lefkowitz, Attorney General of New York, filed a brief as amicus curiae (Joseph J. Rose, Assistant Attorney General, of counsel) in support of the petition.",
+    "overruling_text": "Citation: Wainwright v. Sykes\ncaseName: Wainwright v. Sykes\ncourt_id: scotus\ndateFiled: 1976-10-12\ndocketNumber: No. 75-1578"
+  }
+]

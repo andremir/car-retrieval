@@ -1,0 +1,250 @@
+{"id": "cve-t1-0000", "query": "Has a patch been released to fix the XML external entity injection flaw in puppet that allows unauthenticated remote attackers to exploit the system?"}
+{"id": "cve-t1-0001", "query": "Has a patch been released for the postgresql denial of service flaw that can be exploited by unauthenticated remote attackers?"}
+{"id": "cve-t1-0002", "query": "Has a fix been released for the path traversal flaw in sqlite that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0003", "query": "Has a patch been released for the buffer overflow issue in express-js that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0004", "query": "Has a patch been released for the denial of service flaw in apache-httpd that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0005", "query": "Has a patch been released to fix the SQL injection flaw that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0006", "query": "Has a patch been released to fix the remote code execution flaw in postfix that allows unauthenticated attackers to execute code?"}
+{"id": "cve-t1-0007", "query": "Has a patch been released to fix the SQL injection flaw in samba that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0008", "query": "Has a patch been released for the cross-site scripting flaw in tomcat that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0009", "query": "Has a patch been released for the denial of service flaw in dovecot that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0010", "query": "Has a patch been released to fix the path traversal flaw in angular that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0011", "query": "Has a patch been released for the XML external entity injection flaw in zlib that allows unauthenticated remote attackers to exploit the vulnerability?"}
+{"id": "cve-t1-0012", "query": "Has a patch been released to fix the server-side request forgery flaw in haproxy that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0013", "query": "Has a patch been released to fix the XML external entity injection flaw in etcd that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0014", "query": "Has a fix been released for the deserialization flaw that allows remote attackers to execute malicious code without authentication in vue-js versions up to 23.5?"}
+{"id": "cve-t1-0015", "query": "Has a fix been released for the privilege escalation flaw in hibernate that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0016", "query": "Has a fix been released for the cross-site scripting flaw in jackson-databind that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0017", "query": "Has a patch been released to fix the remote code execution flaw in memcached that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0018", "query": "Has a fix been released for the cross-site scripting flaw in moment-js that allows unauthenticated remote attackers to execute malicious scripts?"}
+{"id": "cve-t1-0019", "query": "Has a patch been released for the SQL injection flaw in libpng that allows unauthenticated remote attackers to inject malicious data?"}
+{"id": "cve-t1-0020", "query": "Has a patch been released for the mysql privilege escalation flaw that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0021", "query": "Has a patch been released to fix the path traversal flaw that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0022", "query": "Has a patch been released for the libxml2 cross-site scripting flaw that allows unauthenticated remote attackers to execute malicious scripts?"}
+{"id": "cve-t1-0023", "query": "Has a fix been released for the path traversal flaw in lodash that allows unauthenticated remote attackers to access files?"}
+{"id": "cve-t1-0024", "query": "Has a patch been released to fix the libssl flaw that allows remote attackers to deserialize untrusted data?"}
+{"id": "cve-t1-0025", "query": "Has a fix been released for the server-side request forgery flaw in vsftpd that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0026", "query": "Has a patch been released for the SQL injection flaw in Flask that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0027", "query": "Has a fix been released for the XML external entity injection flaw in aiohttp that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0028", "query": "Has a patch been released to fix the XML external entity injection flaw in bcrypt that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0029", "query": "Has a patch been released for the SQL injection flaw in koa that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0030", "query": "Has a patch been released to fix the XML external entity injection flaw in log4j that allows unauthenticated remote attackers to exploit the vulnerability?"}
+{"id": "cve-t1-0031", "query": "Has a patch been released for the remote code execution flaw in libuuid that allows unauthenticated attackers to execute code?"}
+{"id": "cve-t1-0032", "query": "Has a fix been released for the cross-site scripting flaw in bind9 that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0033", "query": "Has a fix been released for the privilege escalation flaw in rabbitmq that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0034", "query": "Has a patch been released to fix the redis deserialization flaw that allows unauthenticated remote attackers to deserialize untrusted data?"}
+{"id": "cve-t1-0035", "query": "Has a fix been released for the privilege escalation flaw in zookeeper that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0036", "query": "Has a patch been released to fix the denial of service flaw in Kafka that can be exploited by unauthenticated remote attackers?"}
+{"id": "cve-t1-0037", "query": "Has a patch been released for the denial of service flaw in fastapi that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0038", "query": "Has a patch been released to fix the denial of service flaw in django that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0039", "query": "Has a patch been released to fix the XML external entity injection flaw in nginx that allows unauthenticated remote attackers to exploit the issue?"}
+{"id": "cve-t1-0040", "query": "Has a patch been released to fix the buffer overflow issue that allows unauthenticated remote attackers to overflow buffers in vault versions up to 19.4?"}
+{"id": "cve-t1-0041", "query": "Has a patch been released to fix the buffer overflow issue in wget that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0042", "query": "Has a fix been released for the server-side request forgery flaw in react that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0043", "query": "Has a patch been released to fix the path traversal flaw in openssh that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0044", "query": "Has a patch been released for the privilege escalation flaw in protobuf that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0045", "query": "Has a patch been released to prevent deserialization of untrusted data by remote attackers in rails versions up to 80.1?"}
+{"id": "cve-t1-0046", "query": "Has a patch been released to fix the glibc flaw that allows remote attackers to deserialize untrusted data?"}
+{"id": "cve-t1-0047", "query": "Has a patch been released for the remote code execution flaw in thrift that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0048", "query": "Has a patch been released to fix the XML external entity injection flaw in pycrypto that allows unauthenticated remote attackers to exploit the vulnerability?"}
+{"id": "cve-t1-0049", "query": "Has a patch been released to fix the buffer overflow issue in libjpeg that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0050", "query": "Has a patch been released for the privilege escalation flaw in Consul that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0051", "query": "Has a patch been released to fix the path traversal flaw that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0052", "query": "Has a patch been released for the privilege escalation flaw in grpc that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0053", "query": "Has a patch been released to fix the server-side request forgery issue in ansible that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0054", "query": "Has a patch been released to fix the remote code execution flaw in openssl that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0055", "query": "Has a patch been released to fix the SQL injection flaw in curl that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0056", "query": "Has a patch been released to fix the deserialization flaw in libxslt that allows remote attackers to execute malicious code?"}
+{"id": "cve-t1-0057", "query": "Has a patch been released to fix the path traversal flaw that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0058", "query": "Has a patch been released for the remote code execution flaw in expat that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0059", "query": "Has a fix been released for the server-side request forgery flaw in activemq that allows unauthenticated remote attackers to exploit the system?"}
+{"id": "cve-t1-0060", "query": "Has a fix been released for the cross-site scripting flaw in jquery that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0061", "query": "Has a patch been released for the SQL injection flaw in elasticsearch that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0062", "query": "Has a fix been released for the terraform deserialization flaw that allows unauthenticated remote attackers to deserialize untrusted data?"}
+{"id": "cve-t1-0063", "query": "Has a patch been released to fix the server-side request forgery flaw in spring-framework that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0064", "query": "Has a patch been released to fix the SQL injection flaw that allows unauthenticated remote attackers to inject malicious SQL code in puppet versions up to 92.5?"}
+{"id": "cve-t1-0065", "query": "Has a patch been released to fix the deserialization of untrusted data by unauthenticated remote attackers in postgresql?"}
+{"id": "cve-t1-0066", "query": "Has a fix been released for the sqlite cross-site scripting flaw that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0067", "query": "Has a fix been released for the cross-site scripting flaw in express-js that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0068", "query": "Has a patch been released to fix the deserialization flaw that allows unauthenticated remote attackers to deserialize untrusted data in apache-httpd?"}
+{"id": "cve-t1-0069", "query": "Has a patch been released to fix the privilege escalation flaw that allows unauthenticated remote attackers to gain elevated access in drupal versions up to 48.2?"}
+{"id": "cve-t1-0070", "query": "Has a patch been released to fix the buffer overflow issue in postfix that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0071", "query": "Has a patch been released to fix the buffer overflow issue in samba that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0072", "query": "Has a patch been released for the tomcat denial of service flaw that can be exploited by unauthenticated remote attackers?"}
+{"id": "cve-t1-0073", "query": "Has a patch been released for the privilege escalation flaw in dovecot that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0074", "query": "Has a fix been released for the buffer overflow issue in angular that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0075", "query": "Has a fix been released for the privilege escalation flaw in zlib that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0076", "query": "Has a patch been released for the denial of service flaw in haproxy that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0077", "query": "Has a patch been released to fix the path traversal flaw that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0078", "query": "Has a patch been released for the path traversal flaw in vue-js that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0079", "query": "Has a fix been released for the hibernate deserialization flaw that allows remote attackers to execute malicious code without authentication?"}
+{"id": "cve-t1-0080", "query": "Has a fix been released for the buffer overflow issue in jackson-databind that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0081", "query": "Has a patch been released to prevent remote attackers from deserializing untrusted data in memcached versions up to 28.1?"}
+{"id": "cve-t1-0082", "query": "Has a fix been released for the XML external entity injection flaw in moment-js that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0083", "query": "Has a patch been released for the libpng deserialization flaw that allows remote attackers to execute malicious code with untrusted data?"}
+{"id": "cve-t1-0084", "query": "Has a patch been released to fix the remote code execution flaw in mysql that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0085", "query": "Has a patch been released to fix the buffer overflow issue in proftpd that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0086", "query": "Has a patch been released for the libxml2 privilege escalation flaw that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0087", "query": "Has a patch been released for the SQL injection flaw in lodash that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0088", "query": "Has a patch been released to fix the remote code execution flaw in libssl that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0089", "query": "Has a fix been released for the privilege escalation flaw in vsftpd that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0090", "query": "Has a fix been released for the privilege escalation flaw in Flask that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0091", "query": "Has a patch been released to fix the SQL injection flaw in aiohttp that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0092", "query": "Has a patch been released to fix the denial of service flaw in bcrypt that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0093", "query": "Has a patch been released for the path traversal flaw in koa that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0094", "query": "Has a patch been released to fix the server-side request forgery flaw in log4j that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0095", "query": "Has a patch been released to fix the path traversal flaw in libuuid that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0096", "query": "Has a fix been released for the XML external entity injection flaw in bind9 that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0097", "query": "Has a patch been released for the cross-site scripting flaw in rabbitmq that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0098", "query": "Has a fix been released for the cross-site scripting flaw in redis that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0099", "query": "Has a fix been released for the cross-site scripting flaw in zookeeper that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0100", "query": "Has a patch been released to fix the path traversal flaw that allows unauthenticated remote attackers to access files outside intended directories in kafka?"}
+{"id": "cve-t1-0101", "query": "Has a patch been released for the remote code execution flaw in fastapi that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0102", "query": "Has a patch been released to fix the buffer overflow issue in django that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0103", "query": "Has a patch been released for the cross-site scripting flaw in nginx that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0104", "query": "Has a patch been released to fix the buffer overflow issue in vault that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0105", "query": "Has a patch been released to fix the denial of service flaw in wget that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0106", "query": "Has a patch been released to prevent deserialization of untrusted data by remote attackers in react versions up to 34.1?"}
+{"id": "cve-t1-0107", "query": "Has a patch been released for the buffer overflow issue in openssh that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0108", "query": "Has a patch been released to fix the XML external entity injection flaw in protobuf that allows unauthenticated remote attackers to exploit the issue?"}
+{"id": "cve-t1-0109", "query": "Has a patch been released to fix the cross-site scripting flaw in rails that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0110", "query": "Has a patch been released to fix the XML external entity injection flaw in glibc that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0111", "query": "Has a patch been released to fix the SQL injection flaw in thrift that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0112", "query": "Has a patch been released for the denial of service flaw in pycrypto that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0113", "query": "Has a patch been released for the libjpeg denial of service flaw that can be exploited by unauthenticated remote attackers?"}
+{"id": "cve-t1-0114", "query": "Has a patch been released for the privilege escalation flaw in Consul that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0115", "query": "Has a patch been released to fix the path traversal flaw that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0116", "query": "Has a fix been released for the server-side request forgery flaw in grpc that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0117", "query": "Has a fix been released for the cross-site scripting flaw in ansible that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0118", "query": "Has a patch been released for the remote code execution flaw in openssl that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0119", "query": "Has a fix been released for the server-side request forgery flaw in curl that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0120", "query": "Has a patch been released for the libxslt flaw that allows unauthenticated remote attackers to escalate privileges?"}
+{"id": "cve-t1-0121", "query": "Has a patch been released to fix the privilege escalation flaw in mongodb that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0122", "query": "Has a fix been released for the path traversal flaw in expat that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0123", "query": "Has a patch been released to fix the denial of service flaw in activemq that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0124", "query": "Has a patch been released for the jquery path traversal flaw that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0125", "query": "Has a patch been released for the denial of service flaw in elasticsearch that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0126", "query": "Has a patch been released for the remote code execution flaw in terraform that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0127", "query": "Has a patch been released to fix the server-side request forgery flaw in spring-framework that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0128", "query": "Has a patch been released to prevent unauthorized remote attackers from deserializing untrusted data in the puppet software?"}
+{"id": "cve-t1-0129", "query": "Has a patch been released to fix the privilege escalation flaw in postgresql that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0130", "query": "Has a fix been released for the SQL injection flaw in sqlite that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0131", "query": "Has a patch been released for the denial of service flaw in express-js that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0132", "query": "Has a patch been released to fix the SQL injection flaw in apache-httpd that allows unauthenticated remote attackers to inject SQL code?"}
+{"id": "cve-t1-0133", "query": "Has a patch been released to prevent unauthenticated remote attackers from deserializing untrusted data in Drupal?"}
+{"id": "cve-t1-0134", "query": "Has a fix been released for the deserialization flaw in postfix that allows unauthenticated remote attackers to deserialize untrusted data?"}
+{"id": "cve-t1-0135", "query": "Has a patch been released to fix the cross-site scripting flaw in samba that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0136", "query": "Has a patch been released for the server-side request forgery flaw in tomcat that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0137", "query": "Has a patch been released to fix the buffer overflow issue in dovecot that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0138", "query": "Has a patch been released for the remote code execution flaw in angular that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0139", "query": "Has a fix been released for the privilege escalation flaw in zlib that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0140", "query": "Has a patch been released for the privilege escalation flaw in haproxy that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0141", "query": "Has a patch been released to fix the privilege escalation flaw in etcd that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0142", "query": "Has a fix been released for the privilege escalation flaw in vue-js that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0143", "query": "Has a fix been released for the path traversal flaw in hibernate that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0144", "query": "Has a fix been released for the jackson-databind flaw that allows unauthenticated remote attackers to escalate privileges?"}
+{"id": "cve-t1-0145", "query": "Has a fix been released for the XML external entity injection flaw in memcached that allows unauthenticated remote attackers to exploit the issue?"}
+{"id": "cve-t1-0146", "query": "Has a fix been released for the SQL injection flaw in moment-js that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0147", "query": "Has a patch been released for the libpng denial of service flaw that can be exploited by unauthenticated remote attackers?"}
+{"id": "cve-t1-0148", "query": "Has a patch been released for the mysql privilege escalation flaw that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0149", "query": "Has a fix been released for the server-side request forgery flaw that allows unauthenticated remote attackers to exploit proftpd?"}
+{"id": "cve-t1-0150", "query": "Has a patch been released for the cross-site scripting flaw in libxml2 that allows unauthenticated remote attackers to execute malicious scripts?"}
+{"id": "cve-t1-0151", "query": "Has a fix been released for the denial of service flaw in lodash that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0152", "query": "Has a patch been released for the buffer overflow issue in libssl that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0153", "query": "Has a fix been released for the cross-site scripting flaw in vsftpd that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0154", "query": "Has a fix been released for the privilege escalation flaw in Flask that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0155", "query": "Has a patch been released for the denial of service flaw in aiohttp that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0156", "query": "Has a fix been released for the privilege escalation flaw in bcrypt that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0157", "query": "Has a patch been released for the buffer overflow issue in koa that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0158", "query": "Has a patch been released for the log4j cross-site scripting flaw that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0159", "query": "Has a fix been released for the cross-site scripting flaw in libuuid that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0160", "query": "Has a patch been released for the bind9 denial of service flaw that can be exploited by unauthenticated remote attackers?"}
+{"id": "cve-t1-0161", "query": "Has a fix been released for the XML external entity injection flaw that allows unauthenticated remote attackers to exploit rabbitmq?"}
+{"id": "cve-t1-0162", "query": "Has a fix been released for the XML external entity injection flaw in redis that allows unauthenticated remote attackers to exploit the system?"}
+{"id": "cve-t1-0163", "query": "Has a patch been released to fix the path traversal flaw that allows unauthenticated remote attackers to access files outside intended directories in zookeeper?"}
+{"id": "cve-t1-0164", "query": "Has a patch been released to fix the buffer overflow issue in Kafka that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0165", "query": "Has a patch been released for the remote code execution flaw in fastapi that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0166", "query": "Has a fix been released for the denial of service flaw in django that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0167", "query": "Has a patch been released to fix the path traversal flaw in nginx that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0168", "query": "Has a patch been released to fix the deserialization flaw that allows unauthenticated remote attackers to exploit the vault software?"}
+{"id": "cve-t1-0169", "query": "Has a fix been released for the server-side request forgery issue in wget that allows unauthenticated remote attackers to exploit the vulnerability?"}
+{"id": "cve-t1-0170", "query": "Has a patch been released for the react vulnerability that allows remote attackers to deserialize untrusted data?"}
+{"id": "cve-t1-0171", "query": "Has a patch been released to fix the SQL injection flaw in openssh that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0172", "query": "Has a patch been released to fix the buffer overflow issue in protobuf that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0173", "query": "Has a patch been released to fix the server-side request forgery flaw in rails that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0174", "query": "Has a patch been released to fix the path traversal flaw in glibc that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0175", "query": "Has a patch been released to fix the path traversal flaw that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0176", "query": "Has a fix been released for the server-side request forgery flaw in pycrypto that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0177", "query": "Has a fix been released for the libjpeg denial of service flaw that can be exploited by remote attackers?"}
+{"id": "cve-t1-0178", "query": "Has a fix been released for the XML external entity injection flaw that allows unauthenticated remote attackers to exploit Consul?"}
+{"id": "cve-t1-0179", "query": "Has a patch been released to prevent unauthenticated remote attackers from deserializing untrusted data in WordPress?"}
+{"id": "cve-t1-0180", "query": "Has a patch been released to fix the XML external entity injection flaw in grpc that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0181", "query": "Has a fix been released for the privilege escalation flaw in ansible that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0182", "query": "Has a patch been released to fix the SQL injection flaw in openssl that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0183", "query": "Has a patch been released to fix the curl vulnerability that allows remote attackers to deserialize untrusted data?"}
+{"id": "cve-t1-0184", "query": "Has a fix been released for the XML external entity injection flaw in libxslt that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0185", "query": "Has a patch been released for the remote code execution flaw in mongodb that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0186", "query": "Has a patch been released for the expat denial of service flaw that can be exploited by unauthenticated remote attackers?"}
+{"id": "cve-t1-0187", "query": "Has a patch been released for the denial of service flaw in activemq that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0188", "query": "Has a patch been released for the jquery denial of service flaw that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0189", "query": "Has a fix been released for the buffer overflow issue in elasticsearch that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0190", "query": "Has a fix been released for the server-side request forgery flaw in terraform that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0191", "query": "Has a patch been released to prevent deserialization of untrusted data by remote attackers in spring-framework versions up to 84.0?"}
+{"id": "cve-t1-0192", "query": "Has a patch been released to fix the server-side request forgery issue in puppet that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0193", "query": "Has a patch been released to fix the denial of service flaw in postgresql that allows unauthenticated remote attackers to exploit a memory buffer error?"}
+{"id": "cve-t1-0194", "query": "Has a patch been released for the SQL injection flaw in sqlite that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0195", "query": "Has a fix been released for the cross-site scripting flaw in express-js that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0196", "query": "Has a patch been released for the cross-site scripting flaw in apache-httpd that allows unauthenticated remote attackers to inject malicious scripts?"}
+{"id": "cve-t1-0197", "query": "Has a patch been released to fix the denial of service flaw in Drupal that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0198", "query": "Has a patch been released to fix the buffer overflow issue in postfix that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0199", "query": "Has a fix been released for the XML external entity injection flaw that allows unauthenticated remote attackers to exploit samba?"}
+{"id": "cve-t1-0200", "query": "Has a patch been released for the XML external entity injection flaw in tomcat that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0201", "query": "Has a patch been released to fix the SQL injection flaw in dovecot that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0202", "query": "Has a patch been released for the cross-site scripting flaw in angular that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0203", "query": "Has a patch been released for the zlib cross-site scripting flaw that allows unauthenticated remote attackers to execute malicious scripts?"}
+{"id": "cve-t1-0204", "query": "Has a patch been released for the remote code execution flaw in haproxy that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0205", "query": "Has a fix been released for the XML external entity injection flaw in etcd that allows unauthenticated remote attackers to exploit the system?"}
+{"id": "cve-t1-0206", "query": "Has a fix been released for the remote code execution flaw in vue-js that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0207", "query": "Has a patch been released for the cross-site scripting flaw in hibernate that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0208", "query": "Has a fix been released for the jackson-databind cross-site scripting flaw that allows unauthenticated remote attackers to execute scripts?"}
+{"id": "cve-t1-0209", "query": "Has a fix been released for the memcached server-side request forgery flaw that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0210", "query": "Has a fix been released for the buffer overflow issue in moment-js that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0211", "query": "Has a patch been released for the libpng flaw that allows unauthenticated remote attackers to escalate privileges?"}
+{"id": "cve-t1-0212", "query": "Has a patch been released to fix the server-side request forgery flaw in mysql that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0213", "query": "Has a patch been released to fix the privilege escalation flaw in proftpd that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0214", "query": "Has a patch been released for the libxml2 denial of service flaw that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0215", "query": "Has a fix been released for the XML external entity injection flaw in lodash that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0216", "query": "Has a patch been released to fix the path traversal flaw in libssl that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0217", "query": "Has a patch been released to fix the path traversal flaw that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0218", "query": "Has a fix been released for the privilege escalation flaw in Flask that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0219", "query": "Has a fix been released for the XML external entity injection flaw in aiohttp that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0220", "query": "Has a patch been released to fix the path traversal flaw in bcrypt that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0221", "query": "Has a patch been released to fix the path traversal flaw in koa that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0222", "query": "Has a patch been released to fix the log4j flaw that allows unauthenticated remote attackers to perform path traversal attacks?"}
+{"id": "cve-t1-0223", "query": "Has a patch been released to fix the server-side request forgery issue in libuuid that allows unauthenticated remote attackers to exploit the vulnerability?"}
+{"id": "cve-t1-0224", "query": "Has a fix been released for the cross-site scripting flaw in bind9 that allows unauthenticated remote attackers to inject malicious scripts?"}
+{"id": "cve-t1-0225", "query": "Has a patch been released to fix the buffer overflow issue in rabbitmq that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0226", "query": "Has a patch been released for the SQL injection flaw in redis that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0227", "query": "Has a fix been released for the buffer overflow issue in zookeeper that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0228", "query": "Has a patch been released to fix the path traversal flaw that allows unauthenticated remote attackers to access files outside intended directories?"}
+{"id": "cve-t1-0229", "query": "Has a patch been released to prevent deserialization of untrusted data by unauthenticated remote attackers in fastapi versions up to 80.3?"}
+{"id": "cve-t1-0230", "query": "Has a patch been released for the remote code execution flaw in django that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0231", "query": "Has a patch been released for the remote code execution flaw in nginx that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0232", "query": "Has a patch been released to fix the remote code execution flaw in vault that allows unauthenticated attackers to execute code remotely?"}
+{"id": "cve-t1-0233", "query": "Has a fix been released for the XML external entity injection flaw in wget that allows unauthenticated remote attackers to exploit the issue?"}
+{"id": "cve-t1-0234", "query": "Has a patch been released for the react cross-site scripting flaw that allows unauthenticated remote attackers to inject malicious code?"}
+{"id": "cve-t1-0235", "query": "Has a fix been released for the server-side request forgery flaw in openssh that allows unauthenticated remote attackers to exploit the vulnerability?"}
+{"id": "cve-t1-0236", "query": "Has a patch been released for the privilege escalation flaw in protobuf that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0237", "query": "Has a patch been released to fix the XML external entity injection flaw in rails that allows unauthenticated remote attackers to exploit the system?"}
+{"id": "cve-t1-0238", "query": "Has a patch been released to fix the SQL injection flaw in glibc that allows unauthenticated remote attackers to inject malicious SQL code?"}
+{"id": "cve-t1-0239", "query": "Has a patch been released to fix the server-side request forgery issue in thrift that allows unauthenticated remote attackers to exploit the software?"}
+{"id": "cve-t1-0240", "query": "Has a patch been released for the XML external entity injection flaw in pycrypto that allows unauthenticated remote attackers to exploit the vulnerability?"}
+{"id": "cve-t1-0241", "query": "Has a fix been released for the remote code execution flaw in libjpeg that allows unauthenticated attackers to execute code?"}
+{"id": "cve-t1-0242", "query": "Has a patch been released for the denial of service flaw in Consul that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0243", "query": "Has a patch been released to fix the buffer overflow issue in WordPress that allows unauthenticated remote attackers to overflow buffers?"}
+{"id": "cve-t1-0244", "query": "Has a patch been released to fix the cross-site scripting flaw in grpc that allows unauthenticated remote attackers to execute malicious scripts?"}
+{"id": "cve-t1-0245", "query": "Has a fix been released for the privilege escalation flaw in ansible that allows unauthenticated remote attackers to gain elevated access?"}
+{"id": "cve-t1-0246", "query": "Has a patch been released to fix the cross-site scripting flaw in openssl that allows unauthenticated remote attackers to exploit the vulnerability?"}
+{"id": "cve-t1-0247", "query": "Has a patch been released to fix the XML external entity injection flaw in curl that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0248", "query": "Has a fix been released for the XML external entity injection flaw in libxslt that allows unauthenticated remote attackers to exploit it?"}
+{"id": "cve-t1-0249", "query": "Has a patch been released to fix the path traversal flaw that allows unauthenticated remote attackers to access files outside intended directories?"}

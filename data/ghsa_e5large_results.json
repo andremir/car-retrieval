@@ -1,0 +1,10 @@
+{
+  "e5_large_v2": {
+    "tca5": 0.1698,
+    "found": 27,
+    "n": 159,
+    "mean_rank": 923.7,
+    "median_rank": 576,
+    "corpus_size": 2318
+  }
+}

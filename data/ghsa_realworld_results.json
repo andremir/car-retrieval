@@ -1,0 +1,5625 @@
+{
+  "per_example": {
+    "bm25": [
+      {
+        "id": "GHSA-3p68-rc4w-qgx5",
+        "cve_id": "CVE-2025-62718",
+        "product": "axios",
+        "patch_rank": 16,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5ghq-42rg-769x",
+        "cve_id": "CVE-2026-35035",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 23,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fcm4-4pj2-m5hf",
+        "cve_id": "CVE-2026-35216",
+        "product": "@budibase/server",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-x8hc-fqv3-7gwf",
+        "cve_id": "CVE-2026-33950",
+        "product": "signalk-server",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-7r9j-r86q-7g45",
+        "cve_id": "CVE-2026-31818",
+        "product": "@budibase/backend-core",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-77rh-m34w-rv36",
+        "cve_id": "CVE-2026-35002",
+        "product": "agno",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fc4p-p49v-r948",
+        "cve_id": "CVE-2026-34571",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 43,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fhrf-q333-82fm",
+        "cve_id": "CVE-2026-34569",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 42,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-x7wh-g25g-53vg",
+        "cve_id": "CVE-2026-34568",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 41,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r33w-c82v-x5v7",
+        "cve_id": "CVE-2026-34567",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 40,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-458r-h248-29c5",
+        "cve_id": "CVE-2026-34566",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 39,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-xgh5-w62m-8mpr",
+        "cve_id": "CVE-2026-34565",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 38,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-g4pp-fhgf-8653",
+        "cve_id": "CVE-2026-34564",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 37,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-85m8-g393-jcxf",
+        "cve_id": "CVE-2026-34563",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 36,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r4v5-rwr2-q7r4",
+        "cve_id": "CVE-2026-34560",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 35,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-4333-387x-w245",
+        "cve_id": "CVE-2026-34559",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 34,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hp5w-3hxx-vmwf",
+        "cve_id": "CVE-2026-34751",
+        "product": "payload",
+        "patch_rank": 22,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-68p4-j234-43mv",
+        "cve_id": "CVE-2026-34449",
+        "product": "github.com/siyuan-note/siyuan/kernel",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rx4h-526q-4458",
+        "cve_id": "CVE-2026-34448",
+        "product": "github.com/siyuan-note/siyuan/kernel",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vv7q-7jx5-f767",
+        "cve_id": "CVE-2026-32871",
+        "product": "fastmcp",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-px3p-vgh9-m57c",
+        "cve_id": "CVE-2026-34156",
+        "product": "@nocobase/plugin-workflow-javascript",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fhh2-gg7w-gwpq",
+        "cve_id": "CVE-2026-33026",
+        "product": "github.com/0xJacky/Nginx-UI",
+        "patch_rank": 217,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2w6w-674q-4c4q",
+        "cve_id": "CVE-2026-33937",
+        "product": "handlebars",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fvh3-672c-7p6c",
+        "cve_id": "CVE-2026-22738",
+        "product": "org.springframework.ai:spring-ai-vector-store",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2vq4-854f-5c72",
+        "cve_id": "CVE-2026-35595",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 11,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-q5jf-9vfq-h4h7",
+        "cve_id": "CVE-2026-35205",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vmx8-mqv2-9gmg",
+        "cve_id": "CVE-2026-35204",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8jvc-mcx6-r4cg",
+        "cve_id": "CVE-2026-34727",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 10,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-9hfr-gw99-8rhx",
+        "cve_id": "CVE-2026-40069",
+        "product": "bsv-sdk",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-chqc-8p9q-pq6q",
+        "cve_id": "CVE-2026-39983",
+        "product": "basic-ftp",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5gfj-64gh-mgmw",
+        "cve_id": "CVE-2026-39981",
+        "product": "agixt",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-4ggg-h7ph-26qr",
+        "cve_id": "CVE-2026-39974",
+        "product": "n8n-mcp",
+        "patch_rank": 5,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hwr4-mq23-wcv5",
+        "cve_id": "CVE-2026-39972",
+        "product": "github.com/dunglas/mercure",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hfvc-g4fc-pqhx",
+        "cve_id": "CVE-2026-39883",
+        "product": "go.opentelemetry.io/otel/sdk",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vfhx-5459-qhqh",
+        "cve_id": "CVE-2026-39394",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 8,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-8rh5-4mvx-xj7j",
+        "cve_id": "CVE-2026-39393",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 7,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-jpcj-7wfg-mqxv",
+        "cve_id": "CVE-2026-31040",
+        "product": "stata-mcp",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3j3q-wp9x-585p",
+        "cve_id": "CVE-2026-39429",
+        "product": "github.com/kcp-dev/kcp",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-56p5-8mhr-2fph",
+        "cve_id": "CVE-2026-35525",
+        "product": "liquidjs",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8jxr-pr72-r468",
+        "cve_id": "CVE-2026-35568",
+        "product": "io.modelcontextprotocol.sdk:mcp-core",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-mh2q-q3fh-2475",
+        "cve_id": "CVE-2026-29181",
+        "product": "go.opentelemetry.io/otel/baggage",
+        "patch_rank": 4,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v2wj-q39q-566r",
+        "cve_id": "CVE-2026-39364",
+        "product": "vite",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-p9ff-h696-f583",
+        "cve_id": "CVE-2026-39363",
+        "product": "vite",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8x9r-hvwg-c55h",
+        "cve_id": "CVE-2026-35454",
+        "product": "github.com/coder/code-marketplace",
+        "patch_rank": 195,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-737v-mqg7-c878",
+        "cve_id": "CVE-2026-35209",
+        "product": "defu",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-393c-p46r-7c95",
+        "cve_id": "CVE-2026-39942",
+        "product": "directus",
+        "patch_rank": 5,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2wfh-rcwf-wh23",
+        "cve_id": "CVE-2026-35214",
+        "product": "@budibase/server",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5qhv-x9j4-c3vm",
+        "cve_id": "CVE-2026-35394",
+        "product": "@mobilenext/mobile-mcp",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v479-vf79-mg83",
+        "cve_id": "CVE-2026-40103",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 9,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-qh78-rvg3-cv54",
+        "cve_id": "CVE-2026-35602",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 8,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2g7h-7rqr-9p4r",
+        "cve_id": "CVE-2026-35601",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 7,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-45q4-x4r9-8fqj",
+        "cve_id": "CVE-2026-35600",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 6,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r4fg-73rc-hhh7",
+        "cve_id": "CVE-2026-35599",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 5,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-48ch-p4gq-x46x",
+        "cve_id": "CVE-2026-35598",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 4,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fgfv-pv97-6cmj",
+        "cve_id": "CVE-2026-35597",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hj5c-mhh2-g7jq",
+        "cve_id": "CVE-2026-35596",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hr2v-4r36-88hr",
+        "cve_id": "CVE-2026-35206",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-96q5-xm3p-7m84",
+        "cve_id": "CVE-2026-35594",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-95h2-gj7x-gx9w",
+        "cve_id": "CVE-2026-39315",
+        "product": "unhead",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3j8v-cgw4-2g6q",
+        "cve_id": "CVE-2026-35040",
+        "product": "fast-jwt",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hqxq-hwqf-wg83",
+        "cve_id": "CVE-2026-39901",
+        "product": "github.com/monetr/monetr",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w8rr-5gcm-pp58",
+        "cve_id": "CVE-2026-39882",
+        "product": "go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fjpj-6qcq-6pw2",
+        "cve_id": "CVE-2026-39392",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 6,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-7cm9-v848-cfh2",
+        "cve_id": "CVE-2026-39391",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 5,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-x3hr-cp7x-44r2",
+        "cve_id": "CVE-2026-39390",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 4,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9rxp-f27p-wv3h",
+        "cve_id": "CVE-2026-39389",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qj83-cq47-w5f8",
+        "cve_id": "CVE-2026-39865",
+        "product": "axios",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v273-448j-v4qj",
+        "cve_id": "CVE-2026-39859",
+        "product": "liquidjs",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rv5g-f82m-qrvv",
+        "cve_id": "CVE-2026-39412",
+        "product": "liquidjs",
+        "patch_rank": 4,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5mwj-v5jw-5c97",
+        "cve_id": "CVE-2026-39411",
+        "product": "@lobehub/lobehub",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w8wv-vfpc-hw2w",
+        "cve_id": "CVE-2026-39844",
+        "product": "nicegui",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3xxc-pwj6-jgrj",
+        "cve_id": "CVE-2026-33753",
+        "product": "rfc3161-client",
+        "patch_rank": 2283,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r5rp-j6wh-rvv4",
+        "cve_id": "CVE-2026-39410",
+        "product": "hono",
+        "patch_rank": 5,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xpcf-pg52-r92g",
+        "cve_id": "CVE-2026-39409",
+        "product": "hono",
+        "patch_rank": 4,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xf4j-xp2r-rqqx",
+        "cve_id": "CVE-2026-39408",
+        "product": "hono",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-wmmm-f939-6g9c",
+        "cve_id": "CVE-2026-39407",
+        "product": "hono",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-92pp-h63x-v22m",
+        "cve_id": "CVE-2026-39406",
+        "product": "@hono/node-server",
+        "patch_rank": 319,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-h336-2wxm-pr6q",
+        "cve_id": "CVE-2026-22680",
+        "product": "OpenViking",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5f5r-95pg-xrpm",
+        "cve_id": "CVE-2026-40077",
+        "product": "github.com/henrygd/beszel",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-6wgr-89rj-399p",
+        "cve_id": "CVE-2026-34988",
+        "product": "wasmtime",
+        "patch_rank": 7,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hfr4-7c6c-48w2",
+        "cve_id": "CVE-2026-34983",
+        "product": "wasmtime",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-m9w2-8782-2946",
+        "cve_id": "CVE-2026-34945",
+        "product": "wasmtime",
+        "patch_rank": 6,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-f37v-82c4-4x64",
+        "cve_id": "CVE-2026-34781",
+        "product": "electron",
+        "patch_rank": 4,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3h9h-qfvw-98hq",
+        "cve_id": "CVE-2025-64181",
+        "product": "OpenEXR",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vr5f-2r24-w5hc",
+        "cve_id": "CVE-2026-35200",
+        "product": "parse-server",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8x5q-pvf5-64mp",
+        "cve_id": "CVE-2026-34764",
+        "product": "electron",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8jr8-v43g-5c57",
+        "cve_id": "CVE-2026-35538",
+        "product": "roundcube/roundcubemail",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rxj3-rrwm-pj4r",
+        "cve_id": "CVE-2026-35537",
+        "product": "roundcube/roundcubemail",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qh3j-mrg8-f234",
+        "cve_id": "CVE-2026-35038",
+        "product": "signalk-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-jfqx-fxh3-c62j",
+        "cve_id": "CVE-2026-34768",
+        "product": "electron",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xw45-cc32-442f",
+        "cve_id": "CVE-2026-34762",
+        "product": "github.com/ellanetworks/core",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-63hf-3vf5-4wqf",
+        "cve_id": "CVE-2026-34520",
+        "product": "aiohttp",
+        "patch_rank": 60,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-mwh4-6h8g-pg8w",
+        "cve_id": "CVE-2026-34519",
+        "product": "aiohttp",
+        "patch_rank": 59,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-966j-vmvw-g2g9",
+        "cve_id": "CVE-2026-34518",
+        "product": "aiohttp",
+        "patch_rank": 58,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-qxgf-hmcj-3xw3",
+        "cve_id": "CVE-2026-34504",
+        "product": "openclaw",
+        "patch_rank": 26,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-gm2x-2g9h-ccm8",
+        "cve_id": "CVE-2026-33762",
+        "product": "github.com/go-git/go-git/v5",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w73w-g5xw-rwhf",
+        "cve_id": "CVE-2026-34224",
+        "product": "parse-server",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w9f8-gxf9-rhvw",
+        "cve_id": "CVE-2026-29071",
+        "product": "open-webui",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-pw7h-9g6p-c378",
+        "cve_id": "CVE-2026-35649",
+        "product": "openclaw",
+        "patch_rank": 18,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-7pq3-326h-f8q9",
+        "cve_id": "CVE-2026-33529",
+        "product": "github.com/tobychui/zoraxy",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-283w-xf3q-788v",
+        "cve_id": "CVE-2026-33674",
+        "product": "prestashop/prestashop",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2299-ghjr-6vjp",
+        "cve_id": "CVE-2026-33624",
+        "product": "parse-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vgjg-248p-rfm2",
+        "cve_id": "CVE-2026-33161",
+        "product": "craftcms/cms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5pgf-h923-m958",
+        "cve_id": "CVE-2026-33160",
+        "product": "craftcms/cms",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-gmfg-3v4q-9qr4",
+        "cve_id": "CVE-2026-33525",
+        "product": "github.com/authelia/authelia/v4",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5239-wwwm-4pmq",
+        "cve_id": "CVE-2026-4539",
+        "product": "Pygments",
+        "patch_rank": 2301,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2j6q-whv2-gh6w",
+        "cve_id": "CVE-2026-33490",
+        "product": "h3",
+        "patch_rank": 144,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rfx7-8w68-q57q",
+        "cve_id": "CVE-2026-33343",
+        "product": "go.etcd.io/etcd/v3",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-6hcq-hmm3-jj3c",
+        "cve_id": "CVE-2026-22735",
+        "product": "org.springframework:spring-webmvc",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xx5w-cvp6-jv83",
+        "cve_id": "CVE-2026-34987",
+        "product": "wasmtime",
+        "patch_rank": 5,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-jhxm-h53p-jm7w",
+        "cve_id": "CVE-2026-34971",
+        "product": "wasmtime",
+        "patch_rank": 4,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-65w6-pf7x-5g85",
+        "cve_id": "CVE-2026-39397",
+        "product": "@delmaredigital/payload-puck",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3g6g-gq4r-xjm9",
+        "cve_id": "CVE-2026-35580",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 4,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rp9m-7r4c-75qg",
+        "cve_id": "CVE-2026-35039",
+        "product": "fast-jwt",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9cqf-439c-j96r",
+        "cve_id": "CVE-2026-35171",
+        "product": "kedro",
+        "patch_rank": 22,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-mvf2-f6gm-w987",
+        "cve_id": "CVE-2026-34950",
+        "product": "fast-jwt",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rpjr-985c-qhvm",
+        "cve_id": "CVE-2026-34557",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 33,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-v77r-xg3p-75g7",
+        "cve_id": "CVE-2026-34558",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 32,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hc5h-pmr3-3497",
+        "cve_id": "CVE-2026-33579",
+        "product": "openclaw",
+        "patch_rank": 25,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rvhj-8chj-8v3c",
+        "cve_id": "CVE-2026-0596",
+        "product": "mflow",
+        "patch_rank": 2186,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-vr79-8m62-wh98",
+        "cve_id": "CVE-2026-34361",
+        "product": "ca.uhn.hapi.fhir:org.hl7.fhir.validation",
+        "patch_rank": 2312,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r23q-823p-vmf7",
+        "cve_id": "CVE-2025-15379",
+        "product": "mlflow",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vhcx-3pq2-4fvc",
+        "cve_id": "CVE-2025-15036",
+        "product": "mlflow",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-gwhv-j974-6fxm",
+        "cve_id": "CVE-2026-34220",
+        "product": "@mikro-orm/core",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-q4q8-7f2j-9h9f",
+        "cve_id": "CVE-2026-33945",
+        "product": "github.com/lxc/incus/v6",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-83xr-5xxr-mh92",
+        "cve_id": "CVE-2026-33897",
+        "product": "github.com/lxc/incus/v6",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hc36-c89j-5f4j",
+        "cve_id": "CVE-2026-40070",
+        "product": "bsv-sdk",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-gpj5-g38j-94v9",
+        "cve_id": "CVE-2026-39356",
+        "product": "drizzle-orm",
+        "patch_rank": 2268,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-6c37-7w4p-jg9v",
+        "cve_id": "CVE-2026-35581",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-7526-j432-6ppp",
+        "cve_id": "CVE-2026-35607",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2316,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-v9w4-gm2x-6rvf",
+        "cve_id": "CVE-2026-35604",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2315,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fmwg-qcqh-m992",
+        "cve_id": "CVE-2026-35458",
+        "product": "github.com/gotenberg/gotenberg/v8",
+        "patch_rank": 10,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-q4gv-pjmh-c735",
+        "cve_id": "CVE-2026-4740",
+        "product": "open-cluster-management.io/ocm",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9jpj-g8vv-j5mf",
+        "cve_id": "CVE-2026-34511",
+        "product": "openclaw",
+        "patch_rank": 22,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-mcww-4hxq-hfr3",
+        "cve_id": "CVE-2026-30762",
+        "product": "lightrag-hku",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-38hg-ww64-rrwc",
+        "cve_id": "CVE-2026-35442",
+        "product": "directus",
+        "patch_rank": 4,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qqmv-5p3g-px89",
+        "cve_id": "CVE-2026-35412",
+        "product": "directus",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-wv3h-5fx7-966h",
+        "cve_id": "CVE-2026-35409",
+        "product": "directus",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8m32-p958-jg99",
+        "cve_id": "CVE-2026-35408",
+        "product": "directus",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v959-cwq9-7hr6",
+        "cve_id": "CVE-2026-35044",
+        "product": "bentoml",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fgv4-6jr3-jgfw",
+        "cve_id": "CVE-2026-35043",
+        "product": "bentoml",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-99j8-wv67-4c72",
+        "cve_id": "CVE-2026-39961",
+        "product": "github.com/aiven/aiven-operator",
+        "patch_rank": 157,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-f984-pcp8-v2p7",
+        "cve_id": "CVE-2026-35186",
+        "product": "wasmtime",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-394w-hwhg-8vgm",
+        "cve_id": "CVE-2026-35195",
+        "product": "wasmtime",
+        "patch_rank": 12,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-q49f-xg75-m9xw",
+        "cve_id": "CVE-2026-34946",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qqfj-4vcm-26hv",
+        "cve_id": "CVE-2026-34944",
+        "product": "wasmtime",
+        "patch_rank": 11,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-m758-wjhj-p3jq",
+        "cve_id": "CVE-2026-34943",
+        "product": "wasmtime",
+        "patch_rank": 10,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-jxhv-7h78-9775",
+        "cve_id": "CVE-2026-34942",
+        "product": "wasmtime",
+        "patch_rank": 9,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hx6p-xpx3-jvvv",
+        "cve_id": "CVE-2026-34941",
+        "product": "wasmtime",
+        "patch_rank": 8,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-w6c6-c85g-mmv6",
+        "cve_id": "CVE-2026-39395",
+        "product": "github.com/sigstore/cosign",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hxf2-gm22-7vcm",
+        "cve_id": "CVE-2026-35583",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-67cg-cpj7-qgc9",
+        "cve_id": "CVE-2026-35606",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2314,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5q48-q4fm-g3m6",
+        "cve_id": "CVE-2026-35605",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2313,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-cpm7-cfpx-3hvp",
+        "cve_id": "CVE-2026-35571",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-mmg9-6m6j-jqqx",
+        "cve_id": "CVE-2026-34166",
+        "product": "liquidjs",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9899-m83m-qhpj",
+        "cve_id": "CVE-2026-34766",
+        "product": "electron",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3wq7-rqq7-wx6j",
+        "cve_id": "CVE-2026-34517",
+        "product": "aiohttp",
+        "patch_rank": 57,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2vrm-gr82-f7m5",
+        "cve_id": "CVE-2026-34514",
+        "product": "aiohttp",
+        "patch_rank": 56,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hcc4-c3v8-rx92",
+        "cve_id": "CVE-2026-34513",
+        "product": "aiohttp",
+        "patch_rank": 55,
+        "tca": 0
+      }
+    ],
+    "dense_minilm": [
+      {
+        "id": "GHSA-3p68-rc4w-qgx5",
+        "cve_id": "CVE-2025-62718",
+        "product": "axios",
+        "patch_rank": 734,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5ghq-42rg-769x",
+        "cve_id": "CVE-2026-35035",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2212,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fcm4-4pj2-m5hf",
+        "cve_id": "CVE-2026-35216",
+        "product": "@budibase/server",
+        "patch_rank": 1993,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-x8hc-fqv3-7gwf",
+        "cve_id": "CVE-2026-33950",
+        "product": "signalk-server",
+        "patch_rank": 2231,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-7r9j-r86q-7g45",
+        "cve_id": "CVE-2026-31818",
+        "product": "@budibase/backend-core",
+        "patch_rank": 2019,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-77rh-m34w-rv36",
+        "cve_id": "CVE-2026-35002",
+        "product": "agno",
+        "patch_rank": 2055,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fc4p-p49v-r948",
+        "cve_id": "CVE-2026-34571",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2013,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fhrf-q333-82fm",
+        "cve_id": "CVE-2026-34569",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2014,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-x7wh-g25g-53vg",
+        "cve_id": "CVE-2026-34568",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2012,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r33w-c82v-x5v7",
+        "cve_id": "CVE-2026-34567",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2014,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-458r-h248-29c5",
+        "cve_id": "CVE-2026-34566",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2017,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-xgh5-w62m-8mpr",
+        "cve_id": "CVE-2026-34565",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2012,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-g4pp-fhgf-8653",
+        "cve_id": "CVE-2026-34564",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2016,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-85m8-g393-jcxf",
+        "cve_id": "CVE-2026-34563",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2018,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r4v5-rwr2-q7r4",
+        "cve_id": "CVE-2026-34560",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2017,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-4333-387x-w245",
+        "cve_id": "CVE-2026-34559",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2024,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hp5w-3hxx-vmwf",
+        "cve_id": "CVE-2026-34751",
+        "product": "payload",
+        "patch_rank": 2060,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-68p4-j234-43mv",
+        "cve_id": "CVE-2026-34449",
+        "product": "github.com/siyuan-note/siyuan/kernel",
+        "patch_rank": 2187,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rx4h-526q-4458",
+        "cve_id": "CVE-2026-34448",
+        "product": "github.com/siyuan-note/siyuan/kernel",
+        "patch_rank": 2192,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-vv7q-7jx5-f767",
+        "cve_id": "CVE-2026-32871",
+        "product": "fastmcp",
+        "patch_rank": 2079,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-px3p-vgh9-m57c",
+        "cve_id": "CVE-2026-34156",
+        "product": "@nocobase/plugin-workflow-javascript",
+        "patch_rank": 1305,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fhh2-gg7w-gwpq",
+        "cve_id": "CVE-2026-33026",
+        "product": "github.com/0xJacky/Nginx-UI",
+        "patch_rank": 2038,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2w6w-674q-4c4q",
+        "cve_id": "CVE-2026-33937",
+        "product": "handlebars",
+        "patch_rank": 104,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fvh3-672c-7p6c",
+        "cve_id": "CVE-2026-22738",
+        "product": "org.springframework.ai:spring-ai-vector-store",
+        "patch_rank": 617,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2vq4-854f-5c72",
+        "cve_id": "CVE-2026-35595",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 14,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-q5jf-9vfq-h4h7",
+        "cve_id": "CVE-2026-35205",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vmx8-mqv2-9gmg",
+        "cve_id": "CVE-2026-35204",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8jvc-mcx6-r4cg",
+        "cve_id": "CVE-2026-34727",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 15,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-9hfr-gw99-8rhx",
+        "cve_id": "CVE-2026-40069",
+        "product": "bsv-sdk",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-chqc-8p9q-pq6q",
+        "cve_id": "CVE-2026-39983",
+        "product": "basic-ftp",
+        "patch_rank": 2200,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5gfj-64gh-mgmw",
+        "cve_id": "CVE-2026-39981",
+        "product": "agixt",
+        "patch_rank": 1627,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-4ggg-h7ph-26qr",
+        "cve_id": "CVE-2026-39974",
+        "product": "n8n-mcp",
+        "patch_rank": 1974,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hwr4-mq23-wcv5",
+        "cve_id": "CVE-2026-39972",
+        "product": "github.com/dunglas/mercure",
+        "patch_rank": 169,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hfvc-g4fc-pqhx",
+        "cve_id": "CVE-2026-39883",
+        "product": "go.opentelemetry.io/otel/sdk",
+        "patch_rank": 273,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-vfhx-5459-qhqh",
+        "cve_id": "CVE-2026-39394",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 6,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-8rh5-4mvx-xj7j",
+        "cve_id": "CVE-2026-39393",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 6,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-jpcj-7wfg-mqxv",
+        "cve_id": "CVE-2026-31040",
+        "product": "stata-mcp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3j3q-wp9x-585p",
+        "cve_id": "CVE-2026-39429",
+        "product": "github.com/kcp-dev/kcp",
+        "patch_rank": 72,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-56p5-8mhr-2fph",
+        "cve_id": "CVE-2026-35525",
+        "product": "liquidjs",
+        "patch_rank": 75,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-8jxr-pr72-r468",
+        "cve_id": "CVE-2026-35568",
+        "product": "io.modelcontextprotocol.sdk:mcp-core",
+        "patch_rank": 440,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-mh2q-q3fh-2475",
+        "cve_id": "CVE-2026-29181",
+        "product": "go.opentelemetry.io/otel/baggage",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v2wj-q39q-566r",
+        "cve_id": "CVE-2026-39364",
+        "product": "vite",
+        "patch_rank": 1946,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-p9ff-h696-f583",
+        "cve_id": "CVE-2026-39363",
+        "product": "vite",
+        "patch_rank": 1923,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-8x9r-hvwg-c55h",
+        "cve_id": "CVE-2026-35454",
+        "product": "github.com/coder/code-marketplace",
+        "patch_rank": 2214,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-737v-mqg7-c878",
+        "cve_id": "CVE-2026-35209",
+        "product": "defu",
+        "patch_rank": 2219,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-393c-p46r-7c95",
+        "cve_id": "CVE-2026-39942",
+        "product": "directus",
+        "patch_rank": 2001,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2wfh-rcwf-wh23",
+        "cve_id": "CVE-2026-35214",
+        "product": "@budibase/server",
+        "patch_rank": 1994,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5qhv-x9j4-c3vm",
+        "cve_id": "CVE-2026-35394",
+        "product": "@mobilenext/mobile-mcp",
+        "patch_rank": 656,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-v479-vf79-mg83",
+        "cve_id": "CVE-2026-40103",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 11,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-qh78-rvg3-cv54",
+        "cve_id": "CVE-2026-35602",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 18,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2g7h-7rqr-9p4r",
+        "cve_id": "CVE-2026-35601",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 20,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-45q4-x4r9-8fqj",
+        "cve_id": "CVE-2026-35600",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 21,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r4fg-73rc-hhh7",
+        "cve_id": "CVE-2026-35599",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 15,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-48ch-p4gq-x46x",
+        "cve_id": "CVE-2026-35598",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 16,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fgfv-pv97-6cmj",
+        "cve_id": "CVE-2026-35597",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 10,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hj5c-mhh2-g7jq",
+        "cve_id": "CVE-2026-35596",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 16,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hr2v-4r36-88hr",
+        "cve_id": "CVE-2026-35206",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-96q5-xm3p-7m84",
+        "cve_id": "CVE-2026-35594",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 19,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-95h2-gj7x-gx9w",
+        "cve_id": "CVE-2026-39315",
+        "product": "unhead",
+        "patch_rank": 1677,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-3j8v-cgw4-2g6q",
+        "cve_id": "CVE-2026-35040",
+        "product": "fast-jwt",
+        "patch_rank": 4,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hqxq-hwqf-wg83",
+        "cve_id": "CVE-2026-39901",
+        "product": "github.com/monetr/monetr",
+        "patch_rank": 1232,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-w8rr-5gcm-pp58",
+        "cve_id": "CVE-2026-39882",
+        "product": "go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp",
+        "patch_rank": 122,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fjpj-6qcq-6pw2",
+        "cve_id": "CVE-2026-39392",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-7cm9-v848-cfh2",
+        "cve_id": "CVE-2026-39391",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 4,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-x3hr-cp7x-44r2",
+        "cve_id": "CVE-2026-39390",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9rxp-f27p-wv3h",
+        "cve_id": "CVE-2026-39389",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 4,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qj83-cq47-w5f8",
+        "cve_id": "CVE-2026-39865",
+        "product": "axios",
+        "patch_rank": 32,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-v273-448j-v4qj",
+        "cve_id": "CVE-2026-39859",
+        "product": "liquidjs",
+        "patch_rank": 68,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rv5g-f82m-qrvv",
+        "cve_id": "CVE-2026-39412",
+        "product": "liquidjs",
+        "patch_rank": 10,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5mwj-v5jw-5c97",
+        "cve_id": "CVE-2026-39411",
+        "product": "@lobehub/lobehub",
+        "patch_rank": 2056,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-w8wv-vfpc-hw2w",
+        "cve_id": "CVE-2026-39844",
+        "product": "nicegui",
+        "patch_rank": 1831,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-3xxc-pwj6-jgrj",
+        "cve_id": "CVE-2026-33753",
+        "product": "rfc3161-client",
+        "patch_rank": 2006,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r5rp-j6wh-rvv4",
+        "cve_id": "CVE-2026-39410",
+        "product": "hono",
+        "patch_rank": 2034,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-xpcf-pg52-r92g",
+        "cve_id": "CVE-2026-39409",
+        "product": "hono",
+        "patch_rank": 2035,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-xf4j-xp2r-rqqx",
+        "cve_id": "CVE-2026-39408",
+        "product": "hono",
+        "patch_rank": 2035,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-wmmm-f939-6g9c",
+        "cve_id": "CVE-2026-39407",
+        "product": "hono",
+        "patch_rank": 2034,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-92pp-h63x-v22m",
+        "cve_id": "CVE-2026-39406",
+        "product": "@hono/node-server",
+        "patch_rank": 2182,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-h336-2wxm-pr6q",
+        "cve_id": "CVE-2026-22680",
+        "product": "OpenViking",
+        "patch_rank": 2120,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5f5r-95pg-xrpm",
+        "cve_id": "CVE-2026-40077",
+        "product": "github.com/henrygd/beszel",
+        "patch_rank": 2193,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-6wgr-89rj-399p",
+        "cve_id": "CVE-2026-34988",
+        "product": "wasmtime",
+        "patch_rank": 1931,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hfr4-7c6c-48w2",
+        "cve_id": "CVE-2026-34983",
+        "product": "wasmtime",
+        "patch_rank": 1930,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-m9w2-8782-2946",
+        "cve_id": "CVE-2026-34945",
+        "product": "wasmtime",
+        "patch_rank": 1925,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-f37v-82c4-4x64",
+        "cve_id": "CVE-2026-34781",
+        "product": "electron",
+        "patch_rank": 1861,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-3h9h-qfvw-98hq",
+        "cve_id": "CVE-2025-64181",
+        "product": "OpenEXR",
+        "patch_rank": 446,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-vr5f-2r24-w5hc",
+        "cve_id": "CVE-2026-35200",
+        "product": "parse-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8x5q-pvf5-64mp",
+        "cve_id": "CVE-2026-34764",
+        "product": "electron",
+        "patch_rank": 1746,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-8jr8-v43g-5c57",
+        "cve_id": "CVE-2026-35538",
+        "product": "roundcube/roundcubemail",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rxj3-rrwm-pj4r",
+        "cve_id": "CVE-2026-35537",
+        "product": "roundcube/roundcubemail",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qh3j-mrg8-f234",
+        "cve_id": "CVE-2026-35038",
+        "product": "signalk-server",
+        "patch_rank": 2006,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-jfqx-fxh3-c62j",
+        "cve_id": "CVE-2026-34768",
+        "product": "electron",
+        "patch_rank": 432,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-xw45-cc32-442f",
+        "cve_id": "CVE-2026-34762",
+        "product": "github.com/ellanetworks/core",
+        "patch_rank": 2207,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-63hf-3vf5-4wqf",
+        "cve_id": "CVE-2026-34520",
+        "product": "aiohttp",
+        "patch_rank": 2197,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-mwh4-6h8g-pg8w",
+        "cve_id": "CVE-2026-34519",
+        "product": "aiohttp",
+        "patch_rank": 2188,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-966j-vmvw-g2g9",
+        "cve_id": "CVE-2026-34518",
+        "product": "aiohttp",
+        "patch_rank": 2196,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-qxgf-hmcj-3xw3",
+        "cve_id": "CVE-2026-34504",
+        "product": "openclaw",
+        "patch_rank": 2031,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-gm2x-2g9h-ccm8",
+        "cve_id": "CVE-2026-33762",
+        "product": "github.com/go-git/go-git/v5",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w73w-g5xw-rwhf",
+        "cve_id": "CVE-2026-34224",
+        "product": "parse-server",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w9f8-gxf9-rhvw",
+        "cve_id": "CVE-2026-29071",
+        "product": "open-webui",
+        "patch_rank": 186,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-pw7h-9g6p-c378",
+        "cve_id": "CVE-2026-35649",
+        "product": "openclaw",
+        "patch_rank": 1561,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-7pq3-326h-f8q9",
+        "cve_id": "CVE-2026-33529",
+        "product": "github.com/tobychui/zoraxy",
+        "patch_rank": 465,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-283w-xf3q-788v",
+        "cve_id": "CVE-2026-33674",
+        "product": "prestashop/prestashop",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2299-ghjr-6vjp",
+        "cve_id": "CVE-2026-33624",
+        "product": "parse-server",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vgjg-248p-rfm2",
+        "cve_id": "CVE-2026-33161",
+        "product": "craftcms/cms",
+        "patch_rank": 2037,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5pgf-h923-m958",
+        "cve_id": "CVE-2026-33160",
+        "product": "craftcms/cms",
+        "patch_rank": 2044,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-gmfg-3v4q-9qr4",
+        "cve_id": "CVE-2026-33525",
+        "product": "github.com/authelia/authelia/v4",
+        "patch_rank": 198,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5239-wwwm-4pmq",
+        "cve_id": "CVE-2026-4539",
+        "product": "Pygments",
+        "patch_rank": 2193,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2j6q-whv2-gh6w",
+        "cve_id": "CVE-2026-33490",
+        "product": "h3",
+        "patch_rank": 1164,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rfx7-8w68-q57q",
+        "cve_id": "CVE-2026-33343",
+        "product": "go.etcd.io/etcd/v3",
+        "patch_rank": 25,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-6hcq-hmm3-jj3c",
+        "cve_id": "CVE-2026-22735",
+        "product": "org.springframework:spring-webmvc",
+        "patch_rank": 1787,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-xx5w-cvp6-jv83",
+        "cve_id": "CVE-2026-34987",
+        "product": "wasmtime",
+        "patch_rank": 1923,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-jhxm-h53p-jm7w",
+        "cve_id": "CVE-2026-34971",
+        "product": "wasmtime",
+        "patch_rank": 1942,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-65w6-pf7x-5g85",
+        "cve_id": "CVE-2026-39397",
+        "product": "@delmaredigital/payload-puck",
+        "patch_rank": 1857,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-3g6g-gq4r-xjm9",
+        "cve_id": "CVE-2026-35580",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 112,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rp9m-7r4c-75qg",
+        "cve_id": "CVE-2026-35039",
+        "product": "fast-jwt",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9cqf-439c-j96r",
+        "cve_id": "CVE-2026-35171",
+        "product": "kedro",
+        "patch_rank": 1465,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-mvf2-f6gm-w987",
+        "cve_id": "CVE-2026-34950",
+        "product": "fast-jwt",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rpjr-985c-qhvm",
+        "cve_id": "CVE-2026-34557",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2021,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-v77r-xg3p-75g7",
+        "cve_id": "CVE-2026-34558",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2022,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hc5h-pmr3-3497",
+        "cve_id": "CVE-2026-33579",
+        "product": "openclaw",
+        "patch_rank": 2013,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rvhj-8chj-8v3c",
+        "cve_id": "CVE-2026-0596",
+        "product": "mflow",
+        "patch_rank": 1920,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-vr79-8m62-wh98",
+        "cve_id": "CVE-2026-34361",
+        "product": "ca.uhn.hapi.fhir:org.hl7.fhir.validation",
+        "patch_rank": 2160,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r23q-823p-vmf7",
+        "cve_id": "CVE-2025-15379",
+        "product": "mlflow",
+        "patch_rank": 30,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-vhcx-3pq2-4fvc",
+        "cve_id": "CVE-2025-15036",
+        "product": "mlflow",
+        "patch_rank": 303,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-gwhv-j974-6fxm",
+        "cve_id": "CVE-2026-34220",
+        "product": "@mikro-orm/core",
+        "patch_rank": 1718,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-q4q8-7f2j-9h9f",
+        "cve_id": "CVE-2026-33945",
+        "product": "github.com/lxc/incus/v6",
+        "patch_rank": 475,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-83xr-5xxr-mh92",
+        "cve_id": "CVE-2026-33897",
+        "product": "github.com/lxc/incus/v6",
+        "patch_rank": 795,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hc36-c89j-5f4j",
+        "cve_id": "CVE-2026-40070",
+        "product": "bsv-sdk",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-gpj5-g38j-94v9",
+        "cve_id": "CVE-2026-39356",
+        "product": "drizzle-orm",
+        "patch_rank": 2239,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-6c37-7w4p-jg9v",
+        "cve_id": "CVE-2026-35581",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 99,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-7526-j432-6ppp",
+        "cve_id": "CVE-2026-35607",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2240,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-v9w4-gm2x-6rvf",
+        "cve_id": "CVE-2026-35604",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2238,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fmwg-qcqh-m992",
+        "cve_id": "CVE-2026-35458",
+        "product": "github.com/gotenberg/gotenberg/v8",
+        "patch_rank": 2077,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-q4gv-pjmh-c735",
+        "cve_id": "CVE-2026-4740",
+        "product": "open-cluster-management.io/ocm",
+        "patch_rank": 46,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-9jpj-g8vv-j5mf",
+        "cve_id": "CVE-2026-34511",
+        "product": "openclaw",
+        "patch_rank": 2008,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-mcww-4hxq-hfr3",
+        "cve_id": "CVE-2026-30762",
+        "product": "lightrag-hku",
+        "patch_rank": 1780,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-38hg-ww64-rrwc",
+        "cve_id": "CVE-2026-35442",
+        "product": "directus",
+        "patch_rank": 1929,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-qqmv-5p3g-px89",
+        "cve_id": "CVE-2026-35412",
+        "product": "directus",
+        "patch_rank": 1972,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-wv3h-5fx7-966h",
+        "cve_id": "CVE-2026-35409",
+        "product": "directus",
+        "patch_rank": 1818,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-8m32-p958-jg99",
+        "cve_id": "CVE-2026-35408",
+        "product": "directus",
+        "patch_rank": 1916,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-v959-cwq9-7hr6",
+        "cve_id": "CVE-2026-35044",
+        "product": "bentoml",
+        "patch_rank": 2056,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fgv4-6jr3-jgfw",
+        "cve_id": "CVE-2026-35043",
+        "product": "bentoml",
+        "patch_rank": 2055,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-99j8-wv67-4c72",
+        "cve_id": "CVE-2026-39961",
+        "product": "github.com/aiven/aiven-operator",
+        "patch_rank": 2195,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-f984-pcp8-v2p7",
+        "cve_id": "CVE-2026-35186",
+        "product": "wasmtime",
+        "patch_rank": 1851,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-394w-hwhg-8vgm",
+        "cve_id": "CVE-2026-35195",
+        "product": "wasmtime",
+        "patch_rank": 1867,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-q49f-xg75-m9xw",
+        "cve_id": "CVE-2026-34946",
+        "product": "wasmtime",
+        "patch_rank": 1888,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-qqfj-4vcm-26hv",
+        "cve_id": "CVE-2026-34944",
+        "product": "wasmtime",
+        "patch_rank": 1847,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-m758-wjhj-p3jq",
+        "cve_id": "CVE-2026-34943",
+        "product": "wasmtime",
+        "patch_rank": 1851,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-jxhv-7h78-9775",
+        "cve_id": "CVE-2026-34942",
+        "product": "wasmtime",
+        "patch_rank": 1821,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hx6p-xpx3-jvvv",
+        "cve_id": "CVE-2026-34941",
+        "product": "wasmtime",
+        "patch_rank": 1854,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-w6c6-c85g-mmv6",
+        "cve_id": "CVE-2026-39395",
+        "product": "github.com/sigstore/cosign",
+        "patch_rank": 1559,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hxf2-gm22-7vcm",
+        "cve_id": "CVE-2026-35583",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 92,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-67cg-cpj7-qgc9",
+        "cve_id": "CVE-2026-35606",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2241,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5q48-q4fm-g3m6",
+        "cve_id": "CVE-2026-35605",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2239,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-cpm7-cfpx-3hvp",
+        "cve_id": "CVE-2026-35571",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 92,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-mmg9-6m6j-jqqx",
+        "cve_id": "CVE-2026-34166",
+        "product": "liquidjs",
+        "patch_rank": 57,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-9899-m83m-qhpj",
+        "cve_id": "CVE-2026-34766",
+        "product": "electron",
+        "patch_rank": 450,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-3wq7-rqq7-wx6j",
+        "cve_id": "CVE-2026-34517",
+        "product": "aiohttp",
+        "patch_rank": 2194,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2vrm-gr82-f7m5",
+        "cve_id": "CVE-2026-34514",
+        "product": "aiohttp",
+        "patch_rank": 2189,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hcc4-c3v8-rx92",
+        "cve_id": "CVE-2026-34513",
+        "product": "aiohttp",
+        "patch_rank": 2191,
+        "tca": 0
+      }
+    ],
+    "dense_e5large": [
+      {
+        "id": "GHSA-3p68-rc4w-qgx5",
+        "cve_id": "CVE-2025-62718",
+        "product": "axios",
+        "patch_rank": 2051,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5ghq-42rg-769x",
+        "cve_id": "CVE-2026-35035",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2089,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fcm4-4pj2-m5hf",
+        "cve_id": "CVE-2026-35216",
+        "product": "@budibase/server",
+        "patch_rank": 349,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-x8hc-fqv3-7gwf",
+        "cve_id": "CVE-2026-33950",
+        "product": "signalk-server",
+        "patch_rank": 2023,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-7r9j-r86q-7g45",
+        "cve_id": "CVE-2026-31818",
+        "product": "@budibase/backend-core",
+        "patch_rank": 11,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-77rh-m34w-rv36",
+        "cve_id": "CVE-2026-35002",
+        "product": "agno",
+        "patch_rank": 1246,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fc4p-p49v-r948",
+        "cve_id": "CVE-2026-34571",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2140,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fhrf-q333-82fm",
+        "cve_id": "CVE-2026-34569",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2150,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-x7wh-g25g-53vg",
+        "cve_id": "CVE-2026-34568",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2133,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r33w-c82v-x5v7",
+        "cve_id": "CVE-2026-34567",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2120,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-458r-h248-29c5",
+        "cve_id": "CVE-2026-34566",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2146,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-xgh5-w62m-8mpr",
+        "cve_id": "CVE-2026-34565",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2150,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-g4pp-fhgf-8653",
+        "cve_id": "CVE-2026-34564",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2139,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-85m8-g393-jcxf",
+        "cve_id": "CVE-2026-34563",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2151,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r4v5-rwr2-q7r4",
+        "cve_id": "CVE-2026-34560",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2146,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-4333-387x-w245",
+        "cve_id": "CVE-2026-34559",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2143,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hp5w-3hxx-vmwf",
+        "cve_id": "CVE-2026-34751",
+        "product": "payload",
+        "patch_rank": 2068,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-68p4-j234-43mv",
+        "cve_id": "CVE-2026-34449",
+        "product": "github.com/siyuan-note/siyuan/kernel",
+        "patch_rank": 410,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rx4h-526q-4458",
+        "cve_id": "CVE-2026-34448",
+        "product": "github.com/siyuan-note/siyuan/kernel",
+        "patch_rank": 523,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-vv7q-7jx5-f767",
+        "cve_id": "CVE-2026-32871",
+        "product": "fastmcp",
+        "patch_rank": 2035,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-px3p-vgh9-m57c",
+        "cve_id": "CVE-2026-34156",
+        "product": "@nocobase/plugin-workflow-javascript",
+        "patch_rank": 193,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fhh2-gg7w-gwpq",
+        "cve_id": "CVE-2026-33026",
+        "product": "github.com/0xJacky/Nginx-UI",
+        "patch_rank": 2135,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2w6w-674q-4c4q",
+        "cve_id": "CVE-2026-33937",
+        "product": "handlebars",
+        "patch_rank": 1557,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fvh3-672c-7p6c",
+        "cve_id": "CVE-2026-22738",
+        "product": "org.springframework.ai:spring-ai-vector-store",
+        "patch_rank": 1009,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2vq4-854f-5c72",
+        "cve_id": "CVE-2026-35595",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 5,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-q5jf-9vfq-h4h7",
+        "cve_id": "CVE-2026-35205",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 237,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-vmx8-mqv2-9gmg",
+        "cve_id": "CVE-2026-35204",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 362,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-8jvc-mcx6-r4cg",
+        "cve_id": "CVE-2026-34727",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9hfr-gw99-8rhx",
+        "cve_id": "CVE-2026-40069",
+        "product": "bsv-sdk",
+        "patch_rank": 1580,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-chqc-8p9q-pq6q",
+        "cve_id": "CVE-2026-39983",
+        "product": "basic-ftp",
+        "patch_rank": 1832,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5gfj-64gh-mgmw",
+        "cve_id": "CVE-2026-39981",
+        "product": "agixt",
+        "patch_rank": 2028,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-4ggg-h7ph-26qr",
+        "cve_id": "CVE-2026-39974",
+        "product": "n8n-mcp",
+        "patch_rank": 1687,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hwr4-mq23-wcv5",
+        "cve_id": "CVE-2026-39972",
+        "product": "github.com/dunglas/mercure",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hfvc-g4fc-pqhx",
+        "cve_id": "CVE-2026-39883",
+        "product": "go.opentelemetry.io/otel/sdk",
+        "patch_rank": 1634,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-vfhx-5459-qhqh",
+        "cve_id": "CVE-2026-39394",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 1992,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-8rh5-4mvx-xj7j",
+        "cve_id": "CVE-2026-39393",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 1992,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-jpcj-7wfg-mqxv",
+        "cve_id": "CVE-2026-31040",
+        "product": "stata-mcp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3j3q-wp9x-585p",
+        "cve_id": "CVE-2026-39429",
+        "product": "github.com/kcp-dev/kcp",
+        "patch_rank": 386,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-56p5-8mhr-2fph",
+        "cve_id": "CVE-2026-35525",
+        "product": "liquidjs",
+        "patch_rank": 190,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-8jxr-pr72-r468",
+        "cve_id": "CVE-2026-35568",
+        "product": "io.modelcontextprotocol.sdk:mcp-core",
+        "patch_rank": 111,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-mh2q-q3fh-2475",
+        "cve_id": "CVE-2026-29181",
+        "product": "go.opentelemetry.io/otel/baggage",
+        "patch_rank": 238,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-v2wj-q39q-566r",
+        "cve_id": "CVE-2026-39364",
+        "product": "vite",
+        "patch_rank": 2008,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-p9ff-h696-f583",
+        "cve_id": "CVE-2026-39363",
+        "product": "vite",
+        "patch_rank": 1996,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-8x9r-hvwg-c55h",
+        "cve_id": "CVE-2026-35454",
+        "product": "github.com/coder/code-marketplace",
+        "patch_rank": 2312,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-737v-mqg7-c878",
+        "cve_id": "CVE-2026-35209",
+        "product": "defu",
+        "patch_rank": 2063,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-393c-p46r-7c95",
+        "cve_id": "CVE-2026-39942",
+        "product": "directus",
+        "patch_rank": 2033,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2wfh-rcwf-wh23",
+        "cve_id": "CVE-2026-35214",
+        "product": "@budibase/server",
+        "patch_rank": 458,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5qhv-x9j4-c3vm",
+        "cve_id": "CVE-2026-35394",
+        "product": "@mobilenext/mobile-mcp",
+        "patch_rank": 1952,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-v479-vf79-mg83",
+        "cve_id": "CVE-2026-40103",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 9,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-qh78-rvg3-cv54",
+        "cve_id": "CVE-2026-35602",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 9,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2g7h-7rqr-9p4r",
+        "cve_id": "CVE-2026-35601",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 7,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-45q4-x4r9-8fqj",
+        "cve_id": "CVE-2026-35600",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 7,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r4fg-73rc-hhh7",
+        "cve_id": "CVE-2026-35599",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 7,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-48ch-p4gq-x46x",
+        "cve_id": "CVE-2026-35598",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 9,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fgfv-pv97-6cmj",
+        "cve_id": "CVE-2026-35597",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 6,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hj5c-mhh2-g7jq",
+        "cve_id": "CVE-2026-35596",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hr2v-4r36-88hr",
+        "cve_id": "CVE-2026-35206",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 287,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-96q5-xm3p-7m84",
+        "cve_id": "CVE-2026-35594",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 11,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-95h2-gj7x-gx9w",
+        "cve_id": "CVE-2026-39315",
+        "product": "unhead",
+        "patch_rank": 2003,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-3j8v-cgw4-2g6q",
+        "cve_id": "CVE-2026-35040",
+        "product": "fast-jwt",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hqxq-hwqf-wg83",
+        "cve_id": "CVE-2026-39901",
+        "product": "github.com/monetr/monetr",
+        "patch_rank": 65,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-w8rr-5gcm-pp58",
+        "cve_id": "CVE-2026-39882",
+        "product": "go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp",
+        "patch_rank": 225,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fjpj-6qcq-6pw2",
+        "cve_id": "CVE-2026-39392",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 1979,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-7cm9-v848-cfh2",
+        "cve_id": "CVE-2026-39391",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 1986,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-x3hr-cp7x-44r2",
+        "cve_id": "CVE-2026-39390",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 1992,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-9rxp-f27p-wv3h",
+        "cve_id": "CVE-2026-39389",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 1986,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-qj83-cq47-w5f8",
+        "cve_id": "CVE-2026-39865",
+        "product": "axios",
+        "patch_rank": 1816,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-v273-448j-v4qj",
+        "cve_id": "CVE-2026-39859",
+        "product": "liquidjs",
+        "patch_rank": 1505,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rv5g-f82m-qrvv",
+        "cve_id": "CVE-2026-39412",
+        "product": "liquidjs",
+        "patch_rank": 638,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5mwj-v5jw-5c97",
+        "cve_id": "CVE-2026-39411",
+        "product": "@lobehub/lobehub",
+        "patch_rank": 433,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-w8wv-vfpc-hw2w",
+        "cve_id": "CVE-2026-39844",
+        "product": "nicegui",
+        "patch_rank": 1504,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-3xxc-pwj6-jgrj",
+        "cve_id": "CVE-2026-33753",
+        "product": "rfc3161-client",
+        "patch_rank": 2081,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r5rp-j6wh-rvv4",
+        "cve_id": "CVE-2026-39410",
+        "product": "hono",
+        "patch_rank": 136,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-xpcf-pg52-r92g",
+        "cve_id": "CVE-2026-39409",
+        "product": "hono",
+        "patch_rank": 103,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-xf4j-xp2r-rqqx",
+        "cve_id": "CVE-2026-39408",
+        "product": "hono",
+        "patch_rank": 100,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-wmmm-f939-6g9c",
+        "cve_id": "CVE-2026-39407",
+        "product": "hono",
+        "patch_rank": 71,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-92pp-h63x-v22m",
+        "cve_id": "CVE-2026-39406",
+        "product": "@hono/node-server",
+        "patch_rank": 2114,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-h336-2wxm-pr6q",
+        "cve_id": "CVE-2026-22680",
+        "product": "OpenViking",
+        "patch_rank": 554,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5f5r-95pg-xrpm",
+        "cve_id": "CVE-2026-40077",
+        "product": "github.com/henrygd/beszel",
+        "patch_rank": 1312,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-6wgr-89rj-399p",
+        "cve_id": "CVE-2026-34988",
+        "product": "wasmtime",
+        "patch_rank": 10,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hfr4-7c6c-48w2",
+        "cve_id": "CVE-2026-34983",
+        "product": "wasmtime",
+        "patch_rank": 17,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-m9w2-8782-2946",
+        "cve_id": "CVE-2026-34945",
+        "product": "wasmtime",
+        "patch_rank": 15,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-f37v-82c4-4x64",
+        "cve_id": "CVE-2026-34781",
+        "product": "electron",
+        "patch_rank": 2101,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-3h9h-qfvw-98hq",
+        "cve_id": "CVE-2025-64181",
+        "product": "OpenEXR",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vr5f-2r24-w5hc",
+        "cve_id": "CVE-2026-35200",
+        "product": "parse-server",
+        "patch_rank": 1493,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-8x5q-pvf5-64mp",
+        "cve_id": "CVE-2026-34764",
+        "product": "electron",
+        "patch_rank": 2083,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-8jr8-v43g-5c57",
+        "cve_id": "CVE-2026-35538",
+        "product": "roundcube/roundcubemail",
+        "patch_rank": 591,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rxj3-rrwm-pj4r",
+        "cve_id": "CVE-2026-35537",
+        "product": "roundcube/roundcubemail",
+        "patch_rank": 338,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-qh3j-mrg8-f234",
+        "cve_id": "CVE-2026-35038",
+        "product": "signalk-server",
+        "patch_rank": 2053,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-jfqx-fxh3-c62j",
+        "cve_id": "CVE-2026-34768",
+        "product": "electron",
+        "patch_rank": 2022,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-xw45-cc32-442f",
+        "cve_id": "CVE-2026-34762",
+        "product": "github.com/ellanetworks/core",
+        "patch_rank": 678,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-63hf-3vf5-4wqf",
+        "cve_id": "CVE-2026-34520",
+        "product": "aiohttp",
+        "patch_rank": 685,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-mwh4-6h8g-pg8w",
+        "cve_id": "CVE-2026-34519",
+        "product": "aiohttp",
+        "patch_rank": 1056,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-966j-vmvw-g2g9",
+        "cve_id": "CVE-2026-34518",
+        "product": "aiohttp",
+        "patch_rank": 935,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-qxgf-hmcj-3xw3",
+        "cve_id": "CVE-2026-34504",
+        "product": "openclaw",
+        "patch_rank": 2042,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-gm2x-2g9h-ccm8",
+        "cve_id": "CVE-2026-33762",
+        "product": "github.com/go-git/go-git/v5",
+        "patch_rank": 60,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-w73w-g5xw-rwhf",
+        "cve_id": "CVE-2026-34224",
+        "product": "parse-server",
+        "patch_rank": 302,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-w9f8-gxf9-rhvw",
+        "cve_id": "CVE-2026-29071",
+        "product": "open-webui",
+        "patch_rank": 2081,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-pw7h-9g6p-c378",
+        "cve_id": "CVE-2026-35649",
+        "product": "openclaw",
+        "patch_rank": 1950,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-7pq3-326h-f8q9",
+        "cve_id": "CVE-2026-33529",
+        "product": "github.com/tobychui/zoraxy",
+        "patch_rank": 524,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-283w-xf3q-788v",
+        "cve_id": "CVE-2026-33674",
+        "product": "prestashop/prestashop",
+        "patch_rank": 1,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2299-ghjr-6vjp",
+        "cve_id": "CVE-2026-33624",
+        "product": "parse-server",
+        "patch_rank": 33,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-vgjg-248p-rfm2",
+        "cve_id": "CVE-2026-33161",
+        "product": "craftcms/cms",
+        "patch_rank": 797,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5pgf-h923-m958",
+        "cve_id": "CVE-2026-33160",
+        "product": "craftcms/cms",
+        "patch_rank": 450,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-gmfg-3v4q-9qr4",
+        "cve_id": "CVE-2026-33525",
+        "product": "github.com/authelia/authelia/v4",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5239-wwwm-4pmq",
+        "cve_id": "CVE-2026-4539",
+        "product": "Pygments",
+        "patch_rank": 2181,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2j6q-whv2-gh6w",
+        "cve_id": "CVE-2026-33490",
+        "product": "h3",
+        "patch_rank": 1867,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rfx7-8w68-q57q",
+        "cve_id": "CVE-2026-33343",
+        "product": "go.etcd.io/etcd/v3",
+        "patch_rank": 770,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-6hcq-hmm3-jj3c",
+        "cve_id": "CVE-2026-22735",
+        "product": "org.springframework:spring-webmvc",
+        "patch_rank": 2035,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-xx5w-cvp6-jv83",
+        "cve_id": "CVE-2026-34987",
+        "product": "wasmtime",
+        "patch_rank": 12,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-jhxm-h53p-jm7w",
+        "cve_id": "CVE-2026-34971",
+        "product": "wasmtime",
+        "patch_rank": 11,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-65w6-pf7x-5g85",
+        "cve_id": "CVE-2026-39397",
+        "product": "@delmaredigital/payload-puck",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3g6g-gq4r-xjm9",
+        "cve_id": "CVE-2026-35580",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 1890,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rp9m-7r4c-75qg",
+        "cve_id": "CVE-2026-35039",
+        "product": "fast-jwt",
+        "patch_rank": 53,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-9cqf-439c-j96r",
+        "cve_id": "CVE-2026-35171",
+        "product": "kedro",
+        "patch_rank": 1623,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-mvf2-f6gm-w987",
+        "cve_id": "CVE-2026-34950",
+        "product": "fast-jwt",
+        "patch_rank": 32,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rpjr-985c-qhvm",
+        "cve_id": "CVE-2026-34557",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2130,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-v77r-xg3p-75g7",
+        "cve_id": "CVE-2026-34558",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2154,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hc5h-pmr3-3497",
+        "cve_id": "CVE-2026-33579",
+        "product": "openclaw",
+        "patch_rank": 2035,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-rvhj-8chj-8v3c",
+        "cve_id": "CVE-2026-0596",
+        "product": "mflow",
+        "patch_rank": 2143,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-vr79-8m62-wh98",
+        "cve_id": "CVE-2026-34361",
+        "product": "ca.uhn.hapi.fhir:org.hl7.fhir.validation",
+        "patch_rank": 2116,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-r23q-823p-vmf7",
+        "cve_id": "CVE-2025-15379",
+        "product": "mlflow",
+        "patch_rank": 3,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vhcx-3pq2-4fvc",
+        "cve_id": "CVE-2025-15036",
+        "product": "mlflow",
+        "patch_rank": 1873,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-gwhv-j974-6fxm",
+        "cve_id": "CVE-2026-34220",
+        "product": "@mikro-orm/core",
+        "patch_rank": 64,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-q4q8-7f2j-9h9f",
+        "cve_id": "CVE-2026-33945",
+        "product": "github.com/lxc/incus/v6",
+        "patch_rank": 462,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-83xr-5xxr-mh92",
+        "cve_id": "CVE-2026-33897",
+        "product": "github.com/lxc/incus/v6",
+        "patch_rank": 322,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hc36-c89j-5f4j",
+        "cve_id": "CVE-2026-40070",
+        "product": "bsv-sdk",
+        "patch_rank": 1488,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-gpj5-g38j-94v9",
+        "cve_id": "CVE-2026-39356",
+        "product": "drizzle-orm",
+        "patch_rank": 2060,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-6c37-7w4p-jg9v",
+        "cve_id": "CVE-2026-35581",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 1923,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-7526-j432-6ppp",
+        "cve_id": "CVE-2026-35607",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2036,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-v9w4-gm2x-6rvf",
+        "cve_id": "CVE-2026-35604",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2048,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fmwg-qcqh-m992",
+        "cve_id": "CVE-2026-35458",
+        "product": "github.com/gotenberg/gotenberg/v8",
+        "patch_rank": 2171,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-q4gv-pjmh-c735",
+        "cve_id": "CVE-2026-4740",
+        "product": "open-cluster-management.io/ocm",
+        "patch_rank": 59,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-9jpj-g8vv-j5mf",
+        "cve_id": "CVE-2026-34511",
+        "product": "openclaw",
+        "patch_rank": 2093,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-mcww-4hxq-hfr3",
+        "cve_id": "CVE-2026-30762",
+        "product": "lightrag-hku",
+        "patch_rank": 1409,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-38hg-ww64-rrwc",
+        "cve_id": "CVE-2026-35442",
+        "product": "directus",
+        "patch_rank": 2033,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-qqmv-5p3g-px89",
+        "cve_id": "CVE-2026-35412",
+        "product": "directus",
+        "patch_rank": 1740,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-wv3h-5fx7-966h",
+        "cve_id": "CVE-2026-35409",
+        "product": "directus",
+        "patch_rank": 1974,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-8m32-p958-jg99",
+        "cve_id": "CVE-2026-35408",
+        "product": "directus",
+        "patch_rank": 2032,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-v959-cwq9-7hr6",
+        "cve_id": "CVE-2026-35044",
+        "product": "bentoml",
+        "patch_rank": 1333,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-fgv4-6jr3-jgfw",
+        "cve_id": "CVE-2026-35043",
+        "product": "bentoml",
+        "patch_rank": 1062,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-99j8-wv67-4c72",
+        "cve_id": "CVE-2026-39961",
+        "product": "github.com/aiven/aiven-operator",
+        "patch_rank": 2158,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-f984-pcp8-v2p7",
+        "cve_id": "CVE-2026-35186",
+        "product": "wasmtime",
+        "patch_rank": 15,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-394w-hwhg-8vgm",
+        "cve_id": "CVE-2026-35195",
+        "product": "wasmtime",
+        "patch_rank": 145,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-q49f-xg75-m9xw",
+        "cve_id": "CVE-2026-34946",
+        "product": "wasmtime",
+        "patch_rank": 13,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-qqfj-4vcm-26hv",
+        "cve_id": "CVE-2026-34944",
+        "product": "wasmtime",
+        "patch_rank": 67,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-m758-wjhj-p3jq",
+        "cve_id": "CVE-2026-34943",
+        "product": "wasmtime",
+        "patch_rank": 35,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-jxhv-7h78-9775",
+        "cve_id": "CVE-2026-34942",
+        "product": "wasmtime",
+        "patch_rank": 31,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hx6p-xpx3-jvvv",
+        "cve_id": "CVE-2026-34941",
+        "product": "wasmtime",
+        "patch_rank": 23,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-w6c6-c85g-mmv6",
+        "cve_id": "CVE-2026-39395",
+        "product": "github.com/sigstore/cosign",
+        "patch_rank": 680,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hxf2-gm22-7vcm",
+        "cve_id": "CVE-2026-35583",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 1937,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-67cg-cpj7-qgc9",
+        "cve_id": "CVE-2026-35606",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2019,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-5q48-q4fm-g3m6",
+        "cve_id": "CVE-2026-35605",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2032,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-cpm7-cfpx-3hvp",
+        "cve_id": "CVE-2026-35571",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 1906,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-mmg9-6m6j-jqqx",
+        "cve_id": "CVE-2026-34166",
+        "product": "liquidjs",
+        "patch_rank": 660,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-9899-m83m-qhpj",
+        "cve_id": "CVE-2026-34766",
+        "product": "electron",
+        "patch_rank": 2031,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-3wq7-rqq7-wx6j",
+        "cve_id": "CVE-2026-34517",
+        "product": "aiohttp",
+        "patch_rank": 926,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-2vrm-gr82-f7m5",
+        "cve_id": "CVE-2026-34514",
+        "product": "aiohttp",
+        "patch_rank": 953,
+        "tca": 0
+      },
+      {
+        "id": "GHSA-hcc4-c3v8-rx92",
+        "cve_id": "CVE-2026-34513",
+        "product": "aiohttp",
+        "patch_rank": 571,
+        "tca": 0
+      }
+    ],
+    "regex_ner_probe": [
+      {
+        "id": "GHSA-3p68-rc4w-qgx5",
+        "cve_id": "CVE-2025-62718",
+        "product": "axios",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5ghq-42rg-769x",
+        "cve_id": "CVE-2026-35035",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fcm4-4pj2-m5hf",
+        "cve_id": "CVE-2026-35216",
+        "product": "@budibase/server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-x8hc-fqv3-7gwf",
+        "cve_id": "CVE-2026-33950",
+        "product": "signalk-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-7r9j-r86q-7g45",
+        "cve_id": "CVE-2026-31818",
+        "product": "@budibase/backend-core",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-77rh-m34w-rv36",
+        "cve_id": "CVE-2026-35002",
+        "product": "agno",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fc4p-p49v-r948",
+        "cve_id": "CVE-2026-34571",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fhrf-q333-82fm",
+        "cve_id": "CVE-2026-34569",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-x7wh-g25g-53vg",
+        "cve_id": "CVE-2026-34568",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-r33w-c82v-x5v7",
+        "cve_id": "CVE-2026-34567",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-458r-h248-29c5",
+        "cve_id": "CVE-2026-34566",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xgh5-w62m-8mpr",
+        "cve_id": "CVE-2026-34565",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-g4pp-fhgf-8653",
+        "cve_id": "CVE-2026-34564",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-85m8-g393-jcxf",
+        "cve_id": "CVE-2026-34563",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-r4v5-rwr2-q7r4",
+        "cve_id": "CVE-2026-34560",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-4333-387x-w245",
+        "cve_id": "CVE-2026-34559",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hp5w-3hxx-vmwf",
+        "cve_id": "CVE-2026-34751",
+        "product": "payload",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-68p4-j234-43mv",
+        "cve_id": "CVE-2026-34449",
+        "product": "github.com/siyuan-note/siyuan/kernel",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rx4h-526q-4458",
+        "cve_id": "CVE-2026-34448",
+        "product": "github.com/siyuan-note/siyuan/kernel",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vv7q-7jx5-f767",
+        "cve_id": "CVE-2026-32871",
+        "product": "fastmcp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-px3p-vgh9-m57c",
+        "cve_id": "CVE-2026-34156",
+        "product": "@nocobase/plugin-workflow-javascript",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fhh2-gg7w-gwpq",
+        "cve_id": "CVE-2026-33026",
+        "product": "github.com/0xJacky/Nginx-UI",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2w6w-674q-4c4q",
+        "cve_id": "CVE-2026-33937",
+        "product": "handlebars",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fvh3-672c-7p6c",
+        "cve_id": "CVE-2026-22738",
+        "product": "org.springframework.ai:spring-ai-vector-store",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2vq4-854f-5c72",
+        "cve_id": "CVE-2026-35595",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-q5jf-9vfq-h4h7",
+        "cve_id": "CVE-2026-35205",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vmx8-mqv2-9gmg",
+        "cve_id": "CVE-2026-35204",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8jvc-mcx6-r4cg",
+        "cve_id": "CVE-2026-34727",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9hfr-gw99-8rhx",
+        "cve_id": "CVE-2026-40069",
+        "product": "bsv-sdk",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-chqc-8p9q-pq6q",
+        "cve_id": "CVE-2026-39983",
+        "product": "basic-ftp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5gfj-64gh-mgmw",
+        "cve_id": "CVE-2026-39981",
+        "product": "agixt",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-4ggg-h7ph-26qr",
+        "cve_id": "CVE-2026-39974",
+        "product": "n8n-mcp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hwr4-mq23-wcv5",
+        "cve_id": "CVE-2026-39972",
+        "product": "github.com/dunglas/mercure",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hfvc-g4fc-pqhx",
+        "cve_id": "CVE-2026-39883",
+        "product": "go.opentelemetry.io/otel/sdk",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vfhx-5459-qhqh",
+        "cve_id": "CVE-2026-39394",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8rh5-4mvx-xj7j",
+        "cve_id": "CVE-2026-39393",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-jpcj-7wfg-mqxv",
+        "cve_id": "CVE-2026-31040",
+        "product": "stata-mcp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3j3q-wp9x-585p",
+        "cve_id": "CVE-2026-39429",
+        "product": "github.com/kcp-dev/kcp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-56p5-8mhr-2fph",
+        "cve_id": "CVE-2026-35525",
+        "product": "liquidjs",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8jxr-pr72-r468",
+        "cve_id": "CVE-2026-35568",
+        "product": "io.modelcontextprotocol.sdk:mcp-core",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-mh2q-q3fh-2475",
+        "cve_id": "CVE-2026-29181",
+        "product": "go.opentelemetry.io/otel/baggage",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v2wj-q39q-566r",
+        "cve_id": "CVE-2026-39364",
+        "product": "vite",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-p9ff-h696-f583",
+        "cve_id": "CVE-2026-39363",
+        "product": "vite",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8x9r-hvwg-c55h",
+        "cve_id": "CVE-2026-35454",
+        "product": "github.com/coder/code-marketplace",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-737v-mqg7-c878",
+        "cve_id": "CVE-2026-35209",
+        "product": "defu",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-393c-p46r-7c95",
+        "cve_id": "CVE-2026-39942",
+        "product": "directus",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2wfh-rcwf-wh23",
+        "cve_id": "CVE-2026-35214",
+        "product": "@budibase/server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5qhv-x9j4-c3vm",
+        "cve_id": "CVE-2026-35394",
+        "product": "@mobilenext/mobile-mcp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v479-vf79-mg83",
+        "cve_id": "CVE-2026-40103",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qh78-rvg3-cv54",
+        "cve_id": "CVE-2026-35602",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2g7h-7rqr-9p4r",
+        "cve_id": "CVE-2026-35601",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-45q4-x4r9-8fqj",
+        "cve_id": "CVE-2026-35600",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-r4fg-73rc-hhh7",
+        "cve_id": "CVE-2026-35599",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-48ch-p4gq-x46x",
+        "cve_id": "CVE-2026-35598",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fgfv-pv97-6cmj",
+        "cve_id": "CVE-2026-35597",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hj5c-mhh2-g7jq",
+        "cve_id": "CVE-2026-35596",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hr2v-4r36-88hr",
+        "cve_id": "CVE-2026-35206",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-96q5-xm3p-7m84",
+        "cve_id": "CVE-2026-35594",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-95h2-gj7x-gx9w",
+        "cve_id": "CVE-2026-39315",
+        "product": "unhead",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3j8v-cgw4-2g6q",
+        "cve_id": "CVE-2026-35040",
+        "product": "fast-jwt",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hqxq-hwqf-wg83",
+        "cve_id": "CVE-2026-39901",
+        "product": "github.com/monetr/monetr",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w8rr-5gcm-pp58",
+        "cve_id": "CVE-2026-39882",
+        "product": "go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fjpj-6qcq-6pw2",
+        "cve_id": "CVE-2026-39392",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-7cm9-v848-cfh2",
+        "cve_id": "CVE-2026-39391",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-x3hr-cp7x-44r2",
+        "cve_id": "CVE-2026-39390",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9rxp-f27p-wv3h",
+        "cve_id": "CVE-2026-39389",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qj83-cq47-w5f8",
+        "cve_id": "CVE-2026-39865",
+        "product": "axios",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v273-448j-v4qj",
+        "cve_id": "CVE-2026-39859",
+        "product": "liquidjs",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rv5g-f82m-qrvv",
+        "cve_id": "CVE-2026-39412",
+        "product": "liquidjs",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5mwj-v5jw-5c97",
+        "cve_id": "CVE-2026-39411",
+        "product": "@lobehub/lobehub",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w8wv-vfpc-hw2w",
+        "cve_id": "CVE-2026-39844",
+        "product": "nicegui",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3xxc-pwj6-jgrj",
+        "cve_id": "CVE-2026-33753",
+        "product": "rfc3161-client",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-r5rp-j6wh-rvv4",
+        "cve_id": "CVE-2026-39410",
+        "product": "hono",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xpcf-pg52-r92g",
+        "cve_id": "CVE-2026-39409",
+        "product": "hono",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xf4j-xp2r-rqqx",
+        "cve_id": "CVE-2026-39408",
+        "product": "hono",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-wmmm-f939-6g9c",
+        "cve_id": "CVE-2026-39407",
+        "product": "hono",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-92pp-h63x-v22m",
+        "cve_id": "CVE-2026-39406",
+        "product": "@hono/node-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-h336-2wxm-pr6q",
+        "cve_id": "CVE-2026-22680",
+        "product": "OpenViking",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5f5r-95pg-xrpm",
+        "cve_id": "CVE-2026-40077",
+        "product": "github.com/henrygd/beszel",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-6wgr-89rj-399p",
+        "cve_id": "CVE-2026-34988",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hfr4-7c6c-48w2",
+        "cve_id": "CVE-2026-34983",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-m9w2-8782-2946",
+        "cve_id": "CVE-2026-34945",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-f37v-82c4-4x64",
+        "cve_id": "CVE-2026-34781",
+        "product": "electron",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3h9h-qfvw-98hq",
+        "cve_id": "CVE-2025-64181",
+        "product": "OpenEXR",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vr5f-2r24-w5hc",
+        "cve_id": "CVE-2026-35200",
+        "product": "parse-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8x5q-pvf5-64mp",
+        "cve_id": "CVE-2026-34764",
+        "product": "electron",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8jr8-v43g-5c57",
+        "cve_id": "CVE-2026-35538",
+        "product": "roundcube/roundcubemail",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rxj3-rrwm-pj4r",
+        "cve_id": "CVE-2026-35537",
+        "product": "roundcube/roundcubemail",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qh3j-mrg8-f234",
+        "cve_id": "CVE-2026-35038",
+        "product": "signalk-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-jfqx-fxh3-c62j",
+        "cve_id": "CVE-2026-34768",
+        "product": "electron",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xw45-cc32-442f",
+        "cve_id": "CVE-2026-34762",
+        "product": "github.com/ellanetworks/core",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-63hf-3vf5-4wqf",
+        "cve_id": "CVE-2026-34520",
+        "product": "aiohttp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-mwh4-6h8g-pg8w",
+        "cve_id": "CVE-2026-34519",
+        "product": "aiohttp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-966j-vmvw-g2g9",
+        "cve_id": "CVE-2026-34518",
+        "product": "aiohttp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qxgf-hmcj-3xw3",
+        "cve_id": "CVE-2026-34504",
+        "product": "openclaw",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-gm2x-2g9h-ccm8",
+        "cve_id": "CVE-2026-33762",
+        "product": "github.com/go-git/go-git/v5",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w73w-g5xw-rwhf",
+        "cve_id": "CVE-2026-34224",
+        "product": "parse-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w9f8-gxf9-rhvw",
+        "cve_id": "CVE-2026-29071",
+        "product": "open-webui",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-pw7h-9g6p-c378",
+        "cve_id": "CVE-2026-35649",
+        "product": "openclaw",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-7pq3-326h-f8q9",
+        "cve_id": "CVE-2026-33529",
+        "product": "github.com/tobychui/zoraxy",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-283w-xf3q-788v",
+        "cve_id": "CVE-2026-33674",
+        "product": "prestashop/prestashop",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2299-ghjr-6vjp",
+        "cve_id": "CVE-2026-33624",
+        "product": "parse-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vgjg-248p-rfm2",
+        "cve_id": "CVE-2026-33161",
+        "product": "craftcms/cms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5pgf-h923-m958",
+        "cve_id": "CVE-2026-33160",
+        "product": "craftcms/cms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-gmfg-3v4q-9qr4",
+        "cve_id": "CVE-2026-33525",
+        "product": "github.com/authelia/authelia/v4",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5239-wwwm-4pmq",
+        "cve_id": "CVE-2026-4539",
+        "product": "Pygments",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2j6q-whv2-gh6w",
+        "cve_id": "CVE-2026-33490",
+        "product": "h3",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rfx7-8w68-q57q",
+        "cve_id": "CVE-2026-33343",
+        "product": "go.etcd.io/etcd/v3",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-6hcq-hmm3-jj3c",
+        "cve_id": "CVE-2026-22735",
+        "product": "org.springframework:spring-webmvc",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xx5w-cvp6-jv83",
+        "cve_id": "CVE-2026-34987",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-jhxm-h53p-jm7w",
+        "cve_id": "CVE-2026-34971",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-65w6-pf7x-5g85",
+        "cve_id": "CVE-2026-39397",
+        "product": "@delmaredigital/payload-puck",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3g6g-gq4r-xjm9",
+        "cve_id": "CVE-2026-35580",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rp9m-7r4c-75qg",
+        "cve_id": "CVE-2026-35039",
+        "product": "fast-jwt",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9cqf-439c-j96r",
+        "cve_id": "CVE-2026-35171",
+        "product": "kedro",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-mvf2-f6gm-w987",
+        "cve_id": "CVE-2026-34950",
+        "product": "fast-jwt",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rpjr-985c-qhvm",
+        "cve_id": "CVE-2026-34557",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v77r-xg3p-75g7",
+        "cve_id": "CVE-2026-34558",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hc5h-pmr3-3497",
+        "cve_id": "CVE-2026-33579",
+        "product": "openclaw",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rvhj-8chj-8v3c",
+        "cve_id": "CVE-2026-0596",
+        "product": "mflow",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vr79-8m62-wh98",
+        "cve_id": "CVE-2026-34361",
+        "product": "ca.uhn.hapi.fhir:org.hl7.fhir.validation",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-r23q-823p-vmf7",
+        "cve_id": "CVE-2025-15379",
+        "product": "mlflow",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vhcx-3pq2-4fvc",
+        "cve_id": "CVE-2025-15036",
+        "product": "mlflow",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-gwhv-j974-6fxm",
+        "cve_id": "CVE-2026-34220",
+        "product": "@mikro-orm/core",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-q4q8-7f2j-9h9f",
+        "cve_id": "CVE-2026-33945",
+        "product": "github.com/lxc/incus/v6",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-83xr-5xxr-mh92",
+        "cve_id": "CVE-2026-33897",
+        "product": "github.com/lxc/incus/v6",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hc36-c89j-5f4j",
+        "cve_id": "CVE-2026-40070",
+        "product": "bsv-sdk",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-gpj5-g38j-94v9",
+        "cve_id": "CVE-2026-39356",
+        "product": "drizzle-orm",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-6c37-7w4p-jg9v",
+        "cve_id": "CVE-2026-35581",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-7526-j432-6ppp",
+        "cve_id": "CVE-2026-35607",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v9w4-gm2x-6rvf",
+        "cve_id": "CVE-2026-35604",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fmwg-qcqh-m992",
+        "cve_id": "CVE-2026-35458",
+        "product": "github.com/gotenberg/gotenberg/v8",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-q4gv-pjmh-c735",
+        "cve_id": "CVE-2026-4740",
+        "product": "open-cluster-management.io/ocm",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9jpj-g8vv-j5mf",
+        "cve_id": "CVE-2026-34511",
+        "product": "openclaw",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-mcww-4hxq-hfr3",
+        "cve_id": "CVE-2026-30762",
+        "product": "lightrag-hku",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-38hg-ww64-rrwc",
+        "cve_id": "CVE-2026-35442",
+        "product": "directus",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qqmv-5p3g-px89",
+        "cve_id": "CVE-2026-35412",
+        "product": "directus",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-wv3h-5fx7-966h",
+        "cve_id": "CVE-2026-35409",
+        "product": "directus",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8m32-p958-jg99",
+        "cve_id": "CVE-2026-35408",
+        "product": "directus",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v959-cwq9-7hr6",
+        "cve_id": "CVE-2026-35044",
+        "product": "bentoml",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fgv4-6jr3-jgfw",
+        "cve_id": "CVE-2026-35043",
+        "product": "bentoml",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-99j8-wv67-4c72",
+        "cve_id": "CVE-2026-39961",
+        "product": "github.com/aiven/aiven-operator",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-f984-pcp8-v2p7",
+        "cve_id": "CVE-2026-35186",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-394w-hwhg-8vgm",
+        "cve_id": "CVE-2026-35195",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-q49f-xg75-m9xw",
+        "cve_id": "CVE-2026-34946",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qqfj-4vcm-26hv",
+        "cve_id": "CVE-2026-34944",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-m758-wjhj-p3jq",
+        "cve_id": "CVE-2026-34943",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-jxhv-7h78-9775",
+        "cve_id": "CVE-2026-34942",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hx6p-xpx3-jvvv",
+        "cve_id": "CVE-2026-34941",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w6c6-c85g-mmv6",
+        "cve_id": "CVE-2026-39395",
+        "product": "github.com/sigstore/cosign",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hxf2-gm22-7vcm",
+        "cve_id": "CVE-2026-35583",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-67cg-cpj7-qgc9",
+        "cve_id": "CVE-2026-35606",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5q48-q4fm-g3m6",
+        "cve_id": "CVE-2026-35605",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-cpm7-cfpx-3hvp",
+        "cve_id": "CVE-2026-35571",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-mmg9-6m6j-jqqx",
+        "cve_id": "CVE-2026-34166",
+        "product": "liquidjs",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9899-m83m-qhpj",
+        "cve_id": "CVE-2026-34766",
+        "product": "electron",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3wq7-rqq7-wx6j",
+        "cve_id": "CVE-2026-34517",
+        "product": "aiohttp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2vrm-gr82-f7m5",
+        "cve_id": "CVE-2026-34514",
+        "product": "aiohttp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hcc4-c3v8-rx92",
+        "cve_id": "CVE-2026-34513",
+        "product": "aiohttp",
+        "patch_rank": 2,
+        "tca": 1
+      }
+    ],
+    "entity_probe": [
+      {
+        "id": "GHSA-3p68-rc4w-qgx5",
+        "cve_id": "CVE-2025-62718",
+        "product": "axios",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5ghq-42rg-769x",
+        "cve_id": "CVE-2026-35035",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fcm4-4pj2-m5hf",
+        "cve_id": "CVE-2026-35216",
+        "product": "@budibase/server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-x8hc-fqv3-7gwf",
+        "cve_id": "CVE-2026-33950",
+        "product": "signalk-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-7r9j-r86q-7g45",
+        "cve_id": "CVE-2026-31818",
+        "product": "@budibase/backend-core",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-77rh-m34w-rv36",
+        "cve_id": "CVE-2026-35002",
+        "product": "agno",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fc4p-p49v-r948",
+        "cve_id": "CVE-2026-34571",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fhrf-q333-82fm",
+        "cve_id": "CVE-2026-34569",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-x7wh-g25g-53vg",
+        "cve_id": "CVE-2026-34568",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-r33w-c82v-x5v7",
+        "cve_id": "CVE-2026-34567",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-458r-h248-29c5",
+        "cve_id": "CVE-2026-34566",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xgh5-w62m-8mpr",
+        "cve_id": "CVE-2026-34565",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-g4pp-fhgf-8653",
+        "cve_id": "CVE-2026-34564",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-85m8-g393-jcxf",
+        "cve_id": "CVE-2026-34563",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-r4v5-rwr2-q7r4",
+        "cve_id": "CVE-2026-34560",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-4333-387x-w245",
+        "cve_id": "CVE-2026-34559",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hp5w-3hxx-vmwf",
+        "cve_id": "CVE-2026-34751",
+        "product": "payload",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-68p4-j234-43mv",
+        "cve_id": "CVE-2026-34449",
+        "product": "github.com/siyuan-note/siyuan/kernel",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rx4h-526q-4458",
+        "cve_id": "CVE-2026-34448",
+        "product": "github.com/siyuan-note/siyuan/kernel",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vv7q-7jx5-f767",
+        "cve_id": "CVE-2026-32871",
+        "product": "fastmcp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-px3p-vgh9-m57c",
+        "cve_id": "CVE-2026-34156",
+        "product": "@nocobase/plugin-workflow-javascript",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fhh2-gg7w-gwpq",
+        "cve_id": "CVE-2026-33026",
+        "product": "github.com/0xJacky/Nginx-UI",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2w6w-674q-4c4q",
+        "cve_id": "CVE-2026-33937",
+        "product": "handlebars",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fvh3-672c-7p6c",
+        "cve_id": "CVE-2026-22738",
+        "product": "org.springframework.ai:spring-ai-vector-store",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2vq4-854f-5c72",
+        "cve_id": "CVE-2026-35595",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-q5jf-9vfq-h4h7",
+        "cve_id": "CVE-2026-35205",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vmx8-mqv2-9gmg",
+        "cve_id": "CVE-2026-35204",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8jvc-mcx6-r4cg",
+        "cve_id": "CVE-2026-34727",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9hfr-gw99-8rhx",
+        "cve_id": "CVE-2026-40069",
+        "product": "bsv-sdk",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-chqc-8p9q-pq6q",
+        "cve_id": "CVE-2026-39983",
+        "product": "basic-ftp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5gfj-64gh-mgmw",
+        "cve_id": "CVE-2026-39981",
+        "product": "agixt",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-4ggg-h7ph-26qr",
+        "cve_id": "CVE-2026-39974",
+        "product": "n8n-mcp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hwr4-mq23-wcv5",
+        "cve_id": "CVE-2026-39972",
+        "product": "github.com/dunglas/mercure",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hfvc-g4fc-pqhx",
+        "cve_id": "CVE-2026-39883",
+        "product": "go.opentelemetry.io/otel/sdk",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vfhx-5459-qhqh",
+        "cve_id": "CVE-2026-39394",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8rh5-4mvx-xj7j",
+        "cve_id": "CVE-2026-39393",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-jpcj-7wfg-mqxv",
+        "cve_id": "CVE-2026-31040",
+        "product": "stata-mcp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3j3q-wp9x-585p",
+        "cve_id": "CVE-2026-39429",
+        "product": "github.com/kcp-dev/kcp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-56p5-8mhr-2fph",
+        "cve_id": "CVE-2026-35525",
+        "product": "liquidjs",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8jxr-pr72-r468",
+        "cve_id": "CVE-2026-35568",
+        "product": "io.modelcontextprotocol.sdk:mcp-core",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-mh2q-q3fh-2475",
+        "cve_id": "CVE-2026-29181",
+        "product": "go.opentelemetry.io/otel/baggage",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v2wj-q39q-566r",
+        "cve_id": "CVE-2026-39364",
+        "product": "vite",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-p9ff-h696-f583",
+        "cve_id": "CVE-2026-39363",
+        "product": "vite",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8x9r-hvwg-c55h",
+        "cve_id": "CVE-2026-35454",
+        "product": "github.com/coder/code-marketplace",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-737v-mqg7-c878",
+        "cve_id": "CVE-2026-35209",
+        "product": "defu",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-393c-p46r-7c95",
+        "cve_id": "CVE-2026-39942",
+        "product": "directus",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2wfh-rcwf-wh23",
+        "cve_id": "CVE-2026-35214",
+        "product": "@budibase/server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5qhv-x9j4-c3vm",
+        "cve_id": "CVE-2026-35394",
+        "product": "@mobilenext/mobile-mcp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v479-vf79-mg83",
+        "cve_id": "CVE-2026-40103",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qh78-rvg3-cv54",
+        "cve_id": "CVE-2026-35602",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2g7h-7rqr-9p4r",
+        "cve_id": "CVE-2026-35601",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-45q4-x4r9-8fqj",
+        "cve_id": "CVE-2026-35600",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-r4fg-73rc-hhh7",
+        "cve_id": "CVE-2026-35599",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-48ch-p4gq-x46x",
+        "cve_id": "CVE-2026-35598",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fgfv-pv97-6cmj",
+        "cve_id": "CVE-2026-35597",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hj5c-mhh2-g7jq",
+        "cve_id": "CVE-2026-35596",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hr2v-4r36-88hr",
+        "cve_id": "CVE-2026-35206",
+        "product": "helm.sh/helm/v4",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-96q5-xm3p-7m84",
+        "cve_id": "CVE-2026-35594",
+        "product": "code.vikunja.io/api",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-95h2-gj7x-gx9w",
+        "cve_id": "CVE-2026-39315",
+        "product": "unhead",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3j8v-cgw4-2g6q",
+        "cve_id": "CVE-2026-35040",
+        "product": "fast-jwt",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hqxq-hwqf-wg83",
+        "cve_id": "CVE-2026-39901",
+        "product": "github.com/monetr/monetr",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w8rr-5gcm-pp58",
+        "cve_id": "CVE-2026-39882",
+        "product": "go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fjpj-6qcq-6pw2",
+        "cve_id": "CVE-2026-39392",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-7cm9-v848-cfh2",
+        "cve_id": "CVE-2026-39391",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-x3hr-cp7x-44r2",
+        "cve_id": "CVE-2026-39390",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9rxp-f27p-wv3h",
+        "cve_id": "CVE-2026-39389",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qj83-cq47-w5f8",
+        "cve_id": "CVE-2026-39865",
+        "product": "axios",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v273-448j-v4qj",
+        "cve_id": "CVE-2026-39859",
+        "product": "liquidjs",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rv5g-f82m-qrvv",
+        "cve_id": "CVE-2026-39412",
+        "product": "liquidjs",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5mwj-v5jw-5c97",
+        "cve_id": "CVE-2026-39411",
+        "product": "@lobehub/lobehub",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w8wv-vfpc-hw2w",
+        "cve_id": "CVE-2026-39844",
+        "product": "nicegui",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3xxc-pwj6-jgrj",
+        "cve_id": "CVE-2026-33753",
+        "product": "rfc3161-client",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-r5rp-j6wh-rvv4",
+        "cve_id": "CVE-2026-39410",
+        "product": "hono",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xpcf-pg52-r92g",
+        "cve_id": "CVE-2026-39409",
+        "product": "hono",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xf4j-xp2r-rqqx",
+        "cve_id": "CVE-2026-39408",
+        "product": "hono",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-wmmm-f939-6g9c",
+        "cve_id": "CVE-2026-39407",
+        "product": "hono",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-92pp-h63x-v22m",
+        "cve_id": "CVE-2026-39406",
+        "product": "@hono/node-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-h336-2wxm-pr6q",
+        "cve_id": "CVE-2026-22680",
+        "product": "OpenViking",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5f5r-95pg-xrpm",
+        "cve_id": "CVE-2026-40077",
+        "product": "github.com/henrygd/beszel",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-6wgr-89rj-399p",
+        "cve_id": "CVE-2026-34988",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hfr4-7c6c-48w2",
+        "cve_id": "CVE-2026-34983",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-m9w2-8782-2946",
+        "cve_id": "CVE-2026-34945",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-f37v-82c4-4x64",
+        "cve_id": "CVE-2026-34781",
+        "product": "electron",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3h9h-qfvw-98hq",
+        "cve_id": "CVE-2025-64181",
+        "product": "OpenEXR",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vr5f-2r24-w5hc",
+        "cve_id": "CVE-2026-35200",
+        "product": "parse-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8x5q-pvf5-64mp",
+        "cve_id": "CVE-2026-34764",
+        "product": "electron",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8jr8-v43g-5c57",
+        "cve_id": "CVE-2026-35538",
+        "product": "roundcube/roundcubemail",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rxj3-rrwm-pj4r",
+        "cve_id": "CVE-2026-35537",
+        "product": "roundcube/roundcubemail",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qh3j-mrg8-f234",
+        "cve_id": "CVE-2026-35038",
+        "product": "signalk-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-jfqx-fxh3-c62j",
+        "cve_id": "CVE-2026-34768",
+        "product": "electron",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xw45-cc32-442f",
+        "cve_id": "CVE-2026-34762",
+        "product": "github.com/ellanetworks/core",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-63hf-3vf5-4wqf",
+        "cve_id": "CVE-2026-34520",
+        "product": "aiohttp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-mwh4-6h8g-pg8w",
+        "cve_id": "CVE-2026-34519",
+        "product": "aiohttp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-966j-vmvw-g2g9",
+        "cve_id": "CVE-2026-34518",
+        "product": "aiohttp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qxgf-hmcj-3xw3",
+        "cve_id": "CVE-2026-34504",
+        "product": "openclaw",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-gm2x-2g9h-ccm8",
+        "cve_id": "CVE-2026-33762",
+        "product": "github.com/go-git/go-git/v5",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w73w-g5xw-rwhf",
+        "cve_id": "CVE-2026-34224",
+        "product": "parse-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w9f8-gxf9-rhvw",
+        "cve_id": "CVE-2026-29071",
+        "product": "open-webui",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-pw7h-9g6p-c378",
+        "cve_id": "CVE-2026-35649",
+        "product": "openclaw",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-7pq3-326h-f8q9",
+        "cve_id": "CVE-2026-33529",
+        "product": "github.com/tobychui/zoraxy",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-283w-xf3q-788v",
+        "cve_id": "CVE-2026-33674",
+        "product": "prestashop/prestashop",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2299-ghjr-6vjp",
+        "cve_id": "CVE-2026-33624",
+        "product": "parse-server",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vgjg-248p-rfm2",
+        "cve_id": "CVE-2026-33161",
+        "product": "craftcms/cms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5pgf-h923-m958",
+        "cve_id": "CVE-2026-33160",
+        "product": "craftcms/cms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-gmfg-3v4q-9qr4",
+        "cve_id": "CVE-2026-33525",
+        "product": "github.com/authelia/authelia/v4",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5239-wwwm-4pmq",
+        "cve_id": "CVE-2026-4539",
+        "product": "Pygments",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2j6q-whv2-gh6w",
+        "cve_id": "CVE-2026-33490",
+        "product": "h3",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rfx7-8w68-q57q",
+        "cve_id": "CVE-2026-33343",
+        "product": "go.etcd.io/etcd/v3",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-6hcq-hmm3-jj3c",
+        "cve_id": "CVE-2026-22735",
+        "product": "org.springframework:spring-webmvc",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-xx5w-cvp6-jv83",
+        "cve_id": "CVE-2026-34987",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-jhxm-h53p-jm7w",
+        "cve_id": "CVE-2026-34971",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-65w6-pf7x-5g85",
+        "cve_id": "CVE-2026-39397",
+        "product": "@delmaredigital/payload-puck",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3g6g-gq4r-xjm9",
+        "cve_id": "CVE-2026-35580",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rp9m-7r4c-75qg",
+        "cve_id": "CVE-2026-35039",
+        "product": "fast-jwt",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9cqf-439c-j96r",
+        "cve_id": "CVE-2026-35171",
+        "product": "kedro",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-mvf2-f6gm-w987",
+        "cve_id": "CVE-2026-34950",
+        "product": "fast-jwt",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rpjr-985c-qhvm",
+        "cve_id": "CVE-2026-34557",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v77r-xg3p-75g7",
+        "cve_id": "CVE-2026-34558",
+        "product": "ci4-cms-erp/ci4ms",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hc5h-pmr3-3497",
+        "cve_id": "CVE-2026-33579",
+        "product": "openclaw",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-rvhj-8chj-8v3c",
+        "cve_id": "CVE-2026-0596",
+        "product": "mflow",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vr79-8m62-wh98",
+        "cve_id": "CVE-2026-34361",
+        "product": "ca.uhn.hapi.fhir:org.hl7.fhir.validation",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-r23q-823p-vmf7",
+        "cve_id": "CVE-2025-15379",
+        "product": "mlflow",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-vhcx-3pq2-4fvc",
+        "cve_id": "CVE-2025-15036",
+        "product": "mlflow",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-gwhv-j974-6fxm",
+        "cve_id": "CVE-2026-34220",
+        "product": "@mikro-orm/core",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-q4q8-7f2j-9h9f",
+        "cve_id": "CVE-2026-33945",
+        "product": "github.com/lxc/incus/v6",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-83xr-5xxr-mh92",
+        "cve_id": "CVE-2026-33897",
+        "product": "github.com/lxc/incus/v6",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hc36-c89j-5f4j",
+        "cve_id": "CVE-2026-40070",
+        "product": "bsv-sdk",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-gpj5-g38j-94v9",
+        "cve_id": "CVE-2026-39356",
+        "product": "drizzle-orm",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-6c37-7w4p-jg9v",
+        "cve_id": "CVE-2026-35581",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-7526-j432-6ppp",
+        "cve_id": "CVE-2026-35607",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v9w4-gm2x-6rvf",
+        "cve_id": "CVE-2026-35604",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fmwg-qcqh-m992",
+        "cve_id": "CVE-2026-35458",
+        "product": "github.com/gotenberg/gotenberg/v8",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-q4gv-pjmh-c735",
+        "cve_id": "CVE-2026-4740",
+        "product": "open-cluster-management.io/ocm",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9jpj-g8vv-j5mf",
+        "cve_id": "CVE-2026-34511",
+        "product": "openclaw",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-mcww-4hxq-hfr3",
+        "cve_id": "CVE-2026-30762",
+        "product": "lightrag-hku",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-38hg-ww64-rrwc",
+        "cve_id": "CVE-2026-35442",
+        "product": "directus",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qqmv-5p3g-px89",
+        "cve_id": "CVE-2026-35412",
+        "product": "directus",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-wv3h-5fx7-966h",
+        "cve_id": "CVE-2026-35409",
+        "product": "directus",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-8m32-p958-jg99",
+        "cve_id": "CVE-2026-35408",
+        "product": "directus",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-v959-cwq9-7hr6",
+        "cve_id": "CVE-2026-35044",
+        "product": "bentoml",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-fgv4-6jr3-jgfw",
+        "cve_id": "CVE-2026-35043",
+        "product": "bentoml",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-99j8-wv67-4c72",
+        "cve_id": "CVE-2026-39961",
+        "product": "github.com/aiven/aiven-operator",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-f984-pcp8-v2p7",
+        "cve_id": "CVE-2026-35186",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-394w-hwhg-8vgm",
+        "cve_id": "CVE-2026-35195",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-q49f-xg75-m9xw",
+        "cve_id": "CVE-2026-34946",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-qqfj-4vcm-26hv",
+        "cve_id": "CVE-2026-34944",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-m758-wjhj-p3jq",
+        "cve_id": "CVE-2026-34943",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-jxhv-7h78-9775",
+        "cve_id": "CVE-2026-34942",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hx6p-xpx3-jvvv",
+        "cve_id": "CVE-2026-34941",
+        "product": "wasmtime",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-w6c6-c85g-mmv6",
+        "cve_id": "CVE-2026-39395",
+        "product": "github.com/sigstore/cosign",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hxf2-gm22-7vcm",
+        "cve_id": "CVE-2026-35583",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-67cg-cpj7-qgc9",
+        "cve_id": "CVE-2026-35606",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-5q48-q4fm-g3m6",
+        "cve_id": "CVE-2026-35605",
+        "product": "github.com/filebrowser/filebrowser/v2",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-cpm7-cfpx-3hvp",
+        "cve_id": "CVE-2026-35571",
+        "product": "gov.nsa.emissary:emissary",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-mmg9-6m6j-jqqx",
+        "cve_id": "CVE-2026-34166",
+        "product": "liquidjs",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-9899-m83m-qhpj",
+        "cve_id": "CVE-2026-34766",
+        "product": "electron",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-3wq7-rqq7-wx6j",
+        "cve_id": "CVE-2026-34517",
+        "product": "aiohttp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-2vrm-gr82-f7m5",
+        "cve_id": "CVE-2026-34514",
+        "product": "aiohttp",
+        "patch_rank": 2,
+        "tca": 1
+      },
+      {
+        "id": "GHSA-hcc4-c3v8-rx92",
+        "cve_id": "CVE-2026-34513",
+        "product": "aiohttp",
+        "patch_rank": 2,
+        "tca": 1
+      }
+    ]
+  },
+  "aggregate": {
+    "bm25": {
+      "n": 159,
+      "tca": 0.6415,
+      "patch_found_in_top_k": 102,
+      "k": 5,
+      "mean_patch_rank": 144.4,
+      "median_patch_rank": 3
+    },
+    "dense_minilm": {
+      "n": 159,
+      "tca": 0.1321,
+      "patch_found_in_top_k": 21,
+      "k": 5,
+      "mean_patch_rank": 1233.5,
+      "median_patch_rank": 1847
+    },
+    "dense_e5large": {
+      "n": 159,
+      "tca": 0.0692,
+      "patch_found_in_top_k": 11,
+      "k": 5,
+      "mean_patch_rank": 1112.8,
+      "median_patch_rank": 1246
+    },
+    "regex_ner_probe": {
+      "n": 159,
+      "tca": 1.0,
+      "patch_found_in_top_k": 159,
+      "k": 5,
+      "mean_patch_rank": 2.0,
+      "median_patch_rank": 2
+    },
+    "entity_probe": {
+      "n": 159,
+      "tca": 1.0,
+      "patch_found_in_top_k": 159,
+      "k": 5,
+      "mean_patch_rank": 2.0,
+      "median_patch_rank": 2
+    }
+  },
+  "n_pairs": 159,
+  "corpus_size": 2318,
+  "n_distractors": 2000,
+  "k": 5
+}

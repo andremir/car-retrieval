@@ -1,0 +1,69 @@
+{
+  "n_eval": 159,
+  "k": 5,
+  "results": [
+    {
+      "model": "MiniLM-L6",
+      "model_id": "sentence-transformers/all-MiniLM-L6-v2",
+      "params_M": 22,
+      "tca5": 0.283,
+      "disc_recall5": 0.9623,
+      "n": 159,
+      "family": "MiniLM"
+    },
+    {
+      "model": "E5-small",
+      "model_id": "intfloat/e5-small-v2",
+      "params_M": 33,
+      "tca5": 0.2642,
+      "disc_recall5": 0.9874,
+      "n": 159,
+      "family": "E5"
+    },
+    {
+      "model": "BGE-small",
+      "model_id": "BAAI/bge-small-en-v1.5",
+      "params_M": 33,
+      "tca5": 0.2516,
+      "disc_recall5": 0.9811,
+      "n": 159,
+      "family": "BGE"
+    },
+    {
+      "model": "E5-base",
+      "model_id": "intfloat/e5-base-v2",
+      "params_M": 109,
+      "tca5": 0.239,
+      "disc_recall5": 0.9497,
+      "n": 159,
+      "family": "E5"
+    },
+    {
+      "model": "BGE-base",
+      "model_id": "BAAI/bge-base-en-v1.5",
+      "params_M": 109,
+      "tca5": 0.283,
+      "disc_recall5": 0.9748,
+      "n": 159,
+      "family": "BGE"
+    },
+    {
+      "model": "E5-large",
+      "model_id": "intfloat/e5-large-v2",
+      "params_M": 335,
+      "tca5": 0.2138,
+      "disc_recall5": 0.956,
+      "n": 159,
+      "family": "E5"
+    },
+    {
+      "model": "BGE-large",
+      "model_id": "BAAI/bge-large-en-v1.5",
+      "params_M": 335,
+      "tca5": 0.283,
+      "disc_recall5": 0.9874,
+      "n": 159,
+      "family": "BGE"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "k": 5,
+  "n_distractors": 10,
+  "results": {
+    "overall": {
+      "n": 1000,
+      "recall_at_k": 0.45,
+      "tca": 0.214,
+      "answer_accuracy": 0.247,
+      "supersession_compliance": 0.405,
+      "provenance_recall": 0.45
+    },
+    "type0_no_supersession": {
+      "n": 250,
+      "recall_at_k": 0.82,
+      "tca": 0.82,
+      "answer_accuracy": 0.82,
+      "supersession_compliance": 1.0,
+      "provenance_recall": 0.82
+    },
+    "type1_simple_supersession": {
+      "n": 250,
+      "recall_at_k": 0.392,
+      "tca": 0.0,
+      "answer_accuracy": 0.0,
+      "supersession_compliance": 0.216,
+      "provenance_recall": 0.392
+    },
+    "type2_chain_supersession": {
+      "n": 250,
+      "recall_at_k": 0.29866666666666664,
+      "tca": 0.036,
+      "answer_accuracy": 0.168,
+      "supersession_compliance": 0.272,
+      "provenance_recall": 0.29866666666666664
+    },
+    "type3_cross_session": {
+      "n": 250,
+      "recall_at_k": 0.28933333333333333,
+      "tca": 0.0,
+      "answer_accuracy": 0.0,
+      "supersession_compliance": 0.132,
+      "provenance_recall": 0.28933333333333333
+    }
+  }
+}

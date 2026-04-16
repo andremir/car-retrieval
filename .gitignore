@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# LaTeX build artifacts
+*.log
+*.blg
+*.out
+*.aux
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+
+# Model weights (large binaries)
+data/finetuned_minilm_ghsa/
+
+# Intermediate processing state (not needed for reproducibility)
+data/ghsa_checkpoint.json
+
+# Internal working notes
+concept.md
+literature_review.md
+REVIEW_MEMO.md
+falsification/FALSIFICATION_PLAN.md
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/

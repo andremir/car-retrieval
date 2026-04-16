@@ -1,0 +1,38 @@
+{
+  "total_pairs": 109,
+  "all_patch_texts_clean": true,
+  "unique_products": 60,
+  "unique_repos": 57,
+  "unique_release_urls": 70,
+  "severity_breakdown": {
+    "critical": 24,
+    "high": 24,
+    "medium": 30,
+    "low": 31
+  },
+  "cve_year_breakdown": {
+    "2025": 2,
+    "2026": 107
+  },
+  "disclosure_text_stats": {
+    "min": 134,
+    "max": 14384,
+    "median": 2863,
+    "mean": 3181.8
+  },
+  "patch_text_stats": {
+    "min": 113,
+    "max": 67399,
+    "median": 1885,
+    "mean": 3847.5
+  },
+  "fetch_pipeline_summary": {
+    "advisory_pages_fetched": "4300 advisories across critical/high/medium/low severities",
+    "had_github_release_url": 135,
+    "release_body_found": 145,
+    "passed_length_100_filter": 130,
+    "passed_no_cve_id_in_patch_filter": 109,
+    "passed_english_filter": 109,
+    "final_kept": 109
+  }
+}

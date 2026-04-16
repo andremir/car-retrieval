@@ -1,0 +1,52 @@
+{
+  "experiment": "CAR vs Lookup \u2014 Same Corpus, Two Query Modes",
+  "corpus": {
+    "pairs": 159,
+    "total_docs": 2318,
+    "disclosures": 159,
+    "patches": 159,
+    "distractors": 2000
+  },
+  "mode1_description": "Full disclosure text as query (known-anchor / Shepardizing setting)",
+  "mode2_description": "Llama-generated free-form NL query, no CVE ID (CAR setting)",
+  "results": {
+    "bm25": {
+      "mode1_tca5": 0.1635,
+      "mode2_tca5": 0.1384,
+      "mode2_applicable": 1.0
+    },
+    "dense_minilm": {
+      "mode1_tca5": 0.327,
+      "mode2_tca5": 0.2704,
+      "mode2_applicable": 1.0
+    },
+    "two_stage": {
+      "mode1_tca5": 1.0,
+      "mode2_tca5": 0.9748,
+      "mode2_applicable": 1.0
+    },
+    "osv_dev": {
+      "mode1_tca5": 0.0063,
+      "mode1_applicable": 0.0377,
+      "mode2_tca5": 0.0,
+      "mode2_applicable": 0.0,
+      "note": "Mode-2 TCA is 0 because free-form NL queries contain no CVE ID (not applicable)"
+    },
+    "entity_probe": {
+      "mode1_tca5": 0.0,
+      "mode1_applicable": 0.0314,
+      "mode2_tca5": 0.0,
+      "mode2_applicable": 0.0,
+      "note": "Applicable only when both product name AND CVE ID appear in the query text"
+    }
+  },
+  "pass_fail": {
+    "p1_osv_mode1_tca_gt_70": false,
+    "p2_osv_mode2_applicable_0pct": true,
+    "p3_entity_probe_mode2_applicable_lt5pct": true,
+    "p4_twostage_mode2_gt_dense_mode2": true,
+    "p5_twostage_mode2_gt_all_mode2": true,
+    "all_pass": false
+  },
+  "key_finding": "Lookup tools (OSV.dev, entity probe) achieve TCA=0.006/0.000 in Mode-1 but are 0%/0% applicable in Mode-2. Two-Stage achieves TCA=0.975 in Mode-2, the only system that works without the anchor entity in the query."
+}

@@ -1,0 +1,39 @@
+{
+  "query_breadth_matrix": [
+    {
+      "style": "structured",
+      "n": 159,
+      "bm25_tca5": 0.5849,
+      "dense_tca5": 0.327,
+      "twostage_tca5": 0.6855
+    },
+    {
+      "style": "freeform",
+      "n": 159,
+      "bm25_tca5": 0.1384,
+      "dense_tca5": 0.2893,
+      "twostage_tca5": 0.9686
+    },
+    {
+      "style": "entity_omit",
+      "n": 159,
+      "bm25_tca5": 0.1258,
+      "dense_tca5": 0.2516,
+      "twostage_tca5": 0.956
+    },
+    {
+      "style": "noisy",
+      "n": 159,
+      "bm25_tca5": 0.2642,
+      "dense_tca5": 0.1761,
+      "twostage_tca5": 0.283
+    },
+    {
+      "style": "partial_ent",
+      "n": 159,
+      "bm25_tca5": 0.0189,
+      "dense_tca5": 0.0,
+      "twostage_tca5": 0.0189
+    }
+  ]
+}

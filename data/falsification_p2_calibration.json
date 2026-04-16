@@ -1,0 +1,73 @@
+{
+  "exp2a_adversarial_kappa_sweep": {
+    "description": "Controlled \u03ba-sweep: \u03ba\u22121 identical-text confound patches per GHSA pair",
+    "rows": [
+      {
+        "kappa": 1,
+        "phi": 1.0,
+        "r_anchor": 0.9686,
+        "tca_scope": 0.9686,
+        "bound": 0.9686,
+        "tca_auth": 0.9686,
+        "bound_satisfied": true
+      },
+      {
+        "kappa": 2,
+        "phi": 0.5,
+        "r_anchor": 0.9748,
+        "tca_scope": 0.4591,
+        "bound": 0.4874,
+        "tca_auth": 0.9748,
+        "bound_satisfied": true
+      },
+      {
+        "kappa": 3,
+        "phi": 0.3333,
+        "r_anchor": 0.9748,
+        "tca_scope": 0.3082,
+        "bound": 0.3249,
+        "tca_auth": 0.9748,
+        "bound_satisfied": true
+      },
+      {
+        "kappa": 4,
+        "phi": 0.25,
+        "r_anchor": 0.9811,
+        "tca_scope": 0.2075,
+        "bound": 0.2453,
+        "tca_auth": 0.9811,
+        "bound_satisfied": true
+      },
+      {
+        "kappa": 5,
+        "phi": 0.2,
+        "r_anchor": 0.9811,
+        "tca_scope": 0.1824,
+        "bound": 0.1962,
+        "tca_auth": 0.9811,
+        "bound_satisfied": true
+      }
+    ]
+  },
+  "exp2b_natural_fda": {
+    "description": "Natural FDA corpus: \u03ba estimated from BM25 Stage-1 entity bucket size",
+    "rows": [
+      {
+        "kappa_est": 3,
+        "n": 1,
+        "r_anchor": 1.0,
+        "tca": 1.0,
+        "bound": 0.3333,
+        "held": false
+      },
+      {
+        "kappa_est": 5,
+        "n": 499,
+        "r_anchor": 0.7735,
+        "tca": 0.7735,
+        "bound": 0.1547,
+        "held": false
+      }
+    ]
+  }
+}

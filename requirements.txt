@@ -1,0 +1,15 @@
+# Core (scorer + FinSuperQA benchmark)
+numpy>=1.24
+rank-bm25>=0.2.2
+sentence-transformers>=2.7
+
+# Real-world eval scripts (realworld/)
+requests>=2.31
+beautifulsoup4>=4.12
+openai>=1.0           # llm_downstream_eval.py (GPT-4o-mini)
+
+# Falsification suite (falsification/)
+datasets>=2.14        # exp5_ood_finetuning.py fine-tuning
+
+# Optional: cross-encoder reranker baseline (falsification/exp3_missing_baselines.py)
+# sentence-transformers already includes CrossEncoder; no extra install needed

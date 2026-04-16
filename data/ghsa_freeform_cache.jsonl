@@ -1,0 +1,159 @@
+{"id": "GHSA-3p68-rc4w-qgx5", "query": "Has Axios been updated to correctly handle loopback addresses with trailing dots when checking proxy rules?"}
+{"id": "GHSA-5ghq-42rg-769x", "query": "Has the issue with unsanitized company info fields in system settings being rendered on public pages without proper encoding been fixed?"}
+{"id": "GHSA-fcm4-4pj2-m5hf", "query": "Can code execution as root be triggered via the public webhook endpoint without authentication?"}
+{"id": "GHSA-x8hc-fqv3-7gwf", "query": "Has the issue with the /skServer/enableSecurity endpoint remaining open after initial setup been fixed?"}
+{"id": "GHSA-7r9j-r86q-7g45", "query": "Has a fix been released for the issue where the REST connector can make unauthorized requests to internal systems due to an empty default blacklist?"}
+{"id": "GHSA-77rh-m34w-rv36", "query": "Has the issue where attackers can run arbitrary Python code by manipulating a parameter in the model execution component been fixed in the latest version?"}
+{"id": "GHSA-fc4p-p49v-r948", "query": "Has the issue with user input in the name and surname fields being executed as JavaScript in the backend users page been fixed?"}
+{"id": "GHSA-fhrf-q333-82fm", "query": "Has the issue with malicious JavaScript code being injected through blog category titles and executed on public pages been fixed?"}
+{"id": "GHSA-x7wh-g25g-53vg", "query": "Has the issue with malicious JavaScript code being injected into blog posts and executed when viewed been fixed?"}
+{"id": "GHSA-r33w-c82v-x5v7", "query": "Has the issue with unsanitized blog post category content allowing malicious JavaScript injection been fixed?"}
+{"id": "GHSA-458r-h248-29c5", "query": "Has the issue with unsanitized input in page creation and editing being rendered without encoding been fixed?"}
+{"id": "GHSA-xgh5-w62m-8mpr", "query": "Has the issue with user-inputted post data being rendered unsafely in menus been fixed?"}
+{"id": "GHSA-g4pp-fhgf-8653", "query": "Has the issue with user-added pages in menus executing scripts without proper sanitization been fixed?"}
+{"id": "GHSA-85m8-g393-jcxf", "query": "Has the issue with malicious JavaScript code being injected through backup filenames and executed when viewing backups been fixed?"}
+{"id": "GHSA-r4v5-rwr2-q7r4", "query": "Has the issue where user input in error logs is rendered unsafely and can execute scripts when admins view the logs page been fixed?"}
+{"id": "GHSA-4333-387x-w245", "query": "Has the issue with unsanitized blog tag names allowing malicious JavaScript injection been fixed?"}
+{"id": "GHSA-hp5w-3hxx-vmwf", "query": "Can an unauthenticated attacker still perform actions on behalf of a user who initiates a password reset in our current Payload version?"}
+{"id": "GHSA-68p4-j234-43mv", "query": "Can visiting a malicious website still inject JavaScript code into SiYuan's Electron Node.js context without user interaction?"}
+{"id": "GHSA-rx4h-526q-4458", "query": "Has the issue with malicious URLs in Attribute View fields executing arbitrary OS commands when opened in Gallery or Kanban view been fixed?"}
+{"id": "GHSA-vv7q-7jx5-f767", "query": "Has the issue with path parameters being substituted into URLs without encoding been fixed to prevent directory traversal attacks?"}
+{"id": "GHSA-px3p-vgh9-m57c", "query": "Has the issue where user-supplied JavaScript can escape the sandbox and execute code as root been fixed?"}
+{"id": "GHSA-fhh2-gg7w-gwpq", "query": "Has the issue with the backup restore mechanism allowing tampering and injection of malicious configuration been fixed?"}
+{"id": "GHSA-2w6w-674q-4c4q", "query": "Has the issue where Handlebars directly injects unquoted numeric literal values into generated JavaScript been fixed?"}
+{"id": "GHSA-fvh3-672c-7p6c", "query": "Has the issue where user input can be used to execute arbitrary code in SimpleVectorStore been fixed in the latest Spring AI version?"}
+{"id": "GHSA-2vq4-854f-5c72", "query": "Can a user with write access to a project still escalate to admin by moving it under a project they own?"}
+{"id": "GHSA-q5jf-9vfq-h4h7", "query": "Has the issue of Helm installing plugins without verifying their signatures been fixed in the latest version?"}
+{"id": "GHSA-vmx8-mqv2-9gmg", "query": "Has the issue where a specially crafted Helm plugin can overwrite arbitrary files on the system been fixed in the latest version?"}
+{"id": "GHSA-8jvc-mcx6-r4cg", "query": "Can the OIDC callback still issue a full JWT token without checking if a matched user has two-factor authentication enabled?"}
+{"id": "GHSA-9hfr-gw99-8rhx", "query": "Has the issue where the ARC broadcaster mistakenly treats certain failed transactions as successful been fixed?"}
+{"id": "GHSA-chqc-8p9q-pq6q", "query": "Has a fix been released for the FTP command injection issue via CRLF sequences in file paths?"}
+{"id": "GHSA-5gfj-64gh-mgmw", "query": "Has the issue with the safe_join function allowing directory traversal to access arbitrary files been fixed in the latest version?"}
+{"id": "GHSA-4ggg-h7ph-26qr", "query": "Has a fix been released to prevent authenticated users from tricking the server into making unauthorized HTTP requests to arbitrary URLs?"}
+{"id": "GHSA-hwr4-mq23-wcv5", "query": "Has the issue where attackers can manipulate topic names to bypass authorization and intercept private updates been fixed?"}
+{"id": "GHSA-hfvc-g4fc-pqhx", "query": "Can commands like \"kenv\" be hijacked by manipulating the system's PATH environment variable after the recent security updates?"}
+{"id": "GHSA-vfhx-5459-qhqh", "query": "Can code injection into the .env file via unvalidated host parameters in the install controller still occur?"}
+{"id": "GHSA-8rh5-4mvx-xj7j", "query": "Can an attacker still access the setup wizard when the database is unreachable, allowing them to overwrite the .env file?"}
+{"id": "GHSA-jpcj-7wfg-mqxv", "query": "Has the issue with executing commands due to insufficient validation of user-supplied Stata do-file content been fixed in the latest version of stata-mcp?"}
+{"id": "GHSA-3j3q-wp9x-585p", "query": "Can anyone still access the cache server without authentication and read replicated resources?"}
+{"id": "GHSA-56p5-8mhr-2fph", "query": "Has the issue where a symlink in a partials or layouts directory can load files outside those directories been fixed?"}
+{"id": "GHSA-8jxr-pr72-r468", "query": "Has the issue where an attacker can access the MCP server through a victim's browser been fixed in the latest java-sdk version?"}
+{"id": "GHSA-mh2q-q3fh-2475", "query": "Has the issue where multiple baggage header lines can cause high CPU and memory usage been fixed?"}
+{"id": "GHSA-v2wj-q39q-566r", "query": "Has the issue where denied files can still be returned to the browser been fixed in the latest Vite dev server update?"}
+{"id": "GHSA-p9ff-h696-f583", "query": "Can Vite dev server's WebSocket still expose arbitrary server files via a custom event without a valid Origin header?"}
+{"id": "GHSA-8x9r-hvwg-c55h", "query": "Has the issue of malicious VSIX files writing arbitrary files outside the extension directory been fixed in coder/code-marketplace?"}
+{"id": "GHSA-737v-mqg7-c878", "query": "Can user input with a __proto__ key still override default values when passed to the defu function?"}
+{"id": "GHSA-393c-p46r-7c95", "query": "Can users still overwrite others' files by manipulating the filename parameter in the file management API?"}
+{"id": "GHSA-2wfh-rcwf-wh23", "query": "Can uploading a plugin with a filename containing ../ still allow deleting arbitrary directories and writing files to any path?"}
+{"id": "GHSA-5qhv-x9j4-c3vm", "query": "Has the issue of passing user-supplied URLs to Android's intent system without validation been fixed in mobile-mcp?"}
+{"id": "GHSA-v479-vf79-mg83", "query": "Can a token with only \"projects.background\" permission still delete a project background?"}
+{"id": "GHSA-qh78-rvg3-cv54", "query": "Can files larger than the maximum size limit be uploaded by manipulating the file size in the JSON metadata of the import zip?"}
+{"id": "GHSA-2g7h-7rqr-9p4r", "query": "Has the issue with user-controlled task titles breaking iCalendar property boundaries through CRLF characters been fixed?"}
+{"id": "GHSA-45q4-x4r9-8fqj", "query": "Has the issue with task titles in overdue emails creating phishing links due to unescaped Markdown characters been fixed?"}
+{"id": "GHSA-r4fg-73rc-hhh7", "query": "Has the issue with the repeating task function consuming excessive CPU by looping billions of times when given a short interval and past due date been fixed?"}
+{"id": "GHSA-48ch-p4gq-x46x", "query": "Can any authenticated CalDAV user still read task data from other projects by guessing or knowing a task's UID?"}
+{"id": "GHSA-fgfv-pv97-6cmj", "query": "Has the issue with the TOTP lockout mechanism not persisting due to a database rollback been fixed?"}
+{"id": "GHSA-hj5c-mhh2-g7jq", "query": "Can authenticated users still read labels they shouldn't have access to due to a SQL operator precedence issue in the access control query?"}
+{"id": "GHSA-hr2v-4r36-88hr", "query": "Has the issue where Helm writes chart contents to the wrong directory when using \"helm pull --untar\" been fixed in the latest version?"}
+{"id": "GHSA-96q5-xm3p-7m84", "query": "Do JWT tokens for deleted or downgraded link shares still remain valid for 72 hours after changes are made?"}
+{"id": "GHSA-95h2-gj7x-gx9w", "query": "Has the issue where screenshots can be accessed without authorization been fixed in the latest software update?"}
+{"id": "GHSA-3j8v-cgw4-2g6q", "query": "Has the issue with valid authentication requests failing 50% of the time due to certain RegExp modifiers been fixed?"}
+{"id": "GHSA-hqxq-hwqf-wg83", "query": "Can a user still soft-delete synced non-manual transactions through the update endpoint, bypassing the normal deletion protection?"}
+{"id": "GHSA-w8rr-5gcm-pp58", "query": "Has the issue where the OTLP HTTP exporter reads the full HTTP response into memory without a size limit, potentially causing memory exhaustion, been fixed?"}
+{"id": "GHSA-fjpj-6qcq-6pw2", "query": "Can pages still be edited to inject arbitrary JavaScript that executes in visitors' browsers due to missing HTML sanitization?"}
+{"id": "GHSA-7cm9-v848-cfh2", "query": "Can an admin still inject JavaScript code into the user management page by adding malicious input to the blacklist note field?"}
+{"id": "GHSA-x3hr-cp7x-44r2", "query": "Can HTML-entity-encoded JavaScript injected via an iframe's srcdoc attribute still execute in the parent page's context after the latest updates?"}
+{"id": "GHSA-9rxp-f27p-wv3h", "query": "Can users with limited file editor permissions still access and modify sensitive files like .env and composer.json through the API?"}
+{"id": "GHSA-qj83-cq47-w5f8", "query": "Can a malicious server still crash the client through concurrent session closures in the latest version of Axios?"}
+{"id": "GHSA-v273-448j-v4qj", "query": "Has the issue where renderFile can access files outside the specified root directory been fixed in a newer version of liquidjs?"}
+{"id": "GHSA-rv5g-f82m-qrvv", "query": "Can the sort_natural filter still bypass security options and expose sensitive prototype properties through a sorting side-channel attack?"}
+{"id": "GHSA-5mwj-v5jw-5c97", "query": "Can authentication be bypassed on protected webapi routes by forging an X-lobe-chat-auth header using the hardcoded XOR key?"}
+{"id": "GHSA-w8wv-vfpc-hw2w", "query": "Has the issue with upload filename sanitization allowing arbitrary file writes on Windows using backslashes been fixed?"}
+{"id": "GHSA-3xxc-pwj6-jgrj", "query": "Has the issue where an attacker can impersonate a trusted TimeStamping Authority by appending a spoofed certificate been fixed?"}
+{"id": "GHSA-r5rp-j6wh-rvv4", "query": "Has the issue with cookie name normalization allowing attackers to override legitimate cookies with specially crafted names been fixed?"}
+{"id": "GHSA-xpcf-pg52-r92g", "query": "Has the issue with IPv4 rules not matching IPv4-mapped IPv6 addresses been fixed?"}
+{"id": "GHSA-xf4j-xp2r-rqqx", "query": "Can files still be written outside the output directory using specially crafted dynamic route parameters during static site generation?"}
+{"id": "GHSA-wmmm-f939-6g9c", "query": "Has the issue with serveStatic allowing access to protected files using repeated slashes in the request path been fixed?"}
+{"id": "GHSA-92pp-h63x-v22m", "query": "Can using repeated slashes in a request path still bypass authorization middleware and access protected static files?"}
+{"id": "GHSA-h336-2wxm-pr6q", "query": "Can unauthorized users still access task metadata without logging in through the task polling endpoints?"}
+{"id": "GHSA-5f5r-95pg-xrpm", "query": "Can authenticated users still access any system's containers by guessing or enumerating the system and container IDs?"}
+{"id": "GHSA-6wgr-89rj-399p", "query": "Has the issue with Wasmtime's pooling allocator leaking linear memory contents between instances been fixed?"}
+{"id": "GHSA-hfr4-7c6c-48w2", "query": "Has the issue with cloning a wasmtime Linker causing a use-after-free bug and potential segfault been fixed?"}
+{"id": "GHSA-m9w2-8782-2946", "query": "Has the issue with Wasmtime's Winch compiler disclosing host stack data to WebAssembly guests due to incorrect table size handling been fixed?"}
+{"id": "GHSA-f37v-82c4-4x64", "query": "Has the issue where reading a corrupted image from the clipboard crashes the app been fixed in our current software version?"}
+{"id": "GHSA-3h9h-qfvw-98hq", "query": "Has the issue with the unpacker using uninitialized memory from a scratch buffer been fixed in the latest version of openexr?"}
+{"id": "GHSA-vr5f-2r24-w5hc", "query": "Can files still be uploaded with a mismatched Content-Type header that differs from their filename extension?"}
+{"id": "GHSA-8x5q-pvf5-64mp", "query": "Has the issue with offscreen rendering causing a crash or memory corruption when a released texture is accessed after its native state is freed been fixed in our current version?"}
+{"id": "GHSA-8jr8-v43g-5c57", "query": "Has the issue with unsanitized IMAP search commands allowing mail search injection or CSRF bypass been fixed?"}
+{"id": "GHSA-rxj3-rrwm-pj4r", "query": "Has the issue with unauthenticated attackers being able to write files arbitrarily via crafted session data been fixed in the latest Roundcube Webmail version?"}
+{"id": "GHSA-qh3j-mrg8-f234", "query": "Can a user still exploit the JSON-patch endpoint to read internal Node functions by targeting the prototype with a crafted \"from\" property?"}
+{"id": "GHSA-jfqx-fxh3-c62j", "query": "Has the issue where the app's executable path is written to the Run registry key without quoting when setting login item settings been fixed?"}
+{"id": "GHSA-xw45-cc32-442f", "query": "Can a NetworkManager still modify a subscriber's policy using a different IMSI in the request body than in the URL path?"}
+{"id": "GHSA-63hf-3vf5-4wqf", "query": "Has the issue with the C parser accepting null bytes and control characters in response headers been fixed in the latest version?"}
+{"id": "GHSA-mwh4-6h8g-pg8w", "query": "Has the issue where an attacker can inject extra headers by manipulating the reason parameter in a response been fixed?"}
+{"id": "GHSA-966j-vmvw-g2g9", "query": "Does the latest version of aiohttp still drop the Authorization header but retain sensitive Cookie and Proxy-Authorization headers when following redirects to a different origin?"}
+{"id": "GHSA-qxgf-hmcj-3xw3", "query": "Can the gateway still fetch internal URLs through the image pipeline after updating to the latest version?"}
+{"id": "GHSA-gm2x-2g9h-ccm8", "query": "Has the issue with go-git's index decoder causing a runtime panic when reading a maliciously crafted index file been fixed?"}
+{"id": "GHSA-w73w-g5xw-rwhf", "query": "Can an attacker create multiple sessions using a single MFA recovery code by sending concurrent login requests?"}
+{"id": "GHSA-w9f8-gxf9-rhvw", "query": "Can authenticated users still read others' private memories through the collection query API?"}
+{"id": "GHSA-pw7h-9g6p-c378", "query": "Has the issue where empty allowlists are treated as unset and silently undo deny-all revocations been fixed in our current version?"}
+{"id": "GHSA-7pq3-326h-f8q9", "query": "Can files still be written outside the config directory by manipulating zip entry names to bypass sanitization and achieve remote code execution?"}
+{"id": "GHSA-283w-xf3q-788v", "query": "Has the issue with improper validation been fixed in our current software version?"}
+{"id": "GHSA-2299-ghjr-6vjp", "query": "Can an attacker reuse a single MFA recovery code multiple times by sending concurrent login requests with a user's password?"}
+{"id": "GHSA-vgjg-248p-rfm2", "query": "Can a low-privileged user still access private asset editor metadata without authorization by calling the image-editor endpoint with a restricted asset ID?"}
+{"id": "GHSA-5pgf-h923-m958", "query": "Can anonymous users still fetch transformed image bytes from private assets without authentication?"}
+{"id": "GHSA-gmfg-3v4q-9qr4", "query": "Has the issue with the Content Security Policy template being modified to allow unsafe scripts been fixed?"}
+{"id": "GHSA-5239-wwwm-4pmq", "query": "Has the inefficient regular expression complexity issue in AdlLexer been fixed in the latest pygments version?"}
+{"id": "GHSA-2j6q-whv2-gh6w", "query": "Has the issue where middleware runs on unrelated routes due to a simple path prefix check been fixed?"}
+{"id": "GHSA-rfx7-8w68-q57q", "query": "Has the issue where authenticated users can bypass key-level authorization using nested transactions been fixed in the latest etcd version?"}
+{"id": "GHSA-6hcq-hmm3-jj3c", "query": "Has a fix been released for the issue where Server-Sent Events can cause stream corruption in Spring MVC and WebFlux applications?"}
+{"id": "GHSA-xx5w-cvp6-jv83", "query": "Has the issue where Wasm guest code can access host memory outside its sandbox using the Winch compiler been fixed?"}
+{"id": "GHSA-jhxm-h53p-jm7w", "query": "Has the issue with Wasmtime's Cranelift backend allowing guest modules to bypass bounds checks and access arbitrary host memory been fixed?"}
+{"id": "GHSA-65w6-pf7x-5g85", "query": "Has the issue where unauthenticated users can bypass access controls and modify documents in Puck-registered collections been fixed?"}
+{"id": "GHSA-3g6g-gq4r-xjm9", "query": "Has the issue with user inputs being directly interpolated into shell commands in GitHub Actions workflows been fixed?"}
+{"id": "GHSA-rp9m-7r4c-75qg", "query": "Has the issue where custom cache keys can cause valid tokens to return claims from other tokens been fixed?"}
+{"id": "GHSA-9cqf-439c-j96r", "query": "Has the issue with Kedro's logging config allowing arbitrary system command execution during startup been fixed in our current version?"}
+{"id": "GHSA-mvf2-f6gm-w987", "query": "Can leading whitespace in a key string still bypass the public key validation and enable a JWT algorithm confusion attack?"}
+{"id": "GHSA-rpjr-985c-qhvm", "query": "Has the issue with malicious JavaScript code being stored and executed when administrators view group and role settings been fixed?"}
+{"id": "GHSA-v77r-xg3p-75g7", "query": "Has the issue with unsanitized JavaScript input in Methods Management fields being executed across all pages been fixed?"}
+{"id": "GHSA-hc5h-pmr3-3497", "query": "Can a user with pairing privileges but not admin privileges still approve device requests for broader scopes, including admin access?"}
+{"id": "GHSA-rvhj-8chj-8v3c", "query": "Has the issue with shell commands being executed without sanitization when serving models with enable_mlserver=True been fixed?"}
+{"id": "GHSA-vr79-8m62-wh98", "query": "Can making an unauthenticated POST request to the `/loadIG` endpoint still allow an attacker to steal authentication tokens by redirecting to a malicious URL?"}
+{"id": "GHSA-r23q-823p-vmf7", "query": "Has the issue where MLflow executes arbitrary commands from a model's python_env.yaml file without sanitization been fixed in our current version?"}
+{"id": "GHSA-vhcx-3pq2-4fvc", "query": "Has the issue of tar.gz files overwriting arbitrary files due to lack of path validation during extraction been fixed in the latest version?"}
+{"id": "GHSA-gwhv-j974-6fxm", "query": "Has the issue of user-controlled input being interpreted as raw SQL query fragments in MikroORM been fixed?"}
+{"id": "GHSA-q4q8-7f2j-9h9f", "query": "Can an attacker still overwrite arbitrary host files by manipulating systemd credential names to escape the container's credentials directory?"}
+{"id": "GHSA-83xr-5xxr-mh92", "query": "Can templates still read and write files anywhere on the host server with root privileges?"}
+{"id": "GHSA-hc36-c89j-5f4j", "query": "Has the issue with unverified certifier signatures being persisted when acquiring a certificate been fixed in the current version?"}
+{"id": "GHSA-gpj5-g38j-94v9", "query": "Has the issue with Drizzle ORM allowing SQL injection by not escaping identifier delimiters been fixed?"}
+{"id": "GHSA-6c37-7w4p-jg9v", "query": "Has the issue with shell commands being constructed without proper sanitization of configuration values been fixed?"}
+{"id": "GHSA-7526-j432-6ppp", "query": "Has the issue of auto-created proxy-auth users inheriting execution rights from global defaults been fixed?"}
+{"id": "GHSA-v9w4-gm2x-6rvf", "query": "Has the issue where revoked user permissions don't restrict access to existing public share links been fixed?"}
+{"id": "GHSA-fmwg-qcqh-m992", "query": "Has the issue with user-supplied scope patterns causing workers to hang indefinitely due to infinite backtracking been fixed?"}
+{"id": "GHSA-q4gv-pjmh-c735", "query": "Has a fix been released to prevent managed cluster admins from forging client certificates to escalate privileges across clusters?"}
+{"id": "GHSA-9jpj-g8vv-j5mf", "query": "Has the issue where the OAuth state value exposes the PKCE verifier in the redirect URL been fixed in the current version?"}
+{"id": "GHSA-mcww-4hxq-hfr3", "query": "Can tokens still be forged using the default secret if the TOKEN_SECRET environment variable is not set?"}
+{"id": "GHSA-38hg-ww64-rrwc", "query": "Has the issue with aggregate functions returning unmasked values for concealed fields, like API tokens, been fixed?"}
+{"id": "GHSA-qqmv-5p3g-px89", "query": "Can users with basic file upload permissions still overwrite any existing file by UUID through the TUS resumable upload endpoint?"}
+{"id": "GHSA-wv3h-5fx7-966h", "query": "Has the issue where IPv4-Mapped IPv6 addresses can bypass the private network request block been fixed in the latest version?"}
+{"id": "GHSA-8m32-p958-jg99", "query": "Has the issue with the login page allowing malicious windows to intercept OAuth authorization flows been fixed?"}
+{"id": "GHSA-v959-cwq9-7hr6", "query": "Has the issue with arbitrary Python code execution from user-provided templates during containerization been fixed?"}
+{"id": "GHSA-fgv4-6jr3-jgfw", "query": "Has the issue of command injection via unquoted system packages in cloud deployment scripts been fully resolved?"}
+{"id": "GHSA-99j8-wv67-4c72", "query": "Can a developer with create permission in one namespace still exfiltrate secrets from other namespaces using a single kubectl apply?"}
+{"id": "GHSA-f984-pcp8-v2p7", "query": "Has the issue with Wasmtime's table.grow operator causing incorrect typing and potential out-of-bounds memory access been fixed?"}
+{"id": "GHSA-394w-hwhg-8vgm", "query": "Has the issue where a guest component can cause the host to write arbitrary data to any location in memory been fixed in Wasmtime?"}
+{"id": "GHSA-q49f-xg75-m9xw", "query": "Has the issue causing the host to panic when compiling valid guest code with the `table.fill` instruction been fixed?"}
+{"id": "GHSA-qqfj-4vcm-26hv", "query": "Has the issue with Wasmtime loading extra bytes from memory when compiling the f64x2.splat instruction without SSE3 been fixed?"}
+{"id": "GHSA-m758-wjhj-p3jq", "query": "Has the issue with Wasmtime panicking when lifting flags-typed values with ignored bits been fixed in the latest version?"}
+{"id": "GHSA-jxhv-7h78-9775", "query": "Has the issue with Wasmtime's string transcoding causing host panics from unaligned pointers been fixed in the latest version?"}
+{"id": "GHSA-hx6p-xpx3-jvvv", "query": "Has the issue where Wasmtime reads beyond a WebAssembly's memory bounds when transcoding UTF-16 strings been fixed?"}
+{"id": "GHSA-w6c6-c85g-mmv6", "query": "Has the issue with cosign verify-blob-attestation incorrectly validating malformed payloads been fixed?"}
+{"id": "GHSA-hxf2-gm22-7vcm", "query": "Can URL-encoded paths still bypass configuration name validation and allow reading files outside the intended directory?"}
+{"id": "GHSA-67cg-cpj7-qgc9", "query": "Has the issue where users can read text files without download permission been fixed?"}
+{"id": "GHSA-5q48-q4fm-g3m6", "query": "Has the issue where access rules for a directory also match unintended subdirectories been fixed?"}
+{"id": "GHSA-cpm7-cfpx-3hvp", "query": "Can links in the navigation template still execute JavaScript code when an administrator injects a javascript: URI into the href attribute?"}
+{"id": "GHSA-mmg9-6m6j-jqqx", "query": "Has the issue with the replace filter allowing attackers to bypass memory limits and cause out-of-memory conditions been fixed?"}
+{"id": "GHSA-9899-m83m-qhpj", "query": "Has the issue where an app can access a USB device not matching the requested filters been fixed in our current Electron version?"}
+{"id": "GHSA-3wq7-rqq7-wx6j", "query": "Has the issue where aiohttp reads large multipart form fields into memory before checking size limits been fixed?"}
+{"id": "GHSA-2vrm-gr82-f7m5", "query": "Has the issue where an attacker can inject extra headers by manipulating the content_type parameter in aiohttp been fixed?"}
+{"id": "GHSA-hcc4-c3v8-rx92", "query": "Has the issue with the DNS cache growing indefinitely and using excessive memory when making requests to many hosts been fixed?"}
